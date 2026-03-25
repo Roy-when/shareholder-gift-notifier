@@ -1,38 +1,30 @@
-name: Daily Shareholder Gift Notifier
+name: 每日股東紀念品同步到 Notion
 
 on:
   schedule:
-    - cron: '0 1 * * *'           # UTC 01:00 = 台灣時間 09:00
-  workflow_dispatch:              # 允許手動測試
+    # 每天台灣時間 08:00 執行（UTC+8，所以 UTC 是 00:00）
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # 保留手動觸發按鈕，方便測試
 
 jobs:
-  notify:
+  sync:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6          # ← 已更新至 v6（支援 Node.js 24）
+      - name: 取得程式碼
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v6      # ← 已更新至 v6（支援 Node.js 24）
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.11"
 
-      - name: Install dependencies
+      - name: 安裝套件
         run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas python-dotenv openpyxl
+          pip install requests beautifulsoup4 pandas notion-client python-dotenv openpyxl
 
-      - name: Run notification script
+      - name: 執行同步腳本
         env:
-          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
-          GROUP_ID: ${{ secrets.GROUP_ID }}
-        run: python shareholder_gift_notifier.py
-
-      - name: Upload generated Excel (for debugging)
-        if: always()
-        uses: actions/upload-artifact@v6   # ← 已更新至 v6（支援 Node.js 24）
-        with:
-          name: daily-gift-list
-          path: 股東紀念品_*.xlsx
-          retention-days: 7
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python temp.py
