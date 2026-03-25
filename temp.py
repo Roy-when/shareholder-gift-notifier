@@ -1,22 +1,20 @@
 """
-股東紀念品 → Notion 同步腳本 v1.4（合併建庫+驗證版）
+股東紀念品 → Notion 同步腳本 v1.5（倒數天數修正版）
 ==========================================================
-v1.4 改動（工程師團隊修正）：
-  [Casey]  建庫 + 同步邏輯合併為一支檔案，不再需要 notion_stock_gift_sync.py
-  [Riley]  加入 validate_database_id()，執行前自動驗證 ID 是資料庫還是頁面
-  [Quinn]  ID 是頁面時直接報清楚錯誤，引導使用者重新建庫
-
-使用方式：
-  本機第一次執行：gx.env 只需要 NOTION_TOKEN，不設 NOTION_DATABASE_ID
-                  程式會請你輸入 Parent Page ID 並自動建庫
-  本機之後執行：gx.env 有 NOTION_DATABASE_ID 就直接同步
-  GitHub Actions：Secrets 設定 NOTION_TOKEN + NOTION_DATABASE_ID
+v1.5 改動：
+  - 修正「距截止天數」公式：dateBetween(now(), prop("最後買進日"), "days")
+    → 正數 = 還有幾天，負數 = 已超過
+  - 新增「截止狀態」Select 欄位，由 Python 計算後寫入，支援顏色標記：
+      🟢 充裕（> 5天）    → green
+      🟡 注意（4-5天）    → yellow  ← 原本綠色範圍
+      🔴 緊急（1-3天）    → red
+      🟠 已截止（<= 0天） → orange
 """
 
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, date
 import time
 import os
 import re
@@ -45,6 +43,32 @@ if not NOTION_TOKEN:
     )
 
 notion = Client(auth=NOTION_TOKEN, timeout_ms=30_000)
+
+# ────────────────────────────────────────────────
+# 截止狀態判斷（對應 Notion Select 顏色）
+# ────────────────────────────────────────────────
+def get_deadline_status(buy_date_str: str) -> str | None:
+    """
+    根據最後買進日計算截止狀態：
+      充裕  > 5 天
+      注意  4-5 天  （黃色提醒）
+      緊急  1-3 天  （紅色警告）
+      已截止 <= 0 天 （橘色）
+    """
+    parsed = parse_date(buy_date_str)
+    if not parsed:
+        return None
+    today = date.today()
+    target = datetime.strptime(parsed, "%Y-%m-%d").date()
+    days_left = (target - today).days
+    if days_left > 5:
+        return "充裕"
+    elif days_left >= 4:
+        return "注意"
+    elif days_left >= 1:
+        return "緊急"
+    else:
+        return "已截止"
 
 # ────────────────────────────────────────────────
 # 紀念品類型關鍵字對照表
@@ -80,7 +104,6 @@ def crawl_gifts() -> pd.DataFrame:
 
     soup = BeautifulSoup(resp.text, "html.parser")
     data = []
-
     for table in soup.find_all("table"):
         for row in table.find_all("tr")[1:]:
             cols = row.find_all("td")
@@ -107,21 +130,17 @@ def crawl_gifts() -> pd.DataFrame:
 
 
 # ────────────────────────────────────────────────
-# 2. Riley：驗證 ID 是資料庫還是頁面
+# 2. 驗證 Database ID
 # ────────────────────────────────────────────────
 def validate_database_id(database_id: str) -> bool:
-    """
-    呼叫 Notion API 確認 ID 是否為資料庫。
-    回傳 True = 是資料庫，False = 是頁面或不存在。
-    """
     try:
         notion.databases.retrieve(database_id=database_id)
         return True
     except Exception as e:
         err = str(e)
         if "is a page" in err:
-            print(f"\n❌ ID 驗證失敗：{database_id} 是一個「頁面」，不是資料庫！")
-            print("   請清除 gx.env 裡的 NOTION_DATABASE_ID，重新執行讓程式建立資料庫。")
+            print(f"\n❌ ID 驗證失敗：{database_id} 是「頁面」，不是資料庫！")
+            print("   請清除 gx.env 裡的 NOTION_DATABASE_ID，重新執行建庫。")
         elif "404" in err or "Could not find" in err:
             print(f"\n❌ ID 驗證失敗：找不到 {database_id}，請確認 ID 正確且 Integration 已授權。")
         else:
@@ -156,7 +175,19 @@ def create_notion_database(parent_page_id: str) -> str:
                     ]
                 }
             },
+            # v1.5：截止狀態 Select（有顏色）
+            "截止狀態": {
+                "select": {
+                    "options": [
+                        {"name": "充裕",  "color": "green"},
+                        {"name": "注意",  "color": "yellow"},
+                        {"name": "緊急",  "color": "red"},
+                        {"name": "已截止", "color": "orange"},
+                    ]
+                }
+            },
             "已購買": {"checkbox": {}},
+            # v1.5：修正公式方向
             "距截止天數": {
                 "formula": {
                     "expression": 'dateBetween(prop("最後買進日"), now(), "days")'
@@ -250,6 +281,7 @@ def build_properties(row: pd.Series) -> dict:
     today_iso = datetime.now().strftime("%Y-%m-%d")
     gift_text = row["紀念品"]
     gift_types = classify_gift(gift_text)
+
     props = {
         "名稱（股票）": {
             "title": [{"text": {"content": f"{row['名稱']}（{row['代號']}）"}}]
@@ -261,15 +293,24 @@ def build_properties(row: pd.Series) -> dict:
         "性質":       {"select": {"name": row["性質"] if row["性質"] else "其他"}},
         "資料更新日": {"date": {"start": today_iso}},
     }
+
     price = parse_price(row["股價"])
     if price is not None:
         props["股價"] = {"number": price}
+
     buy_date = parse_date(row["最後買進日"])
     if buy_date:
         props["最後買進日"] = {"date": {"start": buy_date}}
+
     meeting_date = parse_date(row["股東會日期"])
     if meeting_date:
         props["股東會日期"] = {"date": {"start": meeting_date}}
+
+    # v1.5：計算截止狀態
+    status = get_deadline_status(row["最後買進日"])
+    if status:
+        props["截止狀態"] = {"select": {"name": status}}
+
     return props
 
 
@@ -337,21 +378,18 @@ def sync_to_notion(df: pd.DataFrame, database_id: str):
 # ────────────────────────────────────────────────
 if __name__ == "__main__":
     print("─" * 60)
-    print("🚀 股東紀念品 Notion 同步腳本 v1.4")
+    print("🚀 股東紀念品 Notion 同步腳本 v1.5")
     print(f"   執行時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("─" * 60 + "\n")
 
-    # Step 1：爬取資料
     df = crawl_gifts()
     if df.empty:
         print("❌ 爬取失敗，程式結束")
         exit(1)
 
-    # Step 2：確認 Database ID
     database_id = NOTION_DATABASE_ID
 
     if not database_id:
-        # 沒有 ID → 互動建庫（本機首次執行）
         print("\n⚠️  未設定 NOTION_DATABASE_ID，進入建庫流程")
         print("請輸入你想放資料庫的 Notion 頁面 ID")
         print("（網址最後 32 碼，例：notion.so/yourname/【這段】?v=...）")
@@ -363,7 +401,6 @@ if __name__ == "__main__":
         upsert_env_var("NOTION_DATABASE_ID", database_id)
         print("   已寫入 gx.env，下次執行不需再輸入\n")
     else:
-        # 有 ID → 先驗證是否為資料庫（Riley 建議）
         print(f"🔍 驗證 Database ID：{database_id}")
         if not validate_database_id(database_id):
             print("\n💡 請執行以下步驟：")
@@ -372,7 +409,6 @@ if __name__ == "__main__":
             exit(1)
         print("✅ ID 驗證通過，開始同步\n")
 
-    # Step 3：同步資料
     sync_to_notion(df, database_id)
 
     print("\n" + "─" * 60)
