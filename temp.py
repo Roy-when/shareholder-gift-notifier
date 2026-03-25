@@ -1,11 +1,16 @@
 """
-股東紀念品 → Notion 同步腳本 v1.3（逾時保護版）
+股東紀念品 → Notion 同步腳本 v1.4（合併建庫+驗證版）
 ==========================================================
-v1.3 改動：
-  - Notion Client 加入 timeout=30，防止單筆 API 呼叫無限等待卡住
-  - 加入 retry 機制，失敗自動重試最多 2 次（處理偶發性網路抖動）
-  - 每 20 筆印出進度，方便在 GitHub Actions log 確認是否正常推進
-  - 首次執行（全部新增）跳過 retrieve，減少 API 呼叫次數加快速度
+v1.4 改動（工程師團隊修正）：
+  [Casey]  建庫 + 同步邏輯合併為一支檔案，不再需要 notion_stock_gift_sync.py
+  [Riley]  加入 validate_database_id()，執行前自動驗證 ID 是資料庫還是頁面
+  [Quinn]  ID 是頁面時直接報清楚錯誤，引導使用者重新建庫
+
+使用方式：
+  本機第一次執行：gx.env 只需要 NOTION_TOKEN，不設 NOTION_DATABASE_ID
+                  程式會請你輸入 Parent Page ID 並自動建庫
+  本機之後執行：gx.env 有 NOTION_DATABASE_ID 就直接同步
+  GitHub Actions：Secrets 設定 NOTION_TOKEN + NOTION_DATABASE_ID
 """
 
 import requests
@@ -19,7 +24,7 @@ from dotenv import load_dotenv
 from notion_client import Client
 
 # ────────────────────────────────────────────────
-# 載入環境變數（本機讀 gx.env，GitHub Actions 讀 Secrets）
+# 載入環境變數
 # ────────────────────────────────────────────────
 load_dotenv(dotenv_path="gx.env")
 
@@ -30,7 +35,7 @@ HEADERS = {
 }
 
 NOTION_TOKEN = os.getenv("NOTION_TOKEN")
-NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")
+NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID", "").strip()
 
 if not NOTION_TOKEN:
     raise ValueError(
@@ -39,16 +44,6 @@ if not NOTION_TOKEN:
         "GitHub Actions：請在 Secrets 加入 NOTION_TOKEN"
     )
 
-if not NOTION_DATABASE_ID:
-    raise ValueError(
-        "缺少 NOTION_DATABASE_ID！\n"
-        "請先在本機執行一次 v1.1 版建立資料庫，\n"
-        "再將產生的 Database ID 填入：\n"
-        "  本機：gx.env 的 NOTION_DATABASE_ID=xxx\n"
-        "  GitHub Actions：Settings → Secrets → NOTION_DATABASE_ID"
-    )
-
-# v1.3：加入 timeout=30，防止 API 無限等待卡住
 notion = Client(auth=NOTION_TOKEN, timeout_ms=30_000)
 
 # ────────────────────────────────────────────────
@@ -112,7 +107,96 @@ def crawl_gifts() -> pd.DataFrame:
 
 
 # ────────────────────────────────────────────────
-# 2. 輔助函式：日期 & 股價解析
+# 2. Riley：驗證 ID 是資料庫還是頁面
+# ────────────────────────────────────────────────
+def validate_database_id(database_id: str) -> bool:
+    """
+    呼叫 Notion API 確認 ID 是否為資料庫。
+    回傳 True = 是資料庫，False = 是頁面或不存在。
+    """
+    try:
+        notion.databases.retrieve(database_id=database_id)
+        return True
+    except Exception as e:
+        err = str(e)
+        if "is a page" in err:
+            print(f"\n❌ ID 驗證失敗：{database_id} 是一個「頁面」，不是資料庫！")
+            print("   請清除 gx.env 裡的 NOTION_DATABASE_ID，重新執行讓程式建立資料庫。")
+        elif "404" in err or "Could not find" in err:
+            print(f"\n❌ ID 驗證失敗：找不到 {database_id}，請確認 ID 正確且 Integration 已授權。")
+        else:
+            print(f"\n❌ ID 驗證失敗：{e}")
+        return False
+
+
+# ────────────────────────────────────────────────
+# 3. 建立 Notion 資料庫（首次執行）
+# ────────────────────────────────────────────────
+def create_notion_database(parent_page_id: str) -> str:
+    print("🏗️  正在建立 Notion 資料庫...")
+    db = notion.databases.create(
+        parent={"type": "page_id", "page_id": parent_page_id},
+        title=[{"type": "text", "text": {"content": "📋 股東紀念品追蹤"}}],
+        properties={
+            "名稱（股票）": {"title": {}},
+            "代號":         {"rich_text": {}},
+            "開會地點":     {"rich_text": {}},
+            "紀念品":       {"rich_text": {}},
+            "紀念品類型":   {"multi_select": {}},
+            "股價":         {"number": {"format": "number"}},
+            "最後買進日":   {"date": {}},
+            "股東會日期":   {"date": {}},
+            "資料更新日":   {"date": {}},
+            "性質": {
+                "select": {
+                    "options": [
+                        {"name": "股東常會",   "color": "blue"},
+                        {"name": "股東臨時會", "color": "yellow"},
+                        {"name": "其他",       "color": "gray"},
+                    ]
+                }
+            },
+            "已購買": {"checkbox": {}},
+            "距截止天數": {
+                "formula": {
+                    "expression": 'dateBetween(prop("最後買進日"), now(), "days")'
+                }
+            },
+        },
+    )
+    database_id = db["id"]
+    print(f"✅ 資料庫建立完成！")
+    print(f"   Database ID：{database_id}")
+    return database_id
+
+
+# ────────────────────────────────────────────────
+# 4. 安全寫入 gx.env
+# ────────────────────────────────────────────────
+def upsert_env_var(key: str, value: str, env_path: str = "gx.env"):
+    lines = []
+    found = False
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+    new_lines = []
+    for line in lines:
+        if line.startswith(f"{key}="):
+            new_lines.append(f"{key}={value}\n")
+            found = True
+        else:
+            new_lines.append(line)
+    if not found:
+        if new_lines and not new_lines[-1].endswith("\n"):
+            new_lines.append("\n")
+        new_lines.append(f"{key}={value}\n")
+    with open(env_path, "w", encoding="utf-8") as f:
+        f.writelines(new_lines)
+    print(f"✅ 已將 {key} 寫入 gx.env")
+
+
+# ────────────────────────────────────────────────
+# 5. 輔助函式：日期 & 股價解析
 # ────────────────────────────────────────────────
 def parse_date(date_str: str):
     date_str = date_str.strip()
@@ -139,7 +223,7 @@ def parse_price(price_str: str):
 
 
 # ────────────────────────────────────────────────
-# 3. 查詢現有資料庫中的股票代號（避免重複新增）
+# 6. 查詢現有資料庫中的股票代號
 # ────────────────────────────────────────────────
 def get_existing_codes(database_id: str) -> dict:
     existing = {}
@@ -160,13 +244,12 @@ def get_existing_codes(database_id: str) -> dict:
 
 
 # ────────────────────────────────────────────────
-# 4. 建立單筆 Notion 屬性
+# 7. 建立單筆 Notion 屬性
 # ────────────────────────────────────────────────
 def build_properties(row: pd.Series) -> dict:
     today_iso = datetime.now().strftime("%Y-%m-%d")
     gift_text = row["紀念品"]
     gift_types = classify_gift(gift_text)
-
     props = {
         "名稱（股票）": {
             "title": [{"text": {"content": f"{row['名稱']}（{row['代號']}）"}}]
@@ -174,43 +257,31 @@ def build_properties(row: pd.Series) -> dict:
         "代號":     {"rich_text": [{"text": {"content": row["代號"]}}]},
         "開會地點": {"rich_text": [{"text": {"content": row["開會地點"]}}]},
         "紀念品":   {"rich_text": [{"text": {"content": gift_text}}]},
-        "紀念品類型": {
-            "multi_select": [{"name": t} for t in gift_types]
-        },
+        "紀念品類型": {"multi_select": [{"name": t} for t in gift_types]},
         "性質":       {"select": {"name": row["性質"] if row["性質"] else "其他"}},
         "資料更新日": {"date": {"start": today_iso}},
     }
-
     price = parse_price(row["股價"])
     if price is not None:
         props["股價"] = {"number": price}
-
     buy_date = parse_date(row["最後買進日"])
     if buy_date:
         props["最後買進日"] = {"date": {"start": buy_date}}
-
     meeting_date = parse_date(row["股東會日期"])
     if meeting_date:
         props["股東會日期"] = {"date": {"start": meeting_date}}
-
     return props
 
 
 # ────────────────────────────────────────────────
-# 5. 單筆同步（含 retry）
+# 8. 單筆同步（含 retry）
 # ────────────────────────────────────────────────
 def sync_one(row: pd.Series, existing: dict, database_id: str, max_retry: int = 2) -> str:
-    """
-    同步單筆資料，失敗自動重試。
-    回傳 'created' / 'updated' / 'failed'
-    """
     code = row["代號"]
     props = build_properties(row)
-
     for attempt in range(max_retry + 1):
         try:
             if code in existing:
-                # 更新：先讀取保留「已購買」狀態，再寫入
                 page_id = existing[code]
                 current = notion.pages.retrieve(page_id)
                 is_purchased = current["properties"]["已購買"]["checkbox"]
@@ -218,17 +289,15 @@ def sync_one(row: pd.Series, existing: dict, database_id: str, max_retry: int = 
                 notion.pages.update(page_id=page_id, properties=props)
                 return "updated"
             else:
-                # 新增
                 props["已購買"] = {"checkbox": False}
                 notion.pages.create(
                     parent={"database_id": database_id},
                     properties=props,
                 )
                 return "created"
-
         except Exception as e:
             if attempt < max_retry:
-                wait = 2 ** attempt  # 指數退避：1s, 2s
+                wait = 2 ** attempt
                 print(f"  ⚠️  {code} 第 {attempt+1} 次失敗，{wait}s 後重試：{e}")
                 time.sleep(wait)
             else:
@@ -237,44 +306,30 @@ def sync_one(row: pd.Series, existing: dict, database_id: str, max_retry: int = 
 
 
 # ────────────────────────────────────────────────
-# 6. 同步資料到 Notion
+# 9. 同步資料到 Notion
 # ────────────────────────────────────────────────
 def sync_to_notion(df: pd.DataFrame, database_id: str):
     if df.empty:
         print("⚠️  無資料可同步")
         return
-
     total = len(df)
     print(f"🔄 正在同步 {total} 筆資料到 Notion...")
     existing = get_existing_codes(database_id)
     print(f"   資料庫現有 {len(existing)} 筆，開始逐筆同步...\n")
-
-    created, updated, failed = 0, 0, 0
-    parse_failed_count = 0
-
+    created, updated, failed, parse_failed = 0, 0, 0, 0
     for i, (_, row) in enumerate(df.iterrows(), start=1):
-
         if parse_date(row["最後買進日"]) is None and row["最後買進日"].strip():
-            parse_failed_count += 1
-
+            parse_failed += 1
         result = sync_one(row, existing, database_id)
-        if result == "created":
-            created += 1
-        elif result == "updated":
-            updated += 1
-        else:
-            failed += 1
-
-        # v1.3：每 20 筆印出進度，確認 GitHub Actions log 有在推進
+        if result == "created":   created += 1
+        elif result == "updated": updated += 1
+        else:                     failed += 1
         if i % 20 == 0 or i == total:
             print(f"   進度：{i}/{total}  ✅新增 {created}  🔄更新 {updated}  ❌失敗 {failed}")
-
-        time.sleep(0.7)  # retrieve+update 連發，0.7s 安全間隔
-
+        time.sleep(0.7)
     print(f"\n📊 同步完成：新增 {created} 筆 ｜ 更新 {updated} 筆 ｜ 失敗 {failed} 筆")
-
-    if parse_failed_count > 0:
-        print(f"⚠️  有 {parse_failed_count} 筆「最後買進日」格式無法解析，日期欄位已略過（其他資料仍正常同步）")
+    if parse_failed > 0:
+        print(f"⚠️  有 {parse_failed} 筆「最後買進日」格式無法解析，日期欄位已略過")
 
 
 # ────────────────────────────────────────────────
@@ -282,16 +337,43 @@ def sync_to_notion(df: pd.DataFrame, database_id: str):
 # ────────────────────────────────────────────────
 if __name__ == "__main__":
     print("─" * 60)
-    print("🚀 股東紀念品 Notion 同步腳本 v1.3（逾時保護版）")
+    print("🚀 股東紀念品 Notion 同步腳本 v1.4")
     print(f"   執行時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("─" * 60 + "\n")
 
+    # Step 1：爬取資料
     df = crawl_gifts()
     if df.empty:
         print("❌ 爬取失敗，程式結束")
         exit(1)
 
-    sync_to_notion(df, NOTION_DATABASE_ID)
+    # Step 2：確認 Database ID
+    database_id = NOTION_DATABASE_ID
+
+    if not database_id:
+        # 沒有 ID → 互動建庫（本機首次執行）
+        print("\n⚠️  未設定 NOTION_DATABASE_ID，進入建庫流程")
+        print("請輸入你想放資料庫的 Notion 頁面 ID")
+        print("（網址最後 32 碼，例：notion.so/yourname/【這段】?v=...）")
+        parent_page_id = input("Parent Page ID：").strip().replace("-", "")
+        if not parent_page_id:
+            print("❌ 未輸入，程式結束")
+            exit(1)
+        database_id = create_notion_database(parent_page_id)
+        upsert_env_var("NOTION_DATABASE_ID", database_id)
+        print("   已寫入 gx.env，下次執行不需再輸入\n")
+    else:
+        # 有 ID → 先驗證是否為資料庫（Riley 建議）
+        print(f"🔍 驗證 Database ID：{database_id}")
+        if not validate_database_id(database_id):
+            print("\n💡 請執行以下步驟：")
+            print("   1. 打開 gx.env，把 NOTION_DATABASE_ID 那行刪除或清空")
+            print("   2. 重新執行此腳本，會自動進入建庫流程")
+            exit(1)
+        print("✅ ID 驗證通過，開始同步\n")
+
+    # Step 3：同步資料
+    sync_to_notion(df, database_id)
 
     print("\n" + "─" * 60)
     print("✅ 執行完成！請前往 Notion 查看資料")
