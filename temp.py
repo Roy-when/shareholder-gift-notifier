@@ -1,16 +1,11 @@
 """
-股東紀念品 → Notion 同步腳本 v1.2（GitHub Actions 專用版）
+股東紀念品 → Notion 同步腳本 v1.3（逾時保護版）
 ==========================================================
-v1.2 改動：
-  - 移除互動式 input()，改從環境變數直接讀取（相容 GitHub Actions Secrets）
-  - 移除 gx.env 寫入邏輯（CI 環境不需要）
-  - NOTION_DATABASE_ID 未設定時直接報錯提示，不卡住等待輸入
-
-本機執行：在 gx.env 設定以下兩個變數
-  NOTION_TOKEN=secret_xxxxxxxxxx
-  NOTION_DATABASE_ID=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-GitHub Actions：在 Secrets 設定同名變數即可
+v1.3 改動：
+  - Notion Client 加入 timeout=30，防止單筆 API 呼叫無限等待卡住
+  - 加入 retry 機制，失敗自動重試最多 2 次（處理偶發性網路抖動）
+  - 每 20 筆印出進度，方便在 GitHub Actions log 確認是否正常推進
+  - 首次執行（全部新增）跳過 retrieve，減少 API 呼叫次數加快速度
 """
 
 import requests
@@ -53,7 +48,8 @@ if not NOTION_DATABASE_ID:
         "  GitHub Actions：Settings → Secrets → NOTION_DATABASE_ID"
     )
 
-notion = Client(auth=NOTION_TOKEN)
+# v1.3：加入 timeout=30，防止 API 無限等待卡住
+notion = Client(auth=NOTION_TOKEN, timeout_ms=30_000)
 
 # ────────────────────────────────────────────────
 # 紀念品類型關鍵字對照表
@@ -201,48 +197,81 @@ def build_properties(row: pd.Series) -> dict:
 
 
 # ────────────────────────────────────────────────
-# 5. 同步資料到 Notion
+# 5. 單筆同步（含 retry）
+# ────────────────────────────────────────────────
+def sync_one(row: pd.Series, existing: dict, database_id: str, max_retry: int = 2) -> str:
+    """
+    同步單筆資料，失敗自動重試。
+    回傳 'created' / 'updated' / 'failed'
+    """
+    code = row["代號"]
+    props = build_properties(row)
+
+    for attempt in range(max_retry + 1):
+        try:
+            if code in existing:
+                # 更新：先讀取保留「已購買」狀態，再寫入
+                page_id = existing[code]
+                current = notion.pages.retrieve(page_id)
+                is_purchased = current["properties"]["已購買"]["checkbox"]
+                props["已購買"] = {"checkbox": is_purchased}
+                notion.pages.update(page_id=page_id, properties=props)
+                return "updated"
+            else:
+                # 新增
+                props["已購買"] = {"checkbox": False}
+                notion.pages.create(
+                    parent={"database_id": database_id},
+                    properties=props,
+                )
+                return "created"
+
+        except Exception as e:
+            if attempt < max_retry:
+                wait = 2 ** attempt  # 指數退避：1s, 2s
+                print(f"  ⚠️  {code} 第 {attempt+1} 次失敗，{wait}s 後重試：{e}")
+                time.sleep(wait)
+            else:
+                print(f"  ❌ {code} {row['名稱']} 最終失敗：{e}")
+                return "failed"
+
+
+# ────────────────────────────────────────────────
+# 6. 同步資料到 Notion
 # ────────────────────────────────────────────────
 def sync_to_notion(df: pd.DataFrame, database_id: str):
     if df.empty:
         print("⚠️  無資料可同步")
         return
 
-    print(f"🔄 正在同步 {len(df)} 筆資料到 Notion...")
+    total = len(df)
+    print(f"🔄 正在同步 {total} 筆資料到 Notion...")
     existing = get_existing_codes(database_id)
+    print(f"   資料庫現有 {len(existing)} 筆，開始逐筆同步...\n")
+
     created, updated, failed = 0, 0, 0
     parse_failed_count = 0
 
-    for _, row in df.iterrows():
-        code = row["代號"]
+    for i, (_, row) in enumerate(df.iterrows(), start=1):
 
         if parse_date(row["最後買進日"]) is None and row["最後買進日"].strip():
             parse_failed_count += 1
 
-        props = build_properties(row)
-        try:
-            if code in existing:
-                page_id = existing[code]
-                current = notion.pages.retrieve(page_id)
-                is_purchased = current["properties"]["已購買"]["checkbox"]
-                props["已購買"] = {"checkbox": is_purchased}  # 保留手動勾選狀態
-                notion.pages.update(page_id=page_id, properties=props)
-                updated += 1
-            else:
-                props["已購買"] = {"checkbox": False}
-                notion.pages.create(
-                    parent={"database_id": database_id},
-                    properties=props,
-                )
-                created += 1
-
-            time.sleep(0.7)  # retrieve+update 連發，0.7s 安全間隔
-
-        except Exception as e:
-            print(f"  ❌ {code} {row['名稱']} 失敗：{e}")
+        result = sync_one(row, existing, database_id)
+        if result == "created":
+            created += 1
+        elif result == "updated":
+            updated += 1
+        else:
             failed += 1
 
-    print(f"\n📊 同步結果：新增 {created} 筆 ｜ 更新 {updated} 筆 ｜ 失敗 {failed} 筆")
+        # v1.3：每 20 筆印出進度，確認 GitHub Actions log 有在推進
+        if i % 20 == 0 or i == total:
+            print(f"   進度：{i}/{total}  ✅新增 {created}  🔄更新 {updated}  ❌失敗 {failed}")
+
+        time.sleep(0.7)  # retrieve+update 連發，0.7s 安全間隔
+
+    print(f"\n📊 同步完成：新增 {created} 筆 ｜ 更新 {updated} 筆 ｜ 失敗 {failed} 筆")
 
     if parse_failed_count > 0:
         print(f"⚠️  有 {parse_failed_count} 筆「最後買進日」格式無法解析，日期欄位已略過（其他資料仍正常同步）")
@@ -253,7 +282,7 @@ def sync_to_notion(df: pd.DataFrame, database_id: str):
 # ────────────────────────────────────────────────
 if __name__ == "__main__":
     print("─" * 60)
-    print("🚀 股東紀念品 Notion 同步腳本 v1.2（GitHub Actions 版）")
+    print("🚀 股東紀念品 Notion 同步腳本 v1.3（逾時保護版）")
     print(f"   執行時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("─" * 60 + "\n")
 
