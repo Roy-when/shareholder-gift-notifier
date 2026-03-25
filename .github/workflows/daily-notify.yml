@@ -21,7 +21,7 @@ jobs:
 
       - name: 安裝套件
         run: |
-          pip install requests beautifulsoup4 pandas notion-client python-dotenv openpyxl
+          pip install requests beautifulsoup4 pandas "notion-client==2.2.1" python-dotenv openpyxl
 
       - name: 執行同步腳本
         env:
