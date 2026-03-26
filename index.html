@@ -42,7 +42,7 @@
   /* Cards */
   .cards { display: flex; flex-direction: column; gap: 10px; }
   .card { background: #fff; border: 1px solid #e8e6df; border-radius: 12px; padding: 13px 14px; border-left-width: 4px; transition: opacity .2s; }
-  .card.bought { opacity: 0.42; }
+  .pill.bought-pill.active { background: #3b6d11; color: #eaf3de; border-color: #3b6d11; }
   .card[data-status="緊急"]  { border-left-color: #e24b4a; }
   .card[data-status="注意"]  { border-left-color: #ef9f27; }
   .card[data-status="充裕"]  { border-left-color: #639922; }
@@ -107,6 +107,7 @@
     <button class="pill" data-filter="注意" onclick="setFilter('status','注意',this)">注意</button>
     <button class="pill" data-filter="充裕" onclick="setFilter('status','充裕',this)">充裕</button>
     <button class="pill" data-filter="已截止" onclick="setFilter('status','已截止',this)">已截止</button>
+    <button class="pill bought-pill" data-filter="bought" onclick="setFilter('status','bought',this)">已購買</button>
   </div>
 
   <div class="filter-row" id="type-filters">
@@ -139,8 +140,8 @@
       <div class="stat-label">5天內截止</div>
     </div>
     <div class="stat">
-      <div class="stat-num" id="stat-total">—</div>
-      <div class="stat-label">全部筆數</div>
+      <div class="stat-num" id="stat-total" style="color:#3b6d11;">—</div>
+      <div class="stat-label">已購買筆數</div>
     </div>
   </div>
 
@@ -181,7 +182,10 @@ function getFiltered() {
   const sort = document.getElementById('sort').value;
 
   let list = allData.filter(r => {
+    const isBought = !!bought[r.code];
     if (q && !r.code.toLowerCase().includes(q) && !r.name.toLowerCase().includes(q)) return false;
+    if (filters.status === 'bought') return isBought;
+    if (isBought) return false;  // 已購買預設隱藏
     if (filters.status !== 'all' && r.status !== filters.status) return false;
     if (filters.type !== 'all' && !r.giftTypes.includes(filters.type)) return false;
     return true;
@@ -204,9 +208,10 @@ function render() {
   // Update stats (always from full data)
   const urgent = allData.filter(r => r.daysLeft !== null && r.daysLeft >= 1 && r.daysLeft <= 3).length;
   const notice = allData.filter(r => r.daysLeft !== null && r.daysLeft >= 1 && r.daysLeft <= 5).length;
+  const boughtCount = allData.filter(r => !!bought[r.code]).length;
   document.getElementById('stat-urgent').textContent = urgent;
   document.getElementById('stat-notice').textContent = notice;
-  document.getElementById('stat-total').textContent = allData.length;
+  document.getElementById('stat-total').textContent = boughtCount;
 
   if (list.length === 0) {
     container.innerHTML = '<div class="empty">沒有符合條件的資料</div>';
@@ -217,14 +222,17 @@ function render() {
     const isBought = !!bought[r.code];
     const tags = r.giftTypes.map(t => `<span class="tag">${t}</span>`).join('');
     const priceStr = r.price != null ? `$${r.price.toFixed(1)}` : '—';
+    const statusBadge = filters.status === 'bought'
+      ? `<span class="badge badge-ok">已購買</span>`
+      : `<span class="badge ${badgeClass(r.status)}">${badgeLabel(r.status, r.daysLeft)}</span>`;
     return `
-    <div class="card ${isBought ? 'bought' : ''}" data-status="${r.status}">
+    <div class="card" data-status="${filters.status === 'bought' ? '充裕' : r.status}">
       <div class="card-top">
         <div>
           <div class="card-name">${r.name}</div>
           <div class="card-code">${r.code}</div>
         </div>
-        <span class="badge ${badgeClass(r.status)}">${badgeLabel(r.status, r.daysLeft)}</span>
+        ${statusBadge}
       </div>
       <div class="card-info">
         <div>股價 <b>${priceStr}</b></div>
