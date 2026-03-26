@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-03-26 02:24",
+  "updatedAt": "2026-03-26 02:29",
   "total": 343,
   "records": [
     {
       "code": "1536",
       "name": "和大",
-      "price": 51.4,
+      "price": 51.1,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -21,7 +21,7 @@
     {
       "code": "1904",
       "name": "正隆",
-      "price": 20.25,
+      "price": 20.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -37,7 +37,7 @@
     {
       "code": "2103",
       "name": "台橡",
-      "price": 20.1,
+      "price": 19.85,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -53,7 +53,7 @@
     {
       "code": "2317",
       "name": "鴻海",
-      "price": 203.5,
+      "price": 202.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -69,7 +69,7 @@
     {
       "code": "2352",
       "name": "佳世達",
-      "price": 23.9,
+      "price": 23.8,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -85,7 +85,7 @@
     {
       "code": "2436",
       "name": "偉詮電",
-      "price": 62.8,
+      "price": 61.9,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -101,7 +101,7 @@
     {
       "code": "2449",
       "name": "京元電子",
-      "price": 293.5,
+      "price": 290.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -117,7 +117,7 @@
     {
       "code": "2455",
       "name": "全新",
-      "price": 293.0,
+      "price": 287.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -133,7 +133,7 @@
     {
       "code": "3034",
       "name": "聯詠",
-      "price": 389.0,
+      "price": 385.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -149,7 +149,7 @@
     {
       "code": "3037",
       "name": "欣興",
-      "price": 540.0,
+      "price": 531.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -165,7 +165,7 @@
     {
       "code": "3234",
       "name": "光環",
-      "price": 96.5,
+      "price": 94.2,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -181,7 +181,7 @@
     {
       "code": "3406",
       "name": "玉晶光",
-      "price": 460.0,
+      "price": 459.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -197,7 +197,7 @@
     {
       "code": "3450",
       "name": "聯鈞",
-      "price": 292.0,
+      "price": 286.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -213,7 +213,7 @@
     {
       "code": "4133",
       "name": "亞諾法",
-      "price": 23.35,
+      "price": 23.3,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -229,7 +229,7 @@
     {
       "code": "4916",
       "name": "事欣科",
-      "price": 60.1,
+      "price": 59.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -245,7 +245,7 @@
     {
       "code": "6156",
       "name": "松上",
-      "price": 19.75,
+      "price": 19.65,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -261,7 +261,7 @@
     {
       "code": "6257",
       "name": "矽格",
-      "price": 140.5,
+      "price": 139.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -277,7 +277,7 @@
     {
       "code": "8111",
       "name": "立碁",
-      "price": 64.8,
+      "price": 64.3,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -293,7 +293,7 @@
     {
       "code": "8383",
       "name": "千附",
-      "price": 46.15,
+      "price": 45.95,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -309,7 +309,7 @@
     {
       "code": "8933",
       "name": "愛地雅",
-      "price": 6.64,
+      "price": 6.6,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -325,7 +325,7 @@
     {
       "code": "8996",
       "name": "高力",
-      "price": 860.0,
+      "price": 845.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -341,7 +341,7 @@
     {
       "code": "9917",
       "name": "中保科",
-      "price": 114.0,
+      "price": 113.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -357,7 +357,7 @@
     {
       "code": "2065",
       "name": "世豐",
-      "price": 32.5,
+      "price": 32.35,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -373,7 +373,7 @@
     {
       "code": "2405",
       "name": "輔信",
-      "price": 16.35,
+      "price": 16.25,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -389,7 +389,7 @@
     {
       "code": "2465",
       "name": "麗臺",
-      "price": 55.5,
+      "price": 54.9,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -405,7 +405,7 @@
     {
       "code": "2636",
       "name": "台驊控股",
-      "price": 68.5,
+      "price": 68.3,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -437,7 +437,7 @@
     {
       "code": "3546",
       "name": "宇峻",
-      "price": 71.1,
+      "price": 71.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -453,7 +453,7 @@
     {
       "code": "4132",
       "name": "國鼎",
-      "price": 4.19,
+      "price": 4.18,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -485,7 +485,7 @@
     {
       "code": "5351",
       "name": "鈺創",
-      "price": 75.5,
+      "price": 74.7,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -501,7 +501,7 @@
     {
       "code": "5386",
       "name": "青雲",
-      "price": 320.5,
+      "price": 320.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -517,7 +517,7 @@
     {
       "code": "5609",
       "name": "中菲行",
-      "price": 79.2,
+      "price": 79.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -533,7 +533,7 @@
     {
       "code": "5706",
       "name": "鳳凰",
-      "price": 52.1,
+      "price": 52.4,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -549,7 +549,7 @@
     {
       "code": "6207",
       "name": "雷科",
-      "price": 55.5,
+      "price": 54.9,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -597,7 +597,7 @@
     {
       "code": "8119",
       "name": "公信",
-      "price": 8.1,
+      "price": 8.23,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -613,7 +613,7 @@
     {
       "code": "1340",
       "name": "勝悅-KY",
-      "price": 6.83,
+      "price": 6.8,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -661,7 +661,7 @@
     {
       "code": "4977",
       "name": "眾達-KY",
-      "price": 204.0,
+      "price": 201.0,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -677,7 +677,7 @@
     {
       "code": "6126",
       "name": "信音",
-      "price": 31.2,
+      "price": 30.9,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -693,7 +693,7 @@
     {
       "code": "6683",
       "name": "雍智科技",
-      "price": 1265.0,
+      "price": 1260.0,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -741,7 +741,7 @@
     {
       "code": "1718",
       "name": "中纖",
-      "price": 7.61,
+      "price": 7.54,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -757,7 +757,7 @@
     {
       "code": "1732",
       "name": "毛寶",
-      "price": 26.4,
+      "price": 26.25,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -773,7 +773,7 @@
     {
       "code": "2025",
       "name": "千興",
-      "price": 11.7,
+      "price": 11.6,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -789,7 +789,7 @@
     {
       "code": "2380",
       "name": "虹光",
-      "price": 6.01,
+      "price": 6.02,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -805,7 +805,7 @@
     {
       "code": "2417",
       "name": "圓剛",
-      "price": 35.0,
+      "price": 34.65,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -821,7 +821,7 @@
     {
       "code": "2457",
       "name": "飛宏",
-      "price": 26.8,
+      "price": 26.6,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -837,7 +837,7 @@
     {
       "code": "2485",
       "name": "兆赫",
-      "price": 80.8,
+      "price": 78.2,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -853,7 +853,7 @@
     {
       "code": "2493",
       "name": "揚博",
-      "price": 108.5,
+      "price": 107.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -869,7 +869,7 @@
     {
       "code": "2535",
       "name": "達欣工",
-      "price": 73.5,
+      "price": 73.2,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -885,7 +885,7 @@
     {
       "code": "2605",
       "name": "新興",
-      "price": 42.45,
+      "price": 42.55,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -933,7 +933,7 @@
     {
       "code": "3211",
       "name": "順達",
-      "price": 380.5,
+      "price": 376.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -965,7 +965,7 @@
     {
       "code": "3236",
       "name": "千如",
-      "price": 31.25,
+      "price": 30.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -981,7 +981,7 @@
     {
       "code": "3317",
       "name": "尼克森",
-      "price": 47.3,
+      "price": 46.9,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -1013,7 +1013,7 @@
     {
       "code": "3707",
       "name": "漢磊",
-      "price": 59.8,
+      "price": 59.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -1029,7 +1029,7 @@
     {
       "code": "4108",
       "name": "懷特",
-      "price": 13.05,
+      "price": 13.15,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -1045,7 +1045,7 @@
     {
       "code": "4111",
       "name": "濟生",
-      "price": 29.25,
+      "price": 29.15,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -1061,7 +1061,7 @@
     {
       "code": "4533",
       "name": "協易機",
-      "price": 33.9,
+      "price": 33.3,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -1077,7 +1077,7 @@
     {
       "code": "4541",
       "name": "晟田",
-      "price": 42.8,
+      "price": 42.45,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -1093,7 +1093,7 @@
     {
       "code": "4566",
       "name": "時碩工業",
-      "price": 60.7,
+      "price": 60.3,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -1125,7 +1125,7 @@
     {
       "code": "4749",
       "name": "新應材",
-      "price": 900.0,
+      "price": 888.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -1141,7 +1141,7 @@
     {
       "code": "5355",
       "name": "佳總",
-      "price": 7.02,
+      "price": 7.04,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -1157,7 +1157,7 @@
     {
       "code": "6220",
       "name": "岳豐",
-      "price": 31.65,
+      "price": 31.25,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -1189,7 +1189,7 @@
     {
       "code": "6233",
       "name": "旺玖",
-      "price": 27.2,
+      "price": 26.85,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -1205,7 +1205,7 @@
     {
       "code": "6411",
       "name": "晶焱",
-      "price": 77.7,
+      "price": 76.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -1221,7 +1221,7 @@
     {
       "code": "9938",
       "name": "百和",
-      "price": 47.45,
+      "price": 47.4,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -1237,7 +1237,7 @@
     {
       "code": "2316",
       "name": "楠梓電",
-      "price": 105.5,
+      "price": 103.5,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1253,7 +1253,7 @@
     {
       "code": "3289",
       "name": "宜特",
-      "price": 138.5,
+      "price": 138.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1285,7 +1285,7 @@
     {
       "code": "1784",
       "name": "訊聯",
-      "price": 81.7,
+      "price": 81.4,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1301,7 +1301,7 @@
     {
       "code": "2316",
       "name": "楠梓電",
-      "price": 105.5,
+      "price": 103.5,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1317,7 +1317,7 @@
     {
       "code": "2364",
       "name": "倫飛",
-      "price": 61.4,
+      "price": 61.3,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1333,7 +1333,7 @@
     {
       "code": "3013",
       "name": "晟銘電",
-      "price": 98.6,
+      "price": 97.7,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1349,7 +1349,7 @@
     {
       "code": "3028",
       "name": "增你強",
-      "price": 54.4,
+      "price": 54.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1365,7 +1365,7 @@
     {
       "code": "3209",
       "name": "全科",
-      "price": 43.65,
+      "price": 43.3,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1381,7 +1381,7 @@
     {
       "code": "3289",
       "name": "宜特",
-      "price": 138.5,
+      "price": 138.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1397,7 +1397,7 @@
     {
       "code": "3322",
       "name": "建舜電",
-      "price": 13.3,
+      "price": 13.2,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1429,7 +1429,7 @@
     {
       "code": "4721",
       "name": "美琪瑪",
-      "price": 74.2,
+      "price": 73.8,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1445,7 +1445,7 @@
     {
       "code": "5371",
       "name": "中光電",
-      "price": 76.9,
+      "price": 76.3,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1461,7 +1461,7 @@
     {
       "code": "6185",
       "name": "幃翔",
-      "price": 14.05,
+      "price": 14.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1477,7 +1477,7 @@
     {
       "code": "8390",
       "name": "金益鼎",
-      "price": 92.5,
+      "price": 91.9,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -1510,7 +1510,7 @@
     {
       "code": "1527",
       "name": "鑽全",
-      "price": 32.35,
+      "price": 32.25,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -1526,7 +1526,7 @@
     {
       "code": "2401",
       "name": "凌陽",
-      "price": 20.8,
+      "price": 20.65,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -1542,7 +1542,7 @@
     {
       "code": "5452",
       "name": "佶優",
-      "price": 35.75,
+      "price": 35.35,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -1558,7 +1558,7 @@
     {
       "code": "6150",
       "name": "撼訊",
-      "price": 57.7,
+      "price": 57.1,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -1574,7 +1574,7 @@
     {
       "code": "2399",
       "name": "映泰",
-      "price": 31.55,
+      "price": 31.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1606,7 +1606,7 @@
     {
       "code": "1524",
       "name": "耿鼎",
-      "price": 30.45,
+      "price": 30.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1622,7 +1622,7 @@
     {
       "code": "1604",
       "name": "聲寶",
-      "price": 25.35,
+      "price": 25.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1638,7 +1638,7 @@
     {
       "code": "1721",
       "name": "三晃",
-      "price": 18.15,
+      "price": 18.1,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1654,7 +1654,7 @@
     {
       "code": "1734",
       "name": "杏輝",
-      "price": 31.05,
+      "price": 30.95,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1670,7 +1670,7 @@
     {
       "code": "2349",
       "name": "錸德",
-      "price": 14.1,
+      "price": 13.95,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1686,7 +1686,7 @@
     {
       "code": "2365",
       "name": "昆盈",
-      "price": 32.8,
+      "price": 32.65,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1702,7 +1702,7 @@
     {
       "code": "2367",
       "name": "燿華",
-      "price": 79.2,
+      "price": 76.8,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1718,7 +1718,7 @@
     {
       "code": "2399",
       "name": "映泰",
-      "price": 31.55,
+      "price": 31.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1750,7 +1750,7 @@
     {
       "code": "3033",
       "name": "威健",
-      "price": 33.15,
+      "price": 32.95,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -1766,7 +1766,7 @@
     {
       "code": "3047",
       "name": "訊舟",
-      "price": 16.65,
+      "price": 16.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1782,7 +1782,7 @@
     {
       "code": "3163",
       "name": "波若威",
-      "price": 885.0,
+      "price": 850.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1798,7 +1798,7 @@
     {
       "code": "3390",
       "name": "旭軟",
-      "price": 22.35,
+      "price": 22.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -1814,7 +1814,7 @@
     {
       "code": "3508",
       "name": "位速",
-      "price": 46.2,
+      "price": 45.35,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1830,7 +1830,7 @@
     {
       "code": "3526",
       "name": "凡甲",
-      "price": 295.5,
+      "price": 293.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1862,7 +1862,7 @@
     {
       "code": "3625",
       "name": "西勝",
-      "price": 17.95,
+      "price": 18.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -1878,7 +1878,7 @@
     {
       "code": "3710",
       "name": "連展投控",
-      "price": 5.96,
+      "price": 5.95,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1894,7 +1894,7 @@
     {
       "code": "4160",
       "name": "訊聯基因",
-      "price": 45.7,
+      "price": 45.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1910,7 +1910,7 @@
     {
       "code": "4973",
       "name": "廣穎",
-      "price": 68.0,
+      "price": 67.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -1926,7 +1926,7 @@
     {
       "code": "5512",
       "name": "力麒",
-      "price": 8.04,
+      "price": 8.02,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1958,7 +1958,7 @@
     {
       "code": "6108",
       "name": "競國",
-      "price": 16.6,
+      "price": 16.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -1974,7 +1974,7 @@
     {
       "code": "6129",
       "name": "普誠",
-      "price": 15.45,
+      "price": 15.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -2006,7 +2006,7 @@
     {
       "code": "6209",
       "name": "今國光",
-      "price": 52.9,
+      "price": 52.1,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -2022,7 +2022,7 @@
     {
       "code": "6223",
       "name": "旺矽",
-      "price": 3660.0,
+      "price": 3655.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -2038,7 +2038,7 @@
     {
       "code": "6243",
       "name": "迅杰",
-      "price": 30.6,
+      "price": 30.45,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -2054,7 +2054,7 @@
     {
       "code": "6294",
       "name": "智基",
-      "price": 40.35,
+      "price": 40.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -2070,7 +2070,7 @@
     {
       "code": "6485",
       "name": "點序",
-      "price": 87.3,
+      "price": 85.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -2086,7 +2086,7 @@
     {
       "code": "8089",
       "name": "康全電訊",
-      "price": 23.85,
+      "price": 23.75,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -2102,7 +2102,7 @@
     {
       "code": "8183",
       "name": "精星",
-      "price": 34.35,
+      "price": 34.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -2134,7 +2134,7 @@
     {
       "code": "1220",
       "name": "台榮",
-      "price": 12.45,
+      "price": 12.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -2150,7 +2150,7 @@
     {
       "code": "1526",
       "name": "日馳",
-      "price": 17.4,
+      "price": 17.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -2166,7 +2166,7 @@
     {
       "code": "1809",
       "name": "中釉",
-      "price": 28.3,
+      "price": 28.05,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -2182,7 +2182,7 @@
     {
       "code": "2484",
       "name": "希華",
-      "price": 28.8,
+      "price": 28.45,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -2198,7 +2198,7 @@
     {
       "code": "3051",
       "name": "力特",
-      "price": 20.65,
+      "price": 20.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -2230,7 +2230,7 @@
     {
       "code": "3078",
       "name": "僑威",
-      "price": 57.9,
+      "price": 57.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -2246,7 +2246,7 @@
     {
       "code": "3484",
       "name": "崧騰",
-      "price": 46.1,
+      "price": 45.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -2262,7 +2262,7 @@
     {
       "code": "3615",
       "name": "安可",
-      "price": 31.95,
+      "price": 31.65,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -2278,7 +2278,7 @@
     {
       "code": "4909",
       "name": "新復興",
-      "price": 58.7,
+      "price": 57.9,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -2294,7 +2294,7 @@
     {
       "code": "5251",
       "name": "天鉞電",
-      "price": 31.0,
+      "price": 30.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -2310,7 +2310,7 @@
     {
       "code": "6186",
       "name": "新潤",
-      "price": 40.9,
+      "price": 40.7,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -2326,7 +2326,7 @@
     {
       "code": "8104",
       "name": "錸寶",
-      "price": 35.65,
+      "price": 35.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -2342,7 +2342,7 @@
     {
       "code": "8222",
       "name": "寶一",
-      "price": 36.85,
+      "price": 36.75,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -2374,7 +2374,7 @@
     {
       "code": "1217",
       "name": "愛之味",
-      "price": 10.35,
+      "price": 10.3,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -2390,7 +2390,7 @@
     {
       "code": "4174",
       "name": "浩鼎",
-      "price": 38.55,
+      "price": 38.3,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -2406,7 +2406,7 @@
     {
       "code": "4195",
       "name": "基米",
-      "price": 26.9,
+      "price": 26.6,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -2422,7 +2422,7 @@
     {
       "code": "6163",
       "name": "華電網",
-      "price": 67.0,
+      "price": 66.3,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -2454,7 +2454,7 @@
     {
       "code": "6187",
       "name": "萬潤",
-      "price": 962.0,
+      "price": 955.0,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -2470,7 +2470,7 @@
     {
       "code": "6237",
       "name": "驊訊",
-      "price": 37.85,
+      "price": 37.45,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -2486,7 +2486,7 @@
     {
       "code": "1540",
       "name": "喬福",
-      "price": 22.3,
+      "price": 22.25,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -2502,7 +2502,7 @@
     {
       "code": "3325",
       "name": "旭品",
-      "price": 13.25,
+      "price": 13.3,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -2518,7 +2518,7 @@
     {
       "code": "4564",
       "name": "元翎",
-      "price": 19.4,
+      "price": 19.35,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -2534,7 +2534,7 @@
     {
       "code": "5905",
       "name": "南仁湖",
-      "price": 8.02,
+      "price": 7.99,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -2550,7 +2550,7 @@
     {
       "code": "6229",
       "name": "研通",
-      "price": 21.4,
+      "price": 21.25,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -2566,7 +2566,7 @@
     {
       "code": "6618",
       "name": "永虹先進",
-      "price": 18.6,
+      "price": 19.0,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -2582,7 +2582,7 @@
     {
       "code": "1570",
       "name": "力肯",
-      "price": 31.95,
+      "price": 31.8,
       "buyDate": "2026-11-17",
       "buyDateRaw": "11/17",
       "meetingDate": "2026-12-19",
@@ -2598,7 +2598,7 @@
     {
       "code": "6111",
       "name": "大宇資",
-      "price": 42.35,
+      "price": 42.2,
       "buyDate": "2026-11-19",
       "buyDateRaw": "11/19",
       "meetingDate": "2026-12-23",
@@ -2614,7 +2614,7 @@
     {
       "code": "6547",
       "name": "高端疫苗",
-      "price": 51.7,
+      "price": 52.3,
       "buyDate": "2026-11-20",
       "buyDateRaw": "11/20",
       "meetingDate": "2026-12-24",
@@ -2630,7 +2630,7 @@
     {
       "code": "3312",
       "name": "弘憶股",
-      "price": 35.75,
+      "price": 35.5,
       "buyDate": "2026-11-24",
       "buyDateRaw": "11/24",
       "meetingDate": "2026-12-26",
@@ -2646,7 +2646,7 @@
     {
       "code": "6241",
       "name": "易通展",
-      "price": 11.8,
+      "price": 11.95,
       "buyDate": "2026-11-24",
       "buyDateRaw": "11/24",
       "meetingDate": "2026-12-26",
@@ -2662,7 +2662,7 @@
     {
       "code": "1591",
       "name": "駿吉-KY",
-      "price": 41.4,
+      "price": 41.0,
       "buyDate": "2026-11-26",
       "buyDateRaw": "11/26",
       "meetingDate": "2026-12-30",
@@ -2678,7 +2678,7 @@
     {
       "code": "2371",
       "name": "大同",
-      "price": 30.95,
+      "price": 30.8,
       "buyDate": "2026-11-26",
       "buyDateRaw": "11/26",
       "meetingDate": "2026-12-30",
@@ -2694,7 +2694,7 @@
     {
       "code": "4946",
       "name": "辣椒",
-      "price": 121.0,
+      "price": 120.0,
       "buyDate": "2026-12-08",
       "buyDateRaw": "12/08",
       "meetingDate": "2027-01-09",
@@ -2710,7 +2710,7 @@
     {
       "code": "8489",
       "name": "三貝德",
-      "price": 25.95,
+      "price": 25.3,
       "buyDate": "2026-12-19",
       "buyDateRaw": "12/19",
       "meetingDate": "2027-01-22",
@@ -2726,7 +2726,7 @@
     {
       "code": "3321",
       "name": "同泰",
-      "price": 16.55,
+      "price": 16.5,
       "buyDate": "2027-01-07",
       "buyDateRaw": "01/07",
       "meetingDate": "2027-02-10",
@@ -2742,7 +2742,7 @@
     {
       "code": "6419",
       "name": "京晨科",
-      "price": 84.7,
+      "price": 84.0,
       "buyDate": "2027-01-23",
       "buyDateRaw": "01/23",
       "meetingDate": "2027-02-26",
@@ -2758,7 +2758,7 @@
     {
       "code": "3715",
       "name": "定穎投控",
-      "price": 192.0,
+      "price": 189.0,
       "buyDate": "2027-02-05",
       "buyDateRaw": "02/05",
       "meetingDate": "2027-03-11",
@@ -2774,7 +2774,7 @@
     {
       "code": "6770",
       "name": "力積電",
-      "price": 65.4,
+      "price": 64.1,
       "buyDate": "2027-02-05",
       "buyDateRaw": "02/05",
       "meetingDate": "2026-04-10",
@@ -2790,7 +2790,7 @@
     {
       "code": "4130",
       "name": "健亞",
-      "price": 31.5,
+      "price": 31.4,
       "buyDate": "2027-02-09",
       "buyDateRaw": "02/09",
       "meetingDate": "2026-04-22",
@@ -2822,7 +2822,7 @@
     {
       "code": "4903",
       "name": "聯光通",
-      "price": 52.2,
+      "price": 51.4,
       "buyDate": "2027-02-24",
       "buyDateRaw": "02/24",
       "meetingDate": "2026-04-30",
@@ -2838,7 +2838,7 @@
     {
       "code": "4927",
       "name": "泰鼎-KY",
-      "price": 44.2,
+      "price": 43.65,
       "buyDate": "2027-02-24",
       "buyDateRaw": "02/24",
       "meetingDate": "2026-04-29",
@@ -2854,7 +2854,7 @@
     {
       "code": "5309",
       "name": "系統電",
-      "price": 61.9,
+      "price": 61.6,
       "buyDate": "2027-02-24",
       "buyDateRaw": "02/24",
       "meetingDate": "2026-04-28",
@@ -2870,7 +2870,7 @@
     {
       "code": "6026",
       "name": "福邦證",
-      "price": 14.95,
+      "price": 14.9,
       "buyDate": "2027-02-24",
       "buyDateRaw": "02/24",
       "meetingDate": "2026-04-30",
@@ -2886,7 +2886,7 @@
     {
       "code": "6241",
       "name": "易通展",
-      "price": 11.8,
+      "price": 11.95,
       "buyDate": "2027-02-24",
       "buyDateRaw": "02/24",
       "meetingDate": "2026-04-30",
@@ -2902,7 +2902,7 @@
     {
       "code": "8074",
       "name": "鉅橡",
-      "price": 59.8,
+      "price": 58.9,
       "buyDate": "2027-02-24",
       "buyDateRaw": "02/24",
       "meetingDate": "2026-04-29",
@@ -2950,7 +2950,7 @@
     {
       "code": "3122",
       "name": "笙泉",
-      "price": 26.95,
+      "price": 26.75,
       "buyDate": "2027-03-05",
       "buyDateRaw": "03/05",
       "meetingDate": "2026-05-08",
@@ -2966,7 +2966,7 @@
     {
       "code": "6531",
       "name": "愛普*",
-      "price": 525.0,
+      "price": 521.0,
       "buyDate": "2027-03-05",
       "buyDateRaw": "03/05",
       "meetingDate": "2026-05-08",
@@ -2982,7 +2982,7 @@
     {
       "code": "3024",
       "name": "憶聲",
-      "price": 10.2,
+      "price": 10.15,
       "buyDate": "2027-03-11",
       "buyDateRaw": "03/11",
       "meetingDate": "2026-05-12",
@@ -2998,7 +2998,7 @@
     {
       "code": "3036",
       "name": "文曄",
-      "price": 229.5,
+      "price": 228.0,
       "buyDate": "2027-03-11",
       "buyDateRaw": "03/11",
       "meetingDate": "2026-05-14",
@@ -3014,7 +3014,7 @@
     {
       "code": "6658",
       "name": "聯策",
-      "price": 70.7,
+      "price": 70.1,
       "buyDate": "2027-03-11",
       "buyDateRaw": "03/11",
       "meetingDate": "2026-05-14",
@@ -3030,7 +3030,7 @@
     {
       "code": "8033",
       "name": "雷虎",
-      "price": 148.0,
+      "price": 146.5,
       "buyDate": "2027-03-11",
       "buyDateRaw": "03/11",
       "meetingDate": "2026-05-14",
@@ -3046,7 +3046,7 @@
     {
       "code": "4967",
       "name": "十銓",
-      "price": 243.5,
+      "price": 239.5,
       "buyDate": "2027-03-12",
       "buyDateRaw": "03/12",
       "meetingDate": "2026-05-15",
@@ -3062,7 +3062,7 @@
     {
       "code": "4195",
       "name": "基米",
-      "price": 26.9,
+      "price": 26.6,
       "buyDate": "2027-03-16",
       "buyDateRaw": "03/16",
       "meetingDate": "2026-04-17",
@@ -3078,7 +3078,7 @@
     {
       "code": "6621",
       "name": "華宇藥",
-      "price": 13.2,
+      "price": 13.15,
       "buyDate": "2027-03-17",
       "buyDateRaw": "03/17",
       "meetingDate": "2026-05-18",
@@ -3094,7 +3094,7 @@
     {
       "code": "1563",
       "name": "巧新",
-      "price": 40.6,
+      "price": 40.4,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3110,7 +3110,7 @@
     {
       "code": "1570",
       "name": "力肯",
-      "price": 31.95,
+      "price": 31.8,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3142,7 +3142,7 @@
     {
       "code": "2102",
       "name": "泰豐",
-      "price": 19.4,
+      "price": 19.35,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3158,7 +3158,7 @@
     {
       "code": "2342",
       "name": "茂矽",
-      "price": 31.35,
+      "price": 30.95,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3174,7 +3174,7 @@
     {
       "code": "2420",
       "name": "新巨",
-      "price": 52.4,
+      "price": 52.1,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3190,7 +3190,7 @@
     {
       "code": "2431",
       "name": "聯昌",
-      "price": 12.4,
+      "price": 12.3,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3206,7 +3206,7 @@
     {
       "code": "2444",
       "name": "兆勁",
-      "price": 13.25,
+      "price": 13.15,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3222,7 +3222,7 @@
     {
       "code": "2614",
       "name": "東森",
-      "price": 20.45,
+      "price": 20.35,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3238,7 +3238,7 @@
     {
       "code": "3027",
       "name": "盛達",
-      "price": 20.6,
+      "price": 20.4,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-21",
@@ -3254,7 +3254,7 @@
     {
       "code": "3038",
       "name": "全台",
-      "price": 21.05,
+      "price": 20.95,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3286,7 +3286,7 @@
     {
       "code": "3441",
       "name": "聯一光",
-      "price": 30.95,
+      "price": 30.9,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3302,7 +3302,7 @@
     {
       "code": "4743",
       "name": "合一",
-      "price": 52.9,
+      "price": 52.4,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3318,7 +3318,7 @@
     {
       "code": "4939",
       "name": "亞電",
-      "price": 29.4,
+      "price": 29.05,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3350,7 +3350,7 @@
     {
       "code": "5443",
       "name": "均豪",
-      "price": 106.0,
+      "price": 105.0,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3366,7 +3366,7 @@
     {
       "code": "5484",
       "name": "慧友",
-      "price": 40.5,
+      "price": 39.95,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-21",
@@ -3382,7 +3382,7 @@
     {
       "code": "6111",
       "name": "大宇資",
-      "price": 42.35,
+      "price": 42.2,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3398,7 +3398,7 @@
     {
       "code": "6116",
       "name": "彩晶",
-      "price": 8.46,
+      "price": 8.38,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3414,7 +3414,7 @@
     {
       "code": "6125",
       "name": "廣運",
-      "price": 58.6,
+      "price": 58.1,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-21",
@@ -3430,7 +3430,7 @@
     {
       "code": "6486",
       "name": "互動",
-      "price": 84.2,
+      "price": 84.0,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-21",
@@ -3446,7 +3446,7 @@
     {
       "code": "8028",
       "name": "昇陽半導體",
-      "price": 196.5,
+      "price": 194.5,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-21",
@@ -3462,7 +3462,7 @@
     {
       "code": "8176",
       "name": "智捷",
-      "price": 11.95,
+      "price": 11.9,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-20",
@@ -3478,7 +3478,7 @@
     {
       "code": "8227",
       "name": "巨有科技",
-      "price": 124.0,
+      "price": 122.5,
       "buyDate": "2027-03-18",
       "buyDateRaw": "03/18",
       "meetingDate": "2026-05-21",
@@ -3510,7 +3510,7 @@
     {
       "code": "1101",
       "name": "台泥",
-      "price": 23.35,
+      "price": 23.15,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3542,7 +3542,7 @@
     {
       "code": "1314",
       "name": "中石化",
-      "price": 8.4,
+      "price": 8.33,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3558,7 +3558,7 @@
     {
       "code": "1338",
       "name": "廣華-KY",
-      "price": 14.4,
+      "price": 14.45,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3574,7 +3574,7 @@
     {
       "code": "1416",
       "name": "廣豐",
-      "price": 11.6,
+      "price": 11.55,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3590,7 +3590,7 @@
     {
       "code": "1417",
       "name": "嘉裕",
-      "price": 9.16,
+      "price": 9.17,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3606,7 +3606,7 @@
     {
       "code": "1528",
       "name": "恩德",
-      "price": 22.6,
+      "price": 22.1,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3622,7 +3622,7 @@
     {
       "code": "1609",
       "name": "大亞",
-      "price": 33.15,
+      "price": 32.9,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3638,7 +3638,7 @@
     {
       "code": "1733",
       "name": "五鼎",
-      "price": 30.0,
+      "price": 29.85,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3654,7 +3654,7 @@
     {
       "code": "2006",
       "name": "東和鋼鐵",
-      "price": 71.9,
+      "price": 71.5,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3670,7 +3670,7 @@
     {
       "code": "2014",
       "name": "中鴻",
-      "price": 18.85,
+      "price": 18.6,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3686,7 +3686,7 @@
     {
       "code": "2426",
       "name": "鼎元",
-      "price": 38.3,
+      "price": 38.0,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3702,7 +3702,7 @@
     {
       "code": "2467",
       "name": "志聖",
-      "price": 406.5,
+      "price": 405.5,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3718,7 +3718,7 @@
     {
       "code": "3006",
       "name": "晶豪科",
-      "price": 172.5,
+      "price": 168.5,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3734,7 +3734,7 @@
     {
       "code": "3090",
       "name": "日電貿",
-      "price": 94.1,
+      "price": 93.3,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3750,7 +3750,7 @@
     {
       "code": "4128",
       "name": "中天",
-      "price": 17.05,
+      "price": 16.9,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3766,7 +3766,7 @@
     {
       "code": "4303",
       "name": "信立",
-      "price": 55.0,
+      "price": 54.5,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3782,7 +3782,7 @@
     {
       "code": "4934",
       "name": "太極",
-      "price": 18.2,
+      "price": 18.0,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3798,7 +3798,7 @@
     {
       "code": "5315",
       "name": "光聯",
-      "price": 23.35,
+      "price": 23.1,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3814,7 +3814,7 @@
     {
       "code": "5328",
       "name": "華容",
-      "price": 25.65,
+      "price": 25.35,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3846,7 +3846,7 @@
     {
       "code": "6235",
       "name": "華孚",
-      "price": 47.75,
+      "price": 47.4,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3862,7 +3862,7 @@
     {
       "code": "6443",
       "name": "元晶",
-      "price": 46.95,
+      "price": 46.25,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3878,7 +3878,7 @@
     {
       "code": "6494",
       "name": "九齊",
-      "price": 47.8,
+      "price": 47.3,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3894,7 +3894,7 @@
     {
       "code": "9935",
       "name": "慶豐富",
-      "price": 19.8,
+      "price": 19.75,
       "buyDate": "2027-03-19",
       "buyDateRaw": "03/19",
       "meetingDate": "2026-05-22",
@@ -3910,7 +3910,7 @@
     {
       "code": "1310",
       "name": "台苯",
-      "price": 11.2,
+      "price": 11.1,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -3926,7 +3926,7 @@
     {
       "code": "1513",
       "name": "中興電",
-      "price": 156.5,
+      "price": 154.5,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -3958,7 +3958,7 @@
     {
       "code": "1785",
       "name": "光洋科",
-      "price": 92.4,
+      "price": 89.3,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -3974,7 +3974,7 @@
     {
       "code": "2031",
       "name": "新光鋼",
-      "price": 40.55,
+      "price": 40.35,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -3990,7 +3990,7 @@
     {
       "code": "2312",
       "name": "金寶",
-      "price": 23.25,
+      "price": 23.1,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4006,7 +4006,7 @@
     {
       "code": "2332",
       "name": "友訊",
-      "price": 15.7,
+      "price": 15.6,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4022,7 +4022,7 @@
     {
       "code": "2375",
       "name": "凱美",
-      "price": 78.6,
+      "price": 77.5,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4038,7 +4038,7 @@
     {
       "code": "2461",
       "name": "光群雷",
-      "price": 17.3,
+      "price": 17.2,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4054,7 +4054,7 @@
     {
       "code": "2546",
       "name": "根基",
-      "price": 83.7,
+      "price": 83.3,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4070,7 +4070,7 @@
     {
       "code": "2731",
       "name": "雄獅",
-      "price": 166.5,
+      "price": 166.0,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4102,7 +4102,7 @@
     {
       "code": "3035",
       "name": "智原",
-      "price": 153.0,
+      "price": 151.5,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4134,7 +4134,7 @@
     {
       "code": "4147",
       "name": "中裕",
-      "price": 55.6,
+      "price": 55.7,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4150,7 +4150,7 @@
     {
       "code": "4739",
       "name": "康普",
-      "price": 83.9,
+      "price": 83.5,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4198,7 +4198,7 @@
     {
       "code": "6190",
       "name": "萬泰科",
-      "price": 54.9,
+      "price": 54.1,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4230,7 +4230,7 @@
     {
       "code": "6271",
       "name": "同欣電",
-      "price": 153.5,
+      "price": 151.0,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4246,7 +4246,7 @@
     {
       "code": "8011",
       "name": "台通",
-      "price": 20.7,
+      "price": 20.6,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4262,7 +4262,7 @@
     {
       "code": "9958",
       "name": "世紀鋼",
-      "price": 121.0,
+      "price": 120.5,
       "buyDate": "2027-03-24",
       "buyDateRaw": "03/24",
       "meetingDate": "2026-05-25",
@@ -4278,7 +4278,7 @@
     {
       "code": "1215",
       "name": "卜蜂",
-      "price": 146.0,
+      "price": 145.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4294,7 +4294,7 @@
     {
       "code": "1409",
       "name": "新纖",
-      "price": 16.0,
+      "price": 15.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4310,7 +4310,7 @@
     {
       "code": "1432",
       "name": "大魯閣",
-      "price": 18.0,
+      "price": 17.95,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4326,7 +4326,7 @@
     {
       "code": "1584",
       "name": "精剛",
-      "price": 21.95,
+      "price": 21.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4342,7 +4342,7 @@
     {
       "code": "1611",
       "name": "中電",
-      "price": 12.5,
+      "price": 12.4,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4358,7 +4358,7 @@
     {
       "code": "1707",
       "name": "葡萄王",
-      "price": 120.5,
+      "price": 120.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4374,7 +4374,7 @@
     {
       "code": "1723",
       "name": "中碳",
-      "price": 73.5,
+      "price": 73.2,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4406,7 +4406,7 @@
     {
       "code": "1909",
       "name": "榮成",
-      "price": 9.95,
+      "price": 9.98,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4422,7 +4422,7 @@
     {
       "code": "2030",
       "name": "彰源",
-      "price": 16.4,
+      "price": 16.3,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4438,7 +4438,7 @@
     {
       "code": "2104",
       "name": "國際中橡",
-      "price": 12.35,
+      "price": 12.2,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4454,7 +4454,7 @@
     {
       "code": "2303",
       "name": "聯電",
-      "price": 58.6,
+      "price": 58.4,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4470,7 +4470,7 @@
     {
       "code": "2313",
       "name": "華通",
-      "price": 250.0,
+      "price": 243.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4486,7 +4486,7 @@
     {
       "code": "2327",
       "name": "國巨*",
-      "price": 265.5,
+      "price": 262.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4502,7 +4502,7 @@
     {
       "code": "2363",
       "name": "矽統",
-      "price": 50.7,
+      "price": 50.3,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4518,7 +4518,7 @@
     {
       "code": "2371",
       "name": "大同",
-      "price": 30.95,
+      "price": 30.8,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4534,7 +4534,7 @@
     {
       "code": "2379",
       "name": "瑞昱",
-      "price": 491.5,
+      "price": 489.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4550,7 +4550,7 @@
     {
       "code": "2409",
       "name": "友達",
-      "price": 15.1,
+      "price": 15.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4566,7 +4566,7 @@
     {
       "code": "2464",
       "name": "盟立",
-      "price": 72.7,
+      "price": 71.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4582,7 +4582,7 @@
     {
       "code": "2482",
       "name": "連宇",
-      "price": 17.25,
+      "price": 17.2,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4598,7 +4598,7 @@
     {
       "code": "2489",
       "name": "瑞軒",
-      "price": 31.7,
+      "price": 29.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4614,7 +4614,7 @@
     {
       "code": "2520",
       "name": "冠德",
-      "price": 31.95,
+      "price": 31.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4630,7 +4630,7 @@
     {
       "code": "2534",
       "name": "宏盛",
-      "price": 20.1,
+      "price": 20.05,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4646,7 +4646,7 @@
     {
       "code": "2641",
       "name": "正德",
-      "price": 18.25,
+      "price": 18.1,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4662,7 +4662,7 @@
     {
       "code": "2890",
       "name": "永豐金",
-      "price": 31.85,
+      "price": 31.7,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4678,7 +4678,7 @@
     {
       "code": "3029",
       "name": "零壹",
-      "price": 97.8,
+      "price": 97.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4694,7 +4694,7 @@
     {
       "code": "3042",
       "name": "晶技",
-      "price": 91.0,
+      "price": 90.3,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4726,7 +4726,7 @@
     {
       "code": "3094",
       "name": "聯傑",
-      "price": 23.45,
+      "price": 23.35,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4742,7 +4742,7 @@
     {
       "code": "3338",
       "name": "泰碩",
-      "price": 62.7,
+      "price": 62.2,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4758,7 +4758,7 @@
     {
       "code": "3481",
       "name": "群創",
-      "price": 26.0,
+      "price": 25.7,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4774,7 +4774,7 @@
     {
       "code": "3490",
       "name": "單井",
-      "price": 27.5,
+      "price": 27.65,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4790,7 +4790,7 @@
     {
       "code": "3556",
       "name": "禾瑞亞",
-      "price": 44.55,
+      "price": 44.1,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4822,7 +4822,7 @@
     {
       "code": "3588",
       "name": "通嘉",
-      "price": 49.65,
+      "price": 49.55,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4838,7 +4838,7 @@
     {
       "code": "3686",
       "name": "達能",
-      "price": 19.05,
+      "price": 18.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4854,7 +4854,7 @@
     {
       "code": "3689",
       "name": "湧德",
-      "price": 116.0,
+      "price": 114.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4870,7 +4870,7 @@
     {
       "code": "3706",
       "name": "神達",
-      "price": 80.1,
+      "price": 79.4,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -4886,7 +4886,7 @@
     {
       "code": "3708",
       "name": "上緯投控",
-      "price": 121.5,
+      "price": 120.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4902,7 +4902,7 @@
     {
       "code": "3714",
       "name": "富采",
-      "price": 51.3,
+      "price": 51.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -4934,7 +4934,7 @@
     {
       "code": "3717",
       "name": "聯嘉投控",
-      "price": 22.65,
+      "price": 22.25,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4982,7 +4982,7 @@
     {
       "code": "4968",
       "name": "立積",
-      "price": 109.5,
+      "price": 108.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -4998,7 +4998,7 @@
     {
       "code": "4979",
       "name": "華星光",
-      "price": 439.0,
+      "price": 431.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5014,7 +5014,7 @@
     {
       "code": "5009",
       "name": "榮剛",
-      "price": 33.65,
+      "price": 33.45,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -5030,7 +5030,7 @@
     {
       "code": "5230",
       "name": "雷笛克光學",
-      "price": 17.0,
+      "price": 16.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5046,7 +5046,7 @@
     {
       "code": "5258",
       "name": "虹堡",
-      "price": 48.3,
+      "price": 48.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5062,7 +5062,7 @@
     {
       "code": "5483",
       "name": "中美晶",
-      "price": 121.0,
+      "price": 119.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5078,7 +5078,7 @@
     {
       "code": "6134",
       "name": "萬旭",
-      "price": 30.1,
+      "price": 29.7,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5094,7 +5094,7 @@
     {
       "code": "6142",
       "name": "友勁",
-      "price": 10.15,
+      "price": 10.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -5110,7 +5110,7 @@
     {
       "code": "6147",
       "name": "頎邦",
-      "price": 76.4,
+      "price": 75.8,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5142,7 +5142,7 @@
     {
       "code": "6164",
       "name": "華興",
-      "price": 12.7,
+      "price": 12.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5158,7 +5158,7 @@
     {
       "code": "6188",
       "name": "廣明",
-      "price": 93.1,
+      "price": 92.6,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5174,7 +5174,7 @@
     {
       "code": "6239",
       "name": "力成",
-      "price": 206.0,
+      "price": 205.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5190,7 +5190,7 @@
     {
       "code": "6282",
       "name": "康舒",
-      "price": 51.5,
+      "price": 50.8,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -5206,7 +5206,7 @@
     {
       "code": "6461",
       "name": "益得",
-      "price": 18.5,
+      "price": 18.65,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5222,7 +5222,7 @@
     {
       "code": "6509",
       "name": "聚和",
-      "price": 45.75,
+      "price": 45.45,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -5238,7 +5238,7 @@
     {
       "code": "6538",
       "name": "倉和",
-      "price": 70.0,
+      "price": 69.8,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5254,7 +5254,7 @@
     {
       "code": "6558",
       "name": "興能高",
-      "price": 30.15,
+      "price": 29.8,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5270,7 +5270,7 @@
     {
       "code": "6591",
       "name": "動力-KY",
-      "price": 63.3,
+      "price": 62.7,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -5302,7 +5302,7 @@
     {
       "code": "6909",
       "name": "創控",
-      "price": 48.0,
+      "price": 47.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5318,7 +5318,7 @@
     {
       "code": "8021",
       "name": "尖點",
-      "price": 265.5,
+      "price": 261.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5334,7 +5334,7 @@
     {
       "code": "8064",
       "name": "東捷",
-      "price": 74.0,
+      "price": 73.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -5350,7 +5350,7 @@
     {
       "code": "8069",
       "name": "元太",
-      "price": 147.0,
+      "price": 146.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5366,7 +5366,7 @@
     {
       "code": "8086",
       "name": "宏捷科",
-      "price": 130.5,
+      "price": 129.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -5382,7 +5382,7 @@
     {
       "code": "8112",
       "name": "至上",
-      "price": 82.6,
+      "price": 81.2,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -5398,7 +5398,7 @@
     {
       "code": "8163",
       "name": "達方",
-      "price": 28.45,
+      "price": 28.35,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5414,7 +5414,7 @@
     {
       "code": "8213",
       "name": "志超",
-      "price": 32.9,
+      "price": 32.85,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5430,7 +5430,7 @@
     {
       "code": "8215",
       "name": "明基材",
-      "price": 23.55,
+      "price": 23.3,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5446,7 +5446,7 @@
     {
       "code": "8261",
       "name": "富鼎",
-      "price": 105.5,
+      "price": 104.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5462,7 +5462,7 @@
     {
       "code": "8299",
       "name": "群聯",
-      "price": 1735.0,
+      "price": 1695.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -5478,7 +5478,7 @@
     {
       "code": "8936",
       "name": "國統",
-      "price": 54.8,
+      "price": 54.4,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
