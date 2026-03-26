@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>股東紀念品追蹤</title>
+<script src="https://cdn.jsdelivr.net/npm/@unocss/runtime"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f4; color: #1c1c1a; min-height: 100vh; }
+
+  .app { max-width: 520px; margin: 0 auto; padding: 1rem; }
+
+  /* Header */
+  .header { margin-bottom: 1.25rem; }
+  .header h1 { font-size: 20px; font-weight: 600; color: #1c1c1a; }
+  .header p { font-size: 13px; color: #888780; margin-top: 3px; }
+
+  /* Search */
+  .search-wrap { position: relative; margin-bottom: 10px; }
+  .search-wrap svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: #888780; pointer-events: none; }
+  .search-wrap input { width: 100%; padding: 9px 12px 9px 34px; border: 1px solid #d3d1c7; border-radius: 10px; font-size: 14px; background: #fff; color: #1c1c1a; outline: none; }
+  .search-wrap input:focus { border-color: #888780; }
+
+  /* Filter pills */
+  .filter-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .pill { padding: 5px 13px; border-radius: 999px; border: 1px solid #d3d1c7; font-size: 12px; background: #fff; color: #5f5e5a; cursor: pointer; white-space: nowrap; transition: all .15s; }
+  .pill:hover { border-color: #888780; }
+  .pill.active { background: #2c2c2a; color: #f1efe8; border-color: #2c2c2a; }
+
+  /* Sort */
+  .sort-row { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; }
+  .sort-row label { font-size: 12px; color: #888780; }
+  .sort-row select { font-size: 12px; border: 1px solid #d3d1c7; border-radius: 8px; padding: 5px 8px; background: #fff; color: #1c1c1a; outline: none; cursor: pointer; }
+
+  /* Stats */
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 16px; }
+  .stat { background: #fff; border-radius: 10px; border: 1px solid #e8e6df; padding: 10px 12px; text-align: center; }
+  .stat-num { font-size: 22px; font-weight: 600; }
+  .stat-label { font-size: 11px; color: #888780; margin-top: 2px; }
+
+  /* Cards */
+  .cards { display: flex; flex-direction: column; gap: 10px; }
+  .card { background: #fff; border: 1px solid #e8e6df; border-radius: 12px; padding: 13px 14px; border-left-width: 4px; transition: opacity .2s; }
+  .card.bought { opacity: 0.42; }
+  .card[data-status="緊急"]  { border-left-color: #e24b4a; }
+  .card[data-status="注意"]  { border-left-color: #ef9f27; }
+  .card[data-status="充裕"]  { border-left-color: #639922; }
+  .card[data-status="已截止"]{ border-left-color: #b4b2a9; }
+  .card[data-status="不明"]  { border-left-color: #b4b2a9; }
+
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
+  .card-name { font-size: 15px; font-weight: 600; }
+  .card-code { font-size: 12px; color: #888780; margin-top: 1px; }
+
+  .badge { font-size: 11px; font-weight: 500; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
+  .badge-urgent  { background: #fcebeb; color: #a32d2d; }
+  .badge-notice  { background: #faeeda; color: #ba7517; }
+  .badge-ok      { background: #eaf3de; color: #3b6d11; }
+  .badge-expired { background: #f1efe8; color: #5f5e5a; }
+  .badge-unknown { background: #f1efe8; color: #5f5e5a; }
+
+  .card-info { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 8px; font-size: 12px; color: #888780; margin-bottom: 8px; }
+  .card-info b { color: #1c1c1a; font-weight: 500; }
+
+  .card-gift { font-size: 12px; color: #888780; padding-top: 8px; border-top: 1px solid #f1efe8; margin-bottom: 8px; }
+  .card-gift b { color: #1c1c1a; font-weight: 500; }
+
+  .card-footer { display: flex; justify-content: space-between; align-items: center; }
+  .tags { display: flex; gap: 4px; flex-wrap: wrap; }
+  .tag { font-size: 11px; padding: 2px 8px; border-radius: 999px; background: #f1efe8; color: #5f5e5a; border: 1px solid #e8e6df; }
+
+  .checkbox-wrap { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #888780; cursor: pointer; user-select: none; }
+  .checkbox-wrap input[type=checkbox] { width: 15px; height: 15px; accent-color: #3b6d11; cursor: pointer; }
+
+  /* Empty */
+  .empty { text-align: center; padding: 3rem 1rem; color: #888780; font-size: 14px; }
+
+  /* Footer */
+  .footer { text-align: center; font-size: 11px; color: #b4b2a9; margin-top: 20px; padding-bottom: 1.5rem; }
+
+  /* Loading */
+  .loading { text-align: center; padding: 3rem; color: #888780; font-size: 14px; }
+
+  @media (min-width: 600px) {
+    .app { max-width: 680px; padding: 1.5rem; }
+    .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .stats { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="header">
+    <h1>股東紀念品追蹤</h1>
+    <p id="update-time">載入中...</p>
+  </div>
+
+  <div class="search-wrap">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input id="search" type="text" placeholder="搜尋股票代號或名稱..." oninput="render()" />
+  </div>
+
+  <div class="filter-row" id="status-filters">
+    <button class="pill active" data-filter="all" onclick="setFilter('status','all',this)">全部</button>
+    <button class="pill" data-filter="緊急" onclick="setFilter('status','緊急',this)">緊急</button>
+    <button class="pill" data-filter="注意" onclick="setFilter('status','注意',this)">注意</button>
+    <button class="pill" data-filter="充裕" onclick="setFilter('status','充裕',this)">充裕</button>
+    <button class="pill" data-filter="已截止" onclick="setFilter('status','已截止',this)">已截止</button>
+  </div>
+
+  <div class="filter-row" id="type-filters">
+    <button class="pill active" data-filter="all" onclick="setFilter('type','all',this)">所有類型</button>
+    <button class="pill" data-filter="米" onclick="setFilter('type','米',this)">米</button>
+    <button class="pill" data-filter="油" onclick="setFilter('type','油',this)">油</button>
+    <button class="pill" data-filter="飲料" onclick="setFilter('type','飲料',this)">飲料</button>
+    <button class="pill" data-filter="食品" onclick="setFilter('type','食品',this)">食品</button>
+    <button class="pill" data-filter="提貨券" onclick="setFilter('type','提貨券',this)">提貨券</button>
+    <button class="pill" data-filter="日用品" onclick="setFilter('type','日用品',this)">日用品</button>
+    <button class="pill" data-filter="其他" onclick="setFilter('type','其他',this)">其他</button>
+  </div>
+
+  <div class="sort-row">
+    <label>排序</label>
+    <select id="sort" onchange="render()">
+      <option value="days_asc">截止日期（近→遠）</option>
+      <option value="price_asc">股價（低→高）</option>
+      <option value="price_desc">股價（高→低）</option>
+    </select>
+  </div>
+
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-num" id="stat-urgent" style="color:#e24b4a;">—</div>
+      <div class="stat-label">3天內截止</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num" id="stat-notice" style="color:#ef9f27;">—</div>
+      <div class="stat-label">5天內截止</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num" id="stat-total">—</div>
+      <div class="stat-label">全部筆數</div>
+    </div>
+  </div>
+
+  <div class="cards" id="cards"><div class="loading">資料載入中...</div></div>
+  <div class="footer" id="footer"></div>
+</div>
+
+<script>
+let allData = [];
+let filters = { status: 'all', type: 'all' };
+let bought = JSON.parse(localStorage.getItem('bought') || '{}');
+
+function setFilter(group, val, el) {
+  filters[group] = val;
+  const row = document.getElementById(group === 'status' ? 'status-filters' : 'type-filters');
+  row.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+  el.classList.add('active');
+  render();
+}
+
+function toggleBought(code) {
+  bought[code] = !bought[code];
+  localStorage.setItem('bought', JSON.stringify(bought));
+  render();
+}
+
+function badgeClass(status) {
+  return { '緊急':'badge-urgent','注意':'badge-notice','充裕':'badge-ok','已截止':'badge-expired' }[status] || 'badge-unknown';
+}
+
+function badgeLabel(status, days) {
+  if (status === '充裕' || status === '注意' || status === '緊急') return `${status} 剩 ${days} 天`;
+  return status;
+}
+
+function getFiltered() {
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  const sort = document.getElementById('sort').value;
+
+  let list = allData.filter(r => {
+    if (q && !r.code.toLowerCase().includes(q) && !r.name.toLowerCase().includes(q)) return false;
+    if (filters.status !== 'all' && r.status !== filters.status) return false;
+    if (filters.type !== 'all' && !r.giftTypes.includes(filters.type)) return false;
+    return true;
+  });
+
+  list.sort((a, b) => {
+    if (sort === 'price_asc') return (a.price ?? 9999) - (b.price ?? 9999);
+    if (sort === 'price_desc') return (b.price ?? 0) - (a.price ?? 0);
+    const da = a.daysLeft ?? 9999, db = b.daysLeft ?? 9999;
+    return da - db;
+  });
+
+  return list;
+}
+
+function render() {
+  const list = getFiltered();
+  const container = document.getElementById('cards');
+
+  // Update stats (always from full data)
+  const urgent = allData.filter(r => r.daysLeft !== null && r.daysLeft >= 1 && r.daysLeft <= 3).length;
+  const notice = allData.filter(r => r.daysLeft !== null && r.daysLeft >= 1 && r.daysLeft <= 5).length;
+  document.getElementById('stat-urgent').textContent = urgent;
+  document.getElementById('stat-notice').textContent = notice;
+  document.getElementById('stat-total').textContent = allData.length;
+
+  if (list.length === 0) {
+    container.innerHTML = '<div class="empty">沒有符合條件的資料</div>';
+    return;
+  }
+
+  container.innerHTML = list.map(r => {
+    const isBought = !!bought[r.code];
+    const tags = r.giftTypes.map(t => `<span class="tag">${t}</span>`).join('');
+    const priceStr = r.price != null ? `$${r.price.toFixed(1)}` : '—';
+    return `
+    <div class="card ${isBought ? 'bought' : ''}" data-status="${r.status}">
+      <div class="card-top">
+        <div>
+          <div class="card-name">${r.name}</div>
+          <div class="card-code">${r.code}</div>
+        </div>
+        <span class="badge ${badgeClass(r.status)}">${badgeLabel(r.status, r.daysLeft)}</span>
+      </div>
+      <div class="card-info">
+        <div>股價 <b>${priceStr}</b></div>
+        <div>最後買進 <b>${r.buyDateRaw || '—'}</b></div>
+        <div>股東會 <b>${r.meetingDate ? r.meetingDate.slice(5).replace('-','/') : '—'}</b></div>
+        <div>性質 <b>${r.type || '—'}</b></div>
+      </div>
+      <div class="card-gift">紀念品 <b>${r.gift || '—'}</b></div>
+      <div class="card-footer">
+        <div class="tags">${tags}</div>
+        <label class="checkbox-wrap" onclick="event.preventDefault(); toggleBought('${r.code}')">
+          <input type="checkbox" ${isBought ? 'checked' : ''} readonly /> 已購買
+        </label>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+async function load() {
+  try {
+    const resp = await fetch('data.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const json = await resp.json();
+    allData = json.records || [];
+    document.getElementById('update-time').textContent =
+      `資料更新：${json.updatedAt}　共 ${json.total} 筆`;
+    document.getElementById('footer').textContent = '每日 08:00 自動更新';
+    render();
+  } catch(e) {
+    document.getElementById('cards').innerHTML =
+      '<div class="empty">資料載入失敗，請稍後再試</div>';
+    console.error(e);
+  }
+}
+
+load();
+</script>
+</body>
+</html>
