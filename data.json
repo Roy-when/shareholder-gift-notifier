@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-03 02:29",
-  "total": 264,
+  "updatedAt": "2026-04-04 02:21",
+  "total": 263,
   "records": [
     {
       "code": "1340",
@@ -15,8 +15,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "1418",
@@ -31,8 +31,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "3541",
@@ -47,8 +47,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "4977",
@@ -63,8 +63,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6126",
@@ -79,8 +79,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6683",
@@ -95,8 +95,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "1464",
@@ -112,7 +112,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "1718",
@@ -128,7 +128,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "1732",
@@ -144,7 +144,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2025",
@@ -160,7 +160,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2380",
@@ -176,7 +176,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2417",
@@ -192,7 +192,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2457",
@@ -208,7 +208,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2485",
@@ -224,7 +224,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2493",
@@ -240,7 +240,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2535",
@@ -256,7 +256,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2605",
@@ -272,7 +272,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "2913",
@@ -288,7 +288,7 @@
         "飲料"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "3052",
@@ -304,7 +304,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "3211",
@@ -320,7 +320,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "3213",
@@ -336,7 +336,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "3236",
@@ -352,7 +352,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "3317",
@@ -368,7 +368,7 @@
         "日用品"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "3360",
@@ -384,7 +384,7 @@
         "米"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "3707",
@@ -400,7 +400,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "4108",
@@ -416,7 +416,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "4111",
@@ -432,7 +432,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "4533",
@@ -448,7 +448,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "4541",
@@ -464,7 +464,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "4566",
@@ -480,7 +480,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "4716",
@@ -496,7 +496,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "4749",
@@ -512,7 +512,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "5355",
@@ -528,7 +528,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "6220",
@@ -544,7 +544,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "6226",
@@ -560,7 +560,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "6233",
@@ -576,7 +576,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "6411",
@@ -592,7 +592,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "6787",
@@ -608,7 +608,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "9938",
@@ -624,7 +624,7 @@
         "其他"
       ],
       "status": "注意",
-      "daysLeft": 5
+      "daysLeft": 4
     },
     {
       "code": "1452",
@@ -639,8 +639,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "1784",
@@ -655,8 +655,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "2316",
@@ -671,8 +671,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "2364",
@@ -687,8 +687,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "3013",
@@ -703,8 +703,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "3028",
@@ -719,8 +719,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "3209",
@@ -735,8 +735,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "3289",
@@ -751,8 +751,8 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "3322",
@@ -767,8 +767,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "3632",
@@ -783,8 +783,8 @@
       "giftTypes": [
         "米"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "4721",
@@ -799,8 +799,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "4735",
@@ -815,8 +815,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "5371",
@@ -831,8 +831,8 @@
       "giftTypes": [
         "米"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "6185",
@@ -847,8 +847,8 @@
       "giftTypes": [
         "日用品"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "8390",
@@ -864,8 +864,8 @@
         "飲料",
         "日用品"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "9919",
@@ -880,8 +880,8 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "充裕",
-      "daysLeft": 6
+      "status": "注意",
+      "daysLeft": 5
     },
     {
       "code": "1527",
@@ -897,7 +897,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 11
+      "daysLeft": 10
     },
     {
       "code": "2401",
@@ -913,7 +913,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 11
+      "daysLeft": 10
     },
     {
       "code": "5452",
@@ -929,7 +929,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 11
+      "daysLeft": 10
     },
     {
       "code": "6150",
@@ -945,7 +945,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 11
+      "daysLeft": 10
     },
     {
       "code": "1524",
@@ -961,7 +961,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "1604",
@@ -977,7 +977,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "1721",
@@ -993,7 +993,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "1734",
@@ -1009,7 +1009,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2349",
@@ -1025,7 +1025,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2365",
@@ -1041,7 +1041,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2367",
@@ -1057,7 +1057,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2399",
@@ -1073,7 +1073,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2402",
@@ -1089,7 +1089,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2429",
@@ -1105,7 +1105,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2516",
@@ -1121,7 +1121,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2616",
@@ -1137,7 +1137,7 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "2880",
@@ -1153,7 +1153,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3033",
@@ -1169,7 +1169,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3047",
@@ -1185,7 +1185,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3131",
@@ -1201,7 +1201,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3163",
@@ -1217,7 +1217,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3312",
@@ -1233,7 +1233,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3390",
@@ -1249,7 +1249,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3402",
@@ -1265,7 +1265,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3508",
@@ -1281,7 +1281,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3526",
@@ -1297,7 +1297,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3567",
@@ -1313,7 +1313,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3593",
@@ -1329,7 +1329,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3625",
@@ -1345,7 +1345,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3710",
@@ -1361,7 +1361,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "4160",
@@ -1377,7 +1377,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "4167",
@@ -1393,7 +1393,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "4973",
@@ -1409,7 +1409,7 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "5490",
@@ -1425,7 +1425,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "5512",
@@ -1441,7 +1441,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "5701",
@@ -1457,7 +1457,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6015",
@@ -1473,7 +1473,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6108",
@@ -1489,7 +1489,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6129",
@@ -1505,7 +1505,7 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6136",
@@ -1521,7 +1521,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6160",
@@ -1537,7 +1537,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6209",
@@ -1553,7 +1553,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6223",
@@ -1569,7 +1569,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6243",
@@ -1585,7 +1585,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6294",
@@ -1601,7 +1601,7 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "6485",
@@ -1617,7 +1617,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "8027",
@@ -1633,7 +1633,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "8089",
@@ -1649,7 +1649,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "8183",
@@ -1665,7 +1665,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "8443",
@@ -1681,7 +1681,7 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "9912",
@@ -1697,7 +1697,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 12
+      "daysLeft": 11
     },
     {
       "code": "3346",
@@ -1709,6 +1709,86 @@
       "type": "常會",
       "location": "桃園",
       "gift": "MEDIMIX綠寶石皇室藥草浴美肌皂 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 17
+    },
+    {
+      "code": "6462",
+      "name": "神盾",
+      "price": 109.0,
+      "buyDate": "2026-04-22",
+      "buyDateRaw": "04/22",
+      "meetingDate": "2026-06-24",
+      "type": "常會",
+      "location": "台北",
+      "gift": "全家禮物卡50元 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 18
+    },
+    {
+      "code": "1220",
+      "name": "台榮",
+      "price": 12.5,
+      "buyDate": "2026-04-22",
+      "buyDateRaw": "04/22",
+      "meetingDate": "2026-06-24",
+      "type": "常會",
+      "location": "台北",
+      "gift": "中性濃縮洗衣精 參考圖",
+      "giftTypes": [
+        "日用品"
+      ],
+      "status": "充裕",
+      "daysLeft": 18
+    },
+    {
+      "code": "1526",
+      "name": "日馳",
+      "price": 16.75,
+      "buyDate": "2026-04-22",
+      "buyDateRaw": "04/22",
+      "meetingDate": "2026-06-23",
+      "type": "常會",
+      "location": "新北",
+      "gift": "中杯熱美式咖啡券 參考圖",
+      "giftTypes": [
+        "飲料"
+      ],
+      "status": "充裕",
+      "daysLeft": 18
+    },
+    {
+      "code": "1737",
+      "name": "臺鹽",
+      "price": 31.8,
+      "buyDate": "2026-04-22",
+      "buyDateRaw": "04/22",
+      "meetingDate": "2026-06-24",
+      "type": "常會",
+      "location": "台南",
+      "gift": "台塩\r\n生技UP機能吸凍1盒 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 18
+    },
+    {
+      "code": "1809",
+      "name": "中釉",
+      "price": 25.1,
+      "buyDate": "2026-04-22",
+      "buyDateRaw": "04/22",
+      "meetingDate": "2026-06-23",
+      "type": "常會",
+      "location": "新竹",
+      "gift": "氣墊襪 參考圖",
       "giftTypes": [
         "其他"
       ],
@@ -1729,135 +1809,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "4306",
-      "name": "炎洲",
-      "price": 13.6,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-23",
-      "type": "常會",
-      "location": "台北",
-      "gift": "環保購物袋 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "8071",
-      "name": "能率網通",
-      "price": 15.95,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-23",
-      "type": "常會",
-      "location": "股公",
-      "gift": "稻循皂 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "8403",
-      "name": "盛弘",
-      "price": 22.2,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-23",
-      "type": "常會",
-      "location": "桃園",
-      "gift": "智醫康寓住宿抵用券1,000元 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "1220",
-      "name": "台榮",
-      "price": 12.5,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-24",
-      "type": "常會",
-      "location": "台北",
-      "gift": "中性濃縮洗衣精 參考圖",
-      "giftTypes": [
-        "日用品"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "1526",
-      "name": "日馳",
-      "price": 16.75,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-23",
-      "type": "常會",
-      "location": "新北",
-      "gift": "中杯熱美式咖啡券 參考圖",
-      "giftTypes": [
-        "飲料"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "1737",
-      "name": "臺鹽",
-      "price": 31.8,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-24",
-      "type": "常會",
-      "location": "台南",
-      "gift": "台塩\r\n生技UP機能吸凍1盒 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "1809",
-      "name": "中釉",
-      "price": 25.1,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-23",
-      "type": "常會",
-      "location": "新竹",
-      "gift": "氣墊襪 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
-    },
-    {
-      "code": "1815",
-      "name": "富喬",
-      "price": 96.6,
-      "buyDate": "2026-04-22",
-      "buyDateRaw": "04/22",
-      "meetingDate": "2026-06-23",
-      "type": "常會",
-      "location": "雲林",
-      "gift": "多功能吸水隔熱餐墊 參考圖",
-      "giftTypes": [
-        "飲料"
-      ],
-      "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "2460",
@@ -1873,7 +1825,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "2484",
@@ -1889,7 +1841,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3051",
@@ -1905,7 +1857,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3058",
@@ -1921,7 +1873,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3078",
@@ -1937,7 +1889,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3138",
@@ -1953,7 +1905,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3484",
@@ -1969,7 +1921,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3615",
@@ -1985,7 +1937,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3693",
@@ -2001,7 +1953,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "3711",
@@ -2017,7 +1969,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "4306",
@@ -2033,7 +1985,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "4552",
@@ -2049,7 +2001,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "4909",
@@ -2065,7 +2017,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "5227",
@@ -2081,7 +2033,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "5251",
@@ -2097,7 +2049,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "6122",
@@ -2113,7 +2065,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "6186",
@@ -2129,7 +2081,23 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
+    },
+    {
+      "code": "6462",
+      "name": "神盾",
+      "price": 109.0,
+      "buyDate": "2026-04-22",
+      "buyDateRaw": "04/22",
+      "meetingDate": "2026-06-24",
+      "type": "常會",
+      "location": "台北",
+      "gift": "全家禮物卡50元 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 18
     },
     {
       "code": "8071",
@@ -2145,7 +2113,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "8104",
@@ -2161,7 +2129,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "8222",
@@ -2177,7 +2145,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "8403",
@@ -2193,7 +2161,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 19
+      "daysLeft": 18
     },
     {
       "code": "9902",
@@ -2209,6 +2177,70 @@
         "其他"
       ],
       "status": "充裕",
+      "daysLeft": 18
+    },
+    {
+      "code": "3379",
+      "name": "彬台",
+      "price": 36.3,
+      "buyDate": "2026-04-23",
+      "buyDateRaw": "04/23",
+      "meetingDate": "2026-06-26",
+      "type": "常會",
+      "location": "台北",
+      "gift": "香皂二入(禮品) 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 19
+    },
+    {
+      "code": "8050",
+      "name": "廣積",
+      "price": 40.45,
+      "buyDate": "2026-04-23",
+      "buyDateRaw": "04/23",
+      "meetingDate": "2026-06-26",
+      "type": "常會",
+      "location": "台北",
+      "gift": "康寧耐熱玻璃烤盤7吋 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 19
+    },
+    {
+      "code": "1217",
+      "name": "愛之味",
+      "price": 10.3,
+      "buyDate": "2026-04-23",
+      "buyDateRaw": "04/23",
+      "meetingDate": "2026-06-26",
+      "type": "常會",
+      "location": "嘉義",
+      "gift": "愛之味古法濃香初榨花生油(100ml)1瓶 參考圖",
+      "giftTypes": [
+        "油"
+      ],
+      "status": "充裕",
+      "daysLeft": 19
+    },
+    {
+      "code": "2406",
+      "name": "國碩",
+      "price": 30.8,
+      "buyDate": "2026-04-23",
+      "buyDateRaw": "04/23",
+      "meetingDate": "2026-06-26",
+      "type": "常會",
+      "location": "新竹",
+      "gift": "7-11 商品卡35元 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
       "daysLeft": 19
     },
     {
@@ -2225,71 +2257,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
-    },
-    {
-      "code": "8050",
-      "name": "廣積",
-      "price": 40.45,
-      "buyDate": "2026-04-23",
-      "buyDateRaw": "04/23",
-      "meetingDate": "2026-06-26",
-      "type": "常會",
-      "location": "台北",
-      "gift": "康寧耐熱玻璃烤盤7吋 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 20
-    },
-    {
-      "code": "1217",
-      "name": "愛之味",
-      "price": 10.3,
-      "buyDate": "2026-04-23",
-      "buyDateRaw": "04/23",
-      "meetingDate": "2026-06-26",
-      "type": "常會",
-      "location": "嘉義",
-      "gift": "愛之味古法濃香初榨花生油(100ml)1瓶 參考圖",
-      "giftTypes": [
-        "油"
-      ],
-      "status": "充裕",
-      "daysLeft": 20
-    },
-    {
-      "code": "2406",
-      "name": "國碩",
-      "price": 30.8,
-      "buyDate": "2026-04-23",
-      "buyDateRaw": "04/23",
-      "meetingDate": "2026-06-26",
-      "type": "常會",
-      "location": "新竹",
-      "gift": "7-11 商品卡35元 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 20
-    },
-    {
-      "code": "3379",
-      "name": "彬台",
-      "price": 36.3,
-      "buyDate": "2026-04-23",
-      "buyDateRaw": "04/23",
-      "meetingDate": "2026-06-26",
-      "type": "常會",
-      "location": "台北",
-      "gift": "香皂二入(禮品) 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "4174",
@@ -2305,7 +2273,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "4195",
@@ -2321,7 +2289,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "5392",
@@ -2337,7 +2305,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "6163",
@@ -2353,7 +2321,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "6183",
@@ -2369,7 +2337,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "6187",
@@ -2385,7 +2353,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "6237",
@@ -2401,7 +2369,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "6742",
@@ -2417,7 +2385,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "8050",
@@ -2433,7 +2401,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
+      "daysLeft": 19
     },
     {
       "code": "8096",
@@ -2449,23 +2417,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 20
-    },
-    {
-      "code": "3057",
-      "name": "喬鼎",
-      "price": 15.65,
-      "buyDate": "2026-04-28",
-      "buyDateRaw": "04/28",
-      "meetingDate": "2026-06-29",
-      "type": "常會",
-      "location": "新竹",
-      "gift": "摺疊餐具組 參考圖",
-      "giftTypes": [
-        "其他"
-      ],
-      "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 19
     },
     {
       "code": "1540",
@@ -2481,7 +2433,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "3057",
@@ -2497,7 +2449,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "3325",
@@ -2513,7 +2465,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "4564",
@@ -2529,7 +2481,7 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "5905",
@@ -2545,7 +2497,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "6229",
@@ -2561,7 +2513,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "6618",
@@ -2577,7 +2529,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "7729",
@@ -2593,7 +2545,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 25
+      "daysLeft": 24
     },
     {
       "code": "1104",
@@ -2609,7 +2561,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1215",
@@ -2625,7 +2577,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1305",
@@ -2641,7 +2593,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1308",
@@ -2657,7 +2609,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1309",
@@ -2673,7 +2625,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1409",
@@ -2689,7 +2641,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1432",
@@ -2705,7 +2657,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1584",
@@ -2721,7 +2673,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1611",
@@ -2737,7 +2689,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1702",
@@ -2753,7 +2705,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1707",
@@ -2769,7 +2721,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1711",
@@ -2785,7 +2737,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1712",
@@ -2801,7 +2753,7 @@
         "米"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1714",
@@ -2817,7 +2769,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1723",
@@ -2833,7 +2785,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1762",
@@ -2849,7 +2801,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1909",
@@ -2865,7 +2817,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2012",
@@ -2881,7 +2833,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2022",
@@ -2897,7 +2849,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2030",
@@ -2913,7 +2865,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2104",
@@ -2929,7 +2881,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2241",
@@ -2945,7 +2897,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2303",
@@ -2961,7 +2913,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2313",
@@ -2977,7 +2929,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2327",
@@ -2993,7 +2945,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2328",
@@ -3009,7 +2961,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2337",
@@ -3025,7 +2977,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2363",
@@ -3041,7 +2993,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2369",
@@ -3057,7 +3009,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2371",
@@ -3073,7 +3025,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2379",
@@ -3089,7 +3041,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2409",
@@ -3105,7 +3057,7 @@
         "米"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2439",
@@ -3121,7 +3073,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2458",
@@ -3137,7 +3089,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2464",
@@ -3153,7 +3105,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2482",
@@ -3169,7 +3121,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2489",
@@ -3185,7 +3137,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2504",
@@ -3201,7 +3153,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2520",
@@ -3217,7 +3169,7 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2534",
@@ -3233,7 +3185,7 @@
         "米"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "2603",
@@ -3249,7 +3201,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 356
+      "daysLeft": 355
     },
     {
       "code": "1536",
@@ -3265,7 +3217,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "1904",
@@ -3281,7 +3233,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2103",
@@ -3297,7 +3249,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2317",
@@ -3313,7 +3265,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2329",
@@ -3329,7 +3281,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2344",
@@ -3345,7 +3297,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2352",
@@ -3361,7 +3313,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2353",
@@ -3377,7 +3329,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2354",
@@ -3393,7 +3345,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2436",
@@ -3409,7 +3361,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2442",
@@ -3425,7 +3377,7 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2449",
@@ -3441,7 +3393,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2455",
@@ -3457,7 +3409,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2480",
@@ -3473,7 +3425,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "2889",
@@ -3489,7 +3441,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3034",
@@ -3505,7 +3457,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3037",
@@ -3521,7 +3473,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3234",
@@ -3537,7 +3489,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3311",
@@ -3553,7 +3505,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3356",
@@ -3569,7 +3521,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3406",
@@ -3585,7 +3537,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3450",
@@ -3601,7 +3553,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "3535",
@@ -3617,7 +3569,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "4133",
@@ -3633,7 +3585,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "4172",
@@ -3649,7 +3601,7 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "4806",
@@ -3665,7 +3617,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "4916",
@@ -3681,7 +3633,23 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
+    },
+    {
+      "code": "4961",
+      "name": "天鈺",
+      "price": 149.0,
+      "buyDate": "2027-03-26",
+      "buyDateRaw": "03/26",
+      "meetingDate": "2026-05-29",
+      "type": "常會",
+      "location": "新竹",
+      "gift": "7-11 50元商品卡 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 356
     },
     {
       "code": "4974",
@@ -3697,7 +3665,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "6156",
@@ -3713,7 +3681,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "6179",
@@ -3729,7 +3697,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "6257",
@@ -3745,7 +3713,23 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
+    },
+    {
+      "code": "6438",
+      "name": "迅得",
+      "price": 170.0,
+      "buyDate": "2027-03-26",
+      "buyDateRaw": "03/26",
+      "meetingDate": "2026-05-29",
+      "type": "常會",
+      "location": "桃園",
+      "gift": "全家50元禮物卡 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 356
     },
     {
       "code": "8111",
@@ -3761,7 +3745,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "8289",
@@ -3777,7 +3761,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "8383",
@@ -3793,7 +3777,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "8916",
@@ -3809,7 +3793,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "8933",
@@ -3825,7 +3809,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "8996",
@@ -3841,7 +3825,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "9917",
@@ -3857,7 +3841,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 357
+      "daysLeft": 356
     },
     {
       "code": "1323",
@@ -3873,7 +3857,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "2065",
@@ -3889,7 +3873,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "2405",
@@ -3905,7 +3889,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "2465",
@@ -3921,7 +3905,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "2636",
@@ -3937,7 +3921,7 @@
         "飲料"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "2911",
@@ -3953,7 +3937,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "3149",
@@ -3969,7 +3953,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "3546",
@@ -3985,7 +3969,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "4132",
@@ -4001,7 +3985,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "4142",
@@ -4017,7 +4001,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "4150",
@@ -4033,7 +4017,7 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "4557",
@@ -4049,7 +4033,7 @@
         "米"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "5210",
@@ -4065,7 +4049,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "5351",
@@ -4081,7 +4065,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "5386",
@@ -4097,7 +4081,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "5475",
@@ -4113,7 +4097,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "5609",
@@ -4129,7 +4113,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "5706",
@@ -4145,7 +4129,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "6207",
@@ -4161,7 +4145,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "6492",
@@ -4177,7 +4161,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "7689",
@@ -4193,7 +4177,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "8066",
@@ -4209,7 +4193,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     },
     {
       "code": "8119",
@@ -4225,7 +4209,7 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 362
+      "daysLeft": 361
     }
   ]
 }
