@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-13 02:47",
+  "updatedAt": "2026-04-13 05:13",
   "total": 298,
   "records": [
     {
       "code": "1527",
       "name": "鑽全",
-      "price": 32.7,
+      "price": 32.65,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -13,7 +13,7 @@
       "location": "台中",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 1
@@ -21,7 +21,7 @@
     {
       "code": "2401",
       "name": "凌陽",
-      "price": 21.15,
+      "price": 21.1,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -29,7 +29,7 @@
       "location": "新竹",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 1
@@ -37,7 +37,7 @@
     {
       "code": "5452",
       "name": "佶優",
-      "price": 34.9,
+      "price": 35.1,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -45,7 +45,7 @@
       "location": "新北",
       "gift": "全家35元禮物卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 1
@@ -53,7 +53,7 @@
     {
       "code": "6150",
       "name": "撼訊",
-      "price": 53.8,
+      "price": 54.0,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -69,7 +69,7 @@
     {
       "code": "1524",
       "name": "耿鼎",
-      "price": 30.0,
+      "price": 30.45,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -101,7 +101,7 @@
     {
       "code": "1721",
       "name": "三晃",
-      "price": 18.15,
+      "price": 18.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -117,7 +117,7 @@
     {
       "code": "1734",
       "name": "杏輝",
-      "price": 31.5,
+      "price": 31.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -133,7 +133,7 @@
     {
       "code": "2349",
       "name": "錸德",
-      "price": 13.35,
+      "price": 13.45,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -149,7 +149,7 @@
     {
       "code": "2365",
       "name": "昆盈",
-      "price": 31.25,
+      "price": 32.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -165,7 +165,7 @@
     {
       "code": "2367",
       "name": "燿華",
-      "price": 75.0,
+      "price": 74.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -181,7 +181,7 @@
     {
       "code": "2399",
       "name": "映泰",
-      "price": 33.05,
+      "price": 33.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -213,7 +213,7 @@
     {
       "code": "2429",
       "name": "銘旺科",
-      "price": 39.4,
+      "price": 39.75,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -229,7 +229,7 @@
     {
       "code": "2516",
       "name": "新建",
-      "price": 13.65,
+      "price": 13.75,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -245,7 +245,7 @@
     {
       "code": "2616",
       "name": "山隆",
-      "price": 16.25,
+      "price": 16.35,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -261,7 +261,7 @@
     {
       "code": "2880",
       "name": "華南金",
-      "price": 33.95,
+      "price": 34.1,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -277,7 +277,7 @@
     {
       "code": "3033",
       "name": "威健",
-      "price": 33.85,
+      "price": 33.95,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -309,7 +309,7 @@
     {
       "code": "3131",
       "name": "弘塑",
-      "price": 3480.0,
+      "price": 3465.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -325,7 +325,7 @@
     {
       "code": "3163",
       "name": "波若威",
-      "price": 1205.0,
+      "price": 1220.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -341,7 +341,7 @@
     {
       "code": "3312",
       "name": "弘憶股",
-      "price": 36.45,
+      "price": 39.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -365,7 +365,7 @@
       "location": "桃園",
       "gift": "全家禮物卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 2
@@ -373,7 +373,7 @@
     {
       "code": "3402",
       "name": "漢科",
-      "price": 120.5,
+      "price": 122.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -389,7 +389,7 @@
     {
       "code": "3508",
       "name": "位速",
-      "price": 26.1,
+      "price": 24.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -397,7 +397,7 @@
       "location": "桃園",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 2
@@ -405,7 +405,7 @@
     {
       "code": "3526",
       "name": "凡甲",
-      "price": 290.0,
+      "price": 290.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -421,7 +421,7 @@
     {
       "code": "3567",
       "name": "逸昌",
-      "price": 26.3,
+      "price": 26.55,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -437,7 +437,7 @@
     {
       "code": "3593",
       "name": "力銘",
-      "price": 15.1,
+      "price": 17.15,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -445,7 +445,7 @@
       "location": "高雄",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 2
@@ -469,7 +469,7 @@
     {
       "code": "3710",
       "name": "連展投控",
-      "price": 6.25,
+      "price": 6.24,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -485,7 +485,7 @@
     {
       "code": "4160",
       "name": "訊聯基因",
-      "price": 45.75,
+      "price": 45.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -517,7 +517,7 @@
     {
       "code": "4973",
       "name": "廣穎",
-      "price": 81.3,
+      "price": 80.8,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -533,7 +533,7 @@
     {
       "code": "5490",
       "name": "同亨",
-      "price": 26.0,
+      "price": 25.85,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -541,7 +541,7 @@
       "location": "新竹",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 2
@@ -549,7 +549,7 @@
     {
       "code": "5512",
       "name": "力麒",
-      "price": 7.85,
+      "price": 7.86,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -565,7 +565,7 @@
     {
       "code": "5701",
       "name": "劍湖山",
-      "price": 3.64,
+      "price": 3.66,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -581,7 +581,7 @@
     {
       "code": "6015",
       "name": "宏遠證",
-      "price": 13.3,
+      "price": 13.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -597,7 +597,7 @@
     {
       "code": "6108",
       "name": "競國",
-      "price": 16.5,
+      "price": 16.45,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -605,7 +605,7 @@
       "location": "新北",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 2
@@ -613,7 +613,7 @@
     {
       "code": "6129",
       "name": "普誠",
-      "price": 15.85,
+      "price": 16.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -645,7 +645,7 @@
     {
       "code": "6160",
       "name": "欣技",
-      "price": 15.4,
+      "price": 15.35,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -677,7 +677,7 @@
     {
       "code": "6223",
       "name": "旺矽",
-      "price": 4510.0,
+      "price": 4535.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -685,7 +685,7 @@
       "location": "新竹",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 2
@@ -693,7 +693,7 @@
     {
       "code": "6243",
       "name": "迅杰",
-      "price": 29.95,
+      "price": 30.1,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -701,7 +701,7 @@
       "location": "新竹",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "緊急",
       "daysLeft": 2
@@ -709,7 +709,7 @@
     {
       "code": "6244",
       "name": "茂迪",
-      "price": 26.0,
+      "price": 26.15,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -725,7 +725,7 @@
     {
       "code": "6294",
       "name": "智基",
-      "price": 41.95,
+      "price": 41.9,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -741,7 +741,7 @@
     {
       "code": "6485",
       "name": "點序",
-      "price": 78.5,
+      "price": 78.9,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -757,7 +757,7 @@
     {
       "code": "8027",
       "name": "鈦昇",
-      "price": 150.0,
+      "price": 145.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -773,7 +773,7 @@
     {
       "code": "8089",
       "name": "康全電訊",
-      "price": 21.55,
+      "price": 21.65,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -789,7 +789,7 @@
     {
       "code": "8183",
       "name": "精星",
-      "price": 34.9,
+      "price": 35.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -805,7 +805,7 @@
     {
       "code": "8443",
       "name": "阿瘦",
-      "price": 11.85,
+      "price": 11.9,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -821,7 +821,7 @@
     {
       "code": "9912",
       "name": "偉聯",
-      "price": 12.85,
+      "price": 12.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -853,7 +853,7 @@
     {
       "code": "7895",
       "name": "元進莊",
-      "price": 72.2,
+      "price": 72.0,
       "buyDate": "2026-04-21",
       "buyDateRaw": "04/21",
       "meetingDate": "2026-06-22",
@@ -869,7 +869,7 @@
     {
       "code": "2340",
       "name": "台亞",
-      "price": 27.75,
+      "price": 28.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -885,7 +885,7 @@
     {
       "code": "1220",
       "name": "台榮",
-      "price": 12.5,
+      "price": 12.75,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -917,7 +917,7 @@
     {
       "code": "1449",
       "name": "佳和",
-      "price": 15.25,
+      "price": 15.05,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -949,7 +949,7 @@
     {
       "code": "1737",
       "name": "臺鹽",
-      "price": 32.0,
+      "price": 32.1,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -965,7 +965,7 @@
     {
       "code": "1809",
       "name": "中釉",
-      "price": 26.3,
+      "price": 26.75,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -981,7 +981,7 @@
     {
       "code": "1815",
       "name": "富喬",
-      "price": 115.5,
+      "price": 113.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -997,7 +997,7 @@
     {
       "code": "2340",
       "name": "台亞",
-      "price": 27.75,
+      "price": 28.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -1013,7 +1013,7 @@
     {
       "code": "2460",
       "name": "建通",
-      "price": 31.6,
+      "price": 32.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1029,7 +1029,7 @@
     {
       "code": "2471",
       "name": "資通",
-      "price": 51.5,
+      "price": 51.2,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1061,7 +1061,7 @@
     {
       "code": "3043",
       "name": "科風",
-      "price": 19.15,
+      "price": 19.35,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -1069,7 +1069,7 @@
       "location": "新北",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 9
@@ -1077,7 +1077,7 @@
     {
       "code": "3051",
       "name": "力特",
-      "price": 20.15,
+      "price": 20.1,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1093,7 +1093,7 @@
     {
       "code": "3058",
       "name": "立德",
-      "price": 9.07,
+      "price": 9.09,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1109,7 +1109,7 @@
     {
       "code": "3078",
       "name": "僑威",
-      "price": 54.2,
+      "price": 54.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1125,7 +1125,7 @@
     {
       "code": "3138",
       "name": "耀登",
-      "price": 183.0,
+      "price": 177.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -1141,7 +1141,7 @@
     {
       "code": "3484",
       "name": "崧騰",
-      "price": 45.25,
+      "price": 45.2,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1157,7 +1157,7 @@
     {
       "code": "3615",
       "name": "安可",
-      "price": 31.3,
+      "price": 31.05,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1173,7 +1173,7 @@
     {
       "code": "3693",
       "name": "營邦",
-      "price": 598.0,
+      "price": 622.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -1189,7 +1189,7 @@
     {
       "code": "3711",
       "name": "日月光投控",
-      "price": 420.5,
+      "price": 419.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1205,7 +1205,7 @@
     {
       "code": "4306",
       "name": "炎洲",
-      "price": 13.65,
+      "price": 13.75,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1221,7 +1221,7 @@
     {
       "code": "4552",
       "name": "力達-KY",
-      "price": 20.9,
+      "price": 21.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1253,7 +1253,7 @@
     {
       "code": "4909",
       "name": "新復興",
-      "price": 60.7,
+      "price": 59.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1261,7 +1261,7 @@
       "location": "桃園",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 9
@@ -1285,7 +1285,7 @@
     {
       "code": "5251",
       "name": "天鉞電",
-      "price": 30.0,
+      "price": 29.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1301,7 +1301,7 @@
     {
       "code": "5314",
       "name": "世紀*",
-      "price": 78.3,
+      "price": 77.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1317,7 +1317,7 @@
     {
       "code": "6122",
       "name": "擎邦",
-      "price": 49.85,
+      "price": 50.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1333,7 +1333,7 @@
     {
       "code": "6127",
       "name": "九豪",
-      "price": 44.55,
+      "price": 44.2,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1349,7 +1349,7 @@
     {
       "code": "6148",
       "name": "驊宏資",
-      "price": 32.2,
+      "price": 32.15,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1365,7 +1365,7 @@
     {
       "code": "6180",
       "name": "橘子",
-      "price": 41.7,
+      "price": 41.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1381,7 +1381,7 @@
     {
       "code": "6186",
       "name": "新潤",
-      "price": 40.0,
+      "price": 40.05,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1389,7 +1389,7 @@
       "location": "台北",
       "gift": "7-11 商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 9
@@ -1397,7 +1397,7 @@
     {
       "code": "6462",
       "name": "神盾",
-      "price": 107.0,
+      "price": 105.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1405,7 +1405,7 @@
       "location": "台北",
       "gift": "全家禮物卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 9
@@ -1429,7 +1429,7 @@
     {
       "code": "8104",
       "name": "錸寶",
-      "price": 31.8,
+      "price": 32.45,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -1445,7 +1445,7 @@
     {
       "code": "8222",
       "name": "寶一",
-      "price": 34.3,
+      "price": 34.55,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1461,7 +1461,7 @@
     {
       "code": "8403",
       "name": "盛弘",
-      "price": 22.2,
+      "price": 22.15,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1493,7 +1493,7 @@
     {
       "code": "9902",
       "name": "台火",
-      "price": 14.25,
+      "price": 14.45,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -1509,7 +1509,7 @@
     {
       "code": "9914",
       "name": "美利達",
-      "price": 59.8,
+      "price": 61.1,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -1517,7 +1517,7 @@
       "location": "彰化",
       "gift": "7-11 商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 9
@@ -1525,7 +1525,7 @@
     {
       "code": "1217",
       "name": "愛之味",
-      "price": 10.3,
+      "price": 10.35,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1557,7 +1557,7 @@
     {
       "code": "2406",
       "name": "國碩",
-      "price": 31.7,
+      "price": 31.5,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1565,7 +1565,7 @@
       "location": "新竹",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 10
@@ -1573,7 +1573,7 @@
     {
       "code": "3025",
       "name": "星通",
-      "price": 64.4,
+      "price": 63.4,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1581,7 +1581,7 @@
       "location": "新竹",
       "gift": "7-11 商品券50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 10
@@ -1589,7 +1589,7 @@
     {
       "code": "3379",
       "name": "彬台",
-      "price": 35.1,
+      "price": 35.35,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1605,7 +1605,7 @@
     {
       "code": "4174",
       "name": "浩鼎",
-      "price": 37.45,
+      "price": 37.7,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1621,7 +1621,7 @@
     {
       "code": "4195",
       "name": "基米",
-      "price": 27.35,
+      "price": 27.2,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1637,7 +1637,7 @@
     {
       "code": "5392",
       "name": "能率",
-      "price": 35.8,
+      "price": 36.4,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1653,7 +1653,7 @@
     {
       "code": "6163",
       "name": "華電網",
-      "price": 63.5,
+      "price": 63.6,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1669,7 +1669,7 @@
     {
       "code": "6183",
       "name": "關貿",
-      "price": 93.2,
+      "price": 92.1,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1677,7 +1677,7 @@
       "location": "台北",
       "gift": "7-11 商品卡100元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 10
@@ -1685,7 +1685,7 @@
     {
       "code": "6187",
       "name": "萬潤",
-      "price": 1010.0,
+      "price": 1045.0,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1693,7 +1693,8 @@
       "location": "高雄",
       "gift": "全家咖啡商品卡 參考圖",
       "giftTypes": [
-        "飲料"
+        "飲料",
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 10
@@ -1701,7 +1702,7 @@
     {
       "code": "6216",
       "name": "居易",
-      "price": 24.9,
+      "price": 24.95,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1717,7 +1718,7 @@
     {
       "code": "6237",
       "name": "驊訊",
-      "price": 36.0,
+      "price": 37.1,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1725,7 +1726,7 @@
       "location": "台北",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 10
@@ -1733,7 +1734,7 @@
     {
       "code": "6742",
       "name": "澤米",
-      "price": 40.4,
+      "price": 42.5,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1741,7 +1742,7 @@
       "location": "苗栗",
       "gift": "全家50元禮物卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 10
@@ -1749,7 +1750,7 @@
     {
       "code": "8038",
       "name": "長園科",
-      "price": 40.6,
+      "price": 41.9,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1781,7 +1782,7 @@
     {
       "code": "8096",
       "name": "擎亞",
-      "price": 95.4,
+      "price": 95.8,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -1789,7 +1790,7 @@
       "location": "更正",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 10
@@ -1797,7 +1798,7 @@
     {
       "code": "1540",
       "name": "喬福",
-      "price": 21.45,
+      "price": 21.5,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -1813,7 +1814,7 @@
     {
       "code": "3057",
       "name": "喬鼎",
-      "price": 17.2,
+      "price": 17.45,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -1829,7 +1830,7 @@
     {
       "code": "3325",
       "name": "旭品",
-      "price": 12.45,
+      "price": 12.35,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -1837,7 +1838,7 @@
       "location": "新北",
       "gift": "7-11 50元商品卡一張 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 15
@@ -1845,7 +1846,7 @@
     {
       "code": "4564",
       "name": "元翎",
-      "price": 18.6,
+      "price": 19.05,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -1893,7 +1894,7 @@
     {
       "code": "6618",
       "name": "永虹先進",
-      "price": 18.05,
+      "price": 17.7,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -1909,7 +1910,7 @@
     {
       "code": "7729",
       "name": "仲恩生醫",
-      "price": 76.3,
+      "price": 75.2,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -1917,7 +1918,7 @@
       "location": "台北",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 15
@@ -1925,7 +1926,7 @@
     {
       "code": "1104",
       "name": "環泥",
-      "price": 29.25,
+      "price": 29.35,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -1933,7 +1934,7 @@
       "location": "桃園",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -1941,7 +1942,7 @@
     {
       "code": "1215",
       "name": "卜蜂",
-      "price": 144.5,
+      "price": 145.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -1957,7 +1958,7 @@
     {
       "code": "1305",
       "name": "華夏",
-      "price": 17.5,
+      "price": 17.65,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -1973,7 +1974,7 @@
     {
       "code": "1308",
       "name": "亞聚",
-      "price": 16.95,
+      "price": 17.25,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -1989,7 +1990,7 @@
     {
       "code": "1309",
       "name": "台達化",
-      "price": 23.6,
+      "price": 23.9,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2005,7 +2006,7 @@
     {
       "code": "1409",
       "name": "新纖",
-      "price": 16.9,
+      "price": 17.25,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2021,7 +2022,7 @@
     {
       "code": "1432",
       "name": "大魯閣",
-      "price": 17.1,
+      "price": 17.25,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2037,7 +2038,7 @@
     {
       "code": "1584",
       "name": "精剛",
-      "price": 21.1,
+      "price": 21.15,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2053,7 +2054,7 @@
     {
       "code": "1611",
       "name": "中電",
-      "price": 12.25,
+      "price": 12.45,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2085,7 +2086,7 @@
     {
       "code": "1707",
       "name": "葡萄王",
-      "price": 117.0,
+      "price": 117.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2109,7 +2110,7 @@
       "location": "台北",
       "gift": "全家35元企業禮贈卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2117,7 +2118,7 @@
     {
       "code": "1712",
       "name": "興農",
-      "price": 42.8,
+      "price": 43.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2133,7 +2134,7 @@
     {
       "code": "1714",
       "name": "和桐",
-      "price": 10.1,
+      "price": 10.15,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2141,7 +2142,7 @@
       "location": "新北",
       "gift": "全家禮物卡⾯\r\n額50元⼄\r\n張 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2149,7 +2150,7 @@
     {
       "code": "1723",
       "name": "中碳",
-      "price": 79.9,
+      "price": 81.2,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2157,7 +2158,7 @@
       "location": "高雄",
       "gift": "7-11  商品卡 50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2165,7 +2166,7 @@
     {
       "code": "1762",
       "name": "中化生",
-      "price": 27.9,
+      "price": 28.15,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2181,7 +2182,7 @@
     {
       "code": "1909",
       "name": "榮成",
-      "price": 9.81,
+      "price": 9.88,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2197,7 +2198,7 @@
     {
       "code": "2012",
       "name": "春雨",
-      "price": 15.65,
+      "price": 15.8,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2213,7 +2214,7 @@
     {
       "code": "2022",
       "name": "聚亨",
-      "price": 9.02,
+      "price": 9.03,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2229,7 +2230,7 @@
     {
       "code": "2030",
       "name": "彰源",
-      "price": 16.0,
+      "price": 16.1,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2245,7 +2246,7 @@
     {
       "code": "2104",
       "name": "國際中橡",
-      "price": 11.6,
+      "price": 11.65,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2261,7 +2262,7 @@
     {
       "code": "2241",
       "name": "艾姆勒",
-      "price": 28.05,
+      "price": 28.3,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2269,7 +2270,7 @@
       "location": "新北",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2277,7 +2278,7 @@
     {
       "code": "2303",
       "name": "聯電",
-      "price": 59.3,
+      "price": 60.1,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2293,7 +2294,7 @@
     {
       "code": "2313",
       "name": "華通",
-      "price": 286.5,
+      "price": 281.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2309,7 +2310,7 @@
     {
       "code": "2327",
       "name": "國巨*",
-      "price": 306.5,
+      "price": 304.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2325,7 +2326,7 @@
     {
       "code": "2328",
       "name": "廣宇",
-      "price": 44.15,
+      "price": 44.3,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2333,7 +2334,7 @@
       "location": "新北",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2341,7 +2342,7 @@
     {
       "code": "2337",
       "name": "旺宏",
-      "price": 147.5,
+      "price": 146.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2349,7 +2350,7 @@
       "location": "新竹",
       "gift": "50元 7-11 商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2357,7 +2358,7 @@
     {
       "code": "2363",
       "name": "矽統",
-      "price": 46.6,
+      "price": 46.75,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2373,7 +2374,7 @@
     {
       "code": "2369",
       "name": "菱生",
-      "price": 31.4,
+      "price": 31.65,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2381,7 +2382,7 @@
       "location": "台中",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2389,7 +2390,7 @@
     {
       "code": "2371",
       "name": "大同",
-      "price": 31.9,
+      "price": 31.75,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2405,7 +2406,7 @@
     {
       "code": "2379",
       "name": "瑞昱",
-      "price": 517.0,
+      "price": 523.0,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2413,7 +2414,7 @@
       "location": "新竹",
       "gift": "全家88元禮物卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2437,7 +2438,7 @@
     {
       "code": "2439",
       "name": "美律",
-      "price": 85.5,
+      "price": 86.8,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -2445,7 +2446,8 @@
       "location": "台中",
       "gift": "全家35元咖啡卡 參考圖",
       "giftTypes": [
-        "飲料"
+        "飲料",
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2453,7 +2455,7 @@
     {
       "code": "2458",
       "name": "義隆",
-      "price": 133.5,
+      "price": 134.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2469,7 +2471,7 @@
     {
       "code": "2464",
       "name": "盟立",
-      "price": 68.2,
+      "price": 70.5,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2485,7 +2487,7 @@
     {
       "code": "2482",
       "name": "連宇",
-      "price": 16.85,
+      "price": 17.1,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2501,7 +2503,7 @@
     {
       "code": "2489",
       "name": "瑞軒",
-      "price": 47.25,
+      "price": 47.15,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2517,7 +2519,7 @@
     {
       "code": "2504",
       "name": "國產",
-      "price": 36.1,
+      "price": 36.2,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -2525,7 +2527,7 @@
       "location": "新北",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 346
@@ -2533,7 +2535,7 @@
     {
       "code": "2520",
       "name": "冠德",
-      "price": 30.55,
+      "price": 30.85,
       "buyDate": "2027-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -2581,7 +2583,7 @@
     {
       "code": "1536",
       "name": "和大",
-      "price": 48.55,
+      "price": 49.45,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2605,7 +2607,7 @@
       "location": "新北",
       "gift": "7-11 商品卡100元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -2613,7 +2615,7 @@
     {
       "code": "1904",
       "name": "正隆",
-      "price": 18.85,
+      "price": 19.15,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2629,7 +2631,7 @@
     {
       "code": "2103",
       "name": "台橡",
-      "price": 19.15,
+      "price": 19.45,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2661,7 +2663,7 @@
     {
       "code": "2329",
       "name": "華泰",
-      "price": 58.5,
+      "price": 59.2,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2677,7 +2679,7 @@
     {
       "code": "2344",
       "name": "華邦電",
-      "price": 93.8,
+      "price": 93.4,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2693,7 +2695,7 @@
     {
       "code": "2352",
       "name": "佳世達",
-      "price": 23.95,
+      "price": 24.1,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2725,7 +2727,7 @@
     {
       "code": "2354",
       "name": "鴻準",
-      "price": 50.0,
+      "price": 50.3,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2741,7 +2743,7 @@
     {
       "code": "2436",
       "name": "偉詮電",
-      "price": 61.1,
+      "price": 61.7,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2757,7 +2759,7 @@
     {
       "code": "2442",
       "name": "新美齊",
-      "price": 20.15,
+      "price": 20.35,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2773,7 +2775,7 @@
     {
       "code": "2449",
       "name": "京元電子",
-      "price": 291.5,
+      "price": 295.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2789,7 +2791,7 @@
     {
       "code": "2455",
       "name": "全新",
-      "price": 294.5,
+      "price": 297.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2813,7 +2815,7 @@
       "location": "新竹",
       "gift": "7-11 商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -2821,7 +2823,7 @@
     {
       "code": "2889",
       "name": "國票金",
-      "price": 15.15,
+      "price": 15.25,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2837,7 +2839,7 @@
     {
       "code": "3034",
       "name": "聯詠",
-      "price": 390.5,
+      "price": 395.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2853,7 +2855,7 @@
     {
       "code": "3037",
       "name": "欣興",
-      "price": 644.0,
+      "price": 630.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2869,7 +2871,7 @@
     {
       "code": "3234",
       "name": "光環",
-      "price": 119.0,
+      "price": 124.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2885,7 +2887,7 @@
     {
       "code": "3311",
       "name": "閎暉",
-      "price": 33.35,
+      "price": 33.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2901,7 +2903,7 @@
     {
       "code": "3356",
       "name": "奇偶",
-      "price": 50.9,
+      "price": 52.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2909,7 +2911,8 @@
       "location": "台北",
       "gift": "7-11 美式咖啡卡 參考圖",
       "giftTypes": [
-        "飲料"
+        "飲料",
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -2917,7 +2920,7 @@
     {
       "code": "3406",
       "name": "玉晶光",
-      "price": 462.5,
+      "price": 475.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2925,7 +2928,7 @@
       "location": "台中",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -2933,7 +2936,7 @@
     {
       "code": "3450",
       "name": "聯鈞",
-      "price": 310.0,
+      "price": 309.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2949,7 +2952,7 @@
     {
       "code": "3535",
       "name": "晶彩科",
-      "price": 129.0,
+      "price": 128.5,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2965,7 +2968,7 @@
     {
       "code": "3685",
       "name": "元創精密",
-      "price": 27.5,
+      "price": 27.1,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2973,7 +2976,7 @@
       "location": "台中",
       "gift": "全家禮物卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -2981,7 +2984,7 @@
     {
       "code": "4133",
       "name": "亞諾法",
-      "price": 22.25,
+      "price": 22.7,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -2989,7 +2992,7 @@
       "location": "台北",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -2997,7 +3000,7 @@
     {
       "code": "4172",
       "name": "因華",
-      "price": 13.05,
+      "price": 12.95,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3013,7 +3016,7 @@
     {
       "code": "4806",
       "name": "桂田文創",
-      "price": 11.1,
+      "price": 11.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3029,7 +3032,7 @@
     {
       "code": "4912",
       "name": "聯德控股-KY",
-      "price": 86.9,
+      "price": 87.4,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3045,7 +3048,7 @@
     {
       "code": "4916",
       "name": "事欣科",
-      "price": 57.3,
+      "price": 58.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3053,7 +3056,7 @@
       "location": "桃園",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -3061,7 +3064,7 @@
     {
       "code": "4961",
       "name": "天鈺",
-      "price": 151.0,
+      "price": 152.5,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3069,7 +3072,7 @@
       "location": "新竹",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -3077,7 +3080,7 @@
     {
       "code": "4974",
       "name": "亞泰",
-      "price": 69.9,
+      "price": 70.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3093,7 +3096,7 @@
     {
       "code": "6156",
       "name": "松上",
-      "price": 19.55,
+      "price": 19.6,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3109,7 +3112,7 @@
     {
       "code": "6179",
       "name": "亞通",
-      "price": 24.75,
+      "price": 24.9,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3125,7 +3128,7 @@
     {
       "code": "6215",
       "name": "和椿",
-      "price": 101.0,
+      "price": 102.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3133,7 +3136,7 @@
       "location": "台北",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -3141,7 +3144,7 @@
     {
       "code": "6257",
       "name": "矽格",
-      "price": 177.0,
+      "price": 179.5,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3149,7 +3152,7 @@
       "location": "新竹",
       "gift": "7-11 商品卡 50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -3157,7 +3160,7 @@
     {
       "code": "6438",
       "name": "迅得",
-      "price": 176.5,
+      "price": 183.5,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3165,7 +3168,7 @@
       "location": "桃園",
       "gift": "全家50元禮物卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -3173,7 +3176,7 @@
     {
       "code": "8111",
       "name": "立碁",
-      "price": 62.9,
+      "price": 67.3,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3189,7 +3192,7 @@
     {
       "code": "8289",
       "name": "泰藝",
-      "price": 39.2,
+      "price": 41.5,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3221,7 +3224,7 @@
     {
       "code": "8916",
       "name": "光隆",
-      "price": 47.5,
+      "price": 47.45,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3237,7 +3240,7 @@
     {
       "code": "8933",
       "name": "愛地雅",
-      "price": 6.67,
+      "price": 6.59,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3253,7 +3256,7 @@
     {
       "code": "8996",
       "name": "高力",
-      "price": 1055.0,
+      "price": 1090.0,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3261,7 +3264,7 @@
       "location": "桃園",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -3269,7 +3272,7 @@
     {
       "code": "9917",
       "name": "中保科",
-      "price": 116.0,
+      "price": 115.5,
       "buyDate": "2027-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -3277,7 +3280,7 @@
       "location": "新北",
       "gift": "7-11 或全家100元商品卡(擇一) 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 347
@@ -3285,7 +3288,7 @@
     {
       "code": "1323",
       "name": "永裕",
-      "price": 22.4,
+      "price": 22.3,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -3293,7 +3296,7 @@
       "location": "台南",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3301,7 +3304,7 @@
     {
       "code": "2065",
       "name": "世豐",
-      "price": 31.0,
+      "price": 30.15,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3309,7 +3312,7 @@
       "location": "高雄",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3317,7 +3320,7 @@
     {
       "code": "2405",
       "name": "輔信",
-      "price": 15.15,
+      "price": 15.25,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -3333,7 +3336,7 @@
     {
       "code": "2465",
       "name": "麗臺",
-      "price": 61.0,
+      "price": 61.4,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -3349,7 +3352,7 @@
     {
       "code": "2611",
       "name": "志信",
-      "price": 14.95,
+      "price": 15.05,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3357,7 +3360,7 @@
       "location": "台北",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3365,7 +3368,7 @@
     {
       "code": "2636",
       "name": "台驊控股",
-      "price": 67.2,
+      "price": 67.9,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -3381,7 +3384,7 @@
     {
       "code": "2911",
       "name": "麗嬰房",
-      "price": 5.05,
+      "price": 5.1,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -3397,7 +3400,7 @@
     {
       "code": "3149",
       "name": "正達",
-      "price": 41.65,
+      "price": 41.6,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -3413,7 +3416,7 @@
     {
       "code": "3546",
       "name": "宇峻",
-      "price": 69.5,
+      "price": 70.2,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -3445,7 +3448,7 @@
     {
       "code": "4142",
       "name": "國光生",
-      "price": 18.35,
+      "price": 18.45,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3461,7 +3464,7 @@
     {
       "code": "4150",
       "name": "優你康",
-      "price": 5.1,
+      "price": 5.06,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3477,7 +3480,7 @@
     {
       "code": "4155",
       "name": "訊映",
-      "price": 13.15,
+      "price": 13.1,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-02",
@@ -3493,7 +3496,7 @@
     {
       "code": "4557",
       "name": "永新-KY",
-      "price": 55.0,
+      "price": 54.1,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -3509,7 +3512,7 @@
     {
       "code": "4991",
       "name": "環宇-KY",
-      "price": 553.0,
+      "price": 582.0,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -3517,7 +3520,7 @@
       "location": "新北",
       "gift": "7-1135元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3525,7 +3528,7 @@
     {
       "code": "5210",
       "name": "寶碩",
-      "price": 22.55,
+      "price": 22.2,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-02",
@@ -3533,7 +3536,7 @@
       "location": "台北",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3541,7 +3544,7 @@
     {
       "code": "5351",
       "name": "鈺創",
-      "price": 69.9,
+      "price": 68.8,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -3549,7 +3552,7 @@
       "location": "新竹",
       "gift": "全家50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3557,7 +3560,7 @@
     {
       "code": "5386",
       "name": "青雲",
-      "price": 344.0,
+      "price": 333.0,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3573,7 +3576,7 @@
     {
       "code": "5475",
       "name": "德宏",
-      "price": 292.5,
+      "price": 288.5,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -3589,7 +3592,7 @@
     {
       "code": "5609",
       "name": "中菲行",
-      "price": 79.2,
+      "price": 79.0,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -3621,7 +3624,7 @@
     {
       "code": "6016",
       "name": "康和證",
-      "price": 16.75,
+      "price": 16.7,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3637,7 +3640,7 @@
     {
       "code": "6207",
       "name": "雷科",
-      "price": 55.0,
+      "price": 55.6,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3653,7 +3656,7 @@
     {
       "code": "6492",
       "name": "生華科",
-      "price": 50.2,
+      "price": 51.3,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -3661,7 +3664,7 @@
       "location": "新北",
       "gift": "全家禮物卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3669,7 +3672,7 @@
     {
       "code": "6530",
       "name": "創威",
-      "price": 99.8,
+      "price": 99.9,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3677,7 +3680,7 @@
       "location": "台北",
       "gift": "全家禮物卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3685,7 +3688,7 @@
     {
       "code": "7689",
       "name": "大鵬科CLMX",
-      "price": 180.5,
+      "price": 182.5,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3701,7 +3704,7 @@
     {
       "code": "7780",
       "name": "大研生醫",
-      "price": 21.15,
+      "price": 21.0,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3733,7 +3736,7 @@
     {
       "code": "8119",
       "name": "公信",
-      "price": 8.38,
+      "price": 8.23,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -3749,7 +3752,7 @@
     {
       "code": "8935",
       "name": "邦泰",
-      "price": 18.85,
+      "price": 19.15,
       "buyDate": "2027-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -3757,7 +3760,7 @@
       "location": "台中",
       "gift": "7-11 商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 352
@@ -3765,7 +3768,7 @@
     {
       "code": "1340",
       "name": "勝悅-KY",
-      "price": 6.43,
+      "price": 6.42,
       "buyDate": "2027-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -3797,7 +3800,7 @@
     {
       "code": "3541",
       "name": "西柏",
-      "price": 23.9,
+      "price": 23.8,
       "buyDate": "2027-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -3813,7 +3816,7 @@
     {
       "code": "4977",
       "name": "眾達-KY",
-      "price": 194.5,
+      "price": 194.0,
       "buyDate": "2027-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -3821,7 +3824,7 @@
       "location": "台北",
       "gift": "全家35元禮物卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 359
@@ -3829,7 +3832,7 @@
     {
       "code": "6126",
       "name": "信音",
-      "price": 32.05,
+      "price": 32.1,
       "buyDate": "2027-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -3845,7 +3848,7 @@
     {
       "code": "6683",
       "name": "雍智科技",
-      "price": 1770.0,
+      "price": 1790.0,
       "buyDate": "2027-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -3853,7 +3856,7 @@
       "location": "新竹",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 359
@@ -3861,7 +3864,7 @@
     {
       "code": "1464",
       "name": "得力",
-      "price": 10.35,
+      "price": 10.45,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -3877,7 +3880,7 @@
     {
       "code": "1718",
       "name": "中纖",
-      "price": 7.18,
+      "price": 7.29,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3893,7 +3896,7 @@
     {
       "code": "1732",
       "name": "毛寶",
-      "price": 25.85,
+      "price": 25.9,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3925,7 +3928,7 @@
     {
       "code": "2359",
       "name": "所羅門",
-      "price": 108.0,
+      "price": 109.0,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -3941,7 +3944,7 @@
     {
       "code": "2380",
       "name": "虹光",
-      "price": 5.21,
+      "price": 5.22,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -3957,7 +3960,7 @@
     {
       "code": "2417",
       "name": "圓剛",
-      "price": 39.75,
+      "price": 40.9,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3973,7 +3976,7 @@
     {
       "code": "2457",
       "name": "飛宏",
-      "price": 24.1,
+      "price": 24.3,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3981,7 +3984,7 @@
       "location": "桃園",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -3989,7 +3992,7 @@
     {
       "code": "2485",
       "name": "兆赫",
-      "price": 73.7,
+      "price": 80.8,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -3997,7 +4000,7 @@
       "location": "新竹",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4005,7 +4008,7 @@
     {
       "code": "2493",
       "name": "揚博",
-      "price": 130.0,
+      "price": 130.5,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4021,7 +4024,7 @@
     {
       "code": "2535",
       "name": "達欣工",
-      "price": 70.9,
+      "price": 70.8,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4037,7 +4040,7 @@
     {
       "code": "2605",
       "name": "新興",
-      "price": 40.25,
+      "price": 40.2,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4053,7 +4056,7 @@
     {
       "code": "2913",
       "name": "農林",
-      "price": 12.1,
+      "price": 12.15,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4069,7 +4072,7 @@
     {
       "code": "3052",
       "name": "夆典",
-      "price": 10.95,
+      "price": 11.0,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4085,7 +4088,7 @@
     {
       "code": "3211",
       "name": "順達",
-      "price": 358.0,
+      "price": 359.0,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4093,7 +4096,7 @@
       "location": "桃園",
       "gift": "7-11 50元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4101,7 +4104,7 @@
     {
       "code": "3213",
       "name": "茂訊",
-      "price": 102.0,
+      "price": 103.5,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -4117,7 +4120,7 @@
     {
       "code": "3236",
       "name": "千如",
-      "price": 34.45,
+      "price": 34.65,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4133,7 +4136,7 @@
     {
       "code": "3317",
       "name": "尼克森",
-      "price": 50.8,
+      "price": 51.4,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4165,7 +4168,7 @@
     {
       "code": "3376",
       "name": "新日興",
-      "price": 197.5,
+      "price": 198.0,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4181,7 +4184,7 @@
     {
       "code": "3479",
       "name": "安勤",
-      "price": 89.5,
+      "price": 90.7,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4189,7 +4192,8 @@
       "location": "新北",
       "gift": "全家中杯美式咖啡 參考圖",
       "giftTypes": [
-        "飲料"
+        "飲料",
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4197,7 +4201,7 @@
     {
       "code": "3707",
       "name": "漢磊",
-      "price": 50.6,
+      "price": 51.4,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4213,7 +4217,7 @@
     {
       "code": "4108",
       "name": "懷特",
-      "price": 12.3,
+      "price": 12.35,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4245,7 +4249,7 @@
     {
       "code": "4171",
       "name": "瑞基",
-      "price": 18.5,
+      "price": 18.4,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4253,7 +4257,7 @@
       "location": "台中",
       "gift": "全家禮物卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4261,7 +4265,7 @@
     {
       "code": "4533",
       "name": "協易機",
-      "price": 29.5,
+      "price": 29.75,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4269,7 +4273,7 @@
       "location": "桃園",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4277,7 +4281,7 @@
     {
       "code": "4541",
       "name": "晟田",
-      "price": 46.7,
+      "price": 46.35,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4285,7 +4289,7 @@
       "location": "高雄",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4293,7 +4297,7 @@
     {
       "code": "4566",
       "name": "時碩工業",
-      "price": 72.3,
+      "price": 70.4,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4309,7 +4313,7 @@
     {
       "code": "4716",
       "name": "大立",
-      "price": 15.55,
+      "price": 15.75,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4325,7 +4329,7 @@
     {
       "code": "4749",
       "name": "新應材",
-      "price": 933.0,
+      "price": 930.0,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4333,7 +4337,7 @@
       "location": "桃園",
       "gift": "7-11 商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4341,7 +4345,7 @@
     {
       "code": "5355",
       "name": "佳總",
-      "price": 6.51,
+      "price": 6.33,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -4357,7 +4361,7 @@
     {
       "code": "6153",
       "name": "嘉聯益",
-      "price": 17.4,
+      "price": 17.5,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -4373,7 +4377,7 @@
     {
       "code": "6220",
       "name": "岳豐",
-      "price": 34.1,
+      "price": 34.75,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4389,7 +4393,7 @@
     {
       "code": "6226",
       "name": "光鼎",
-      "price": 12.7,
+      "price": 13.4,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4405,7 +4409,7 @@
     {
       "code": "6233",
       "name": "旺玖",
-      "price": 25.45,
+      "price": 25.6,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -4413,7 +4417,7 @@
       "location": "台北",
       "gift": "全家35元禮物卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4421,7 +4425,7 @@
     {
       "code": "6411",
       "name": "晶焱",
-      "price": 75.8,
+      "price": 76.3,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4429,7 +4433,7 @@
       "location": "新北",
       "gift": "7-11  商品卡50元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4445,7 +4449,8 @@
       "location": "新北",
       "gift": "全家咖啡卡25元 參考圖",
       "giftTypes": [
-        "飲料"
+        "飲料",
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 360
@@ -4453,7 +4458,7 @@
     {
       "code": "6787",
       "name": "晶瑞光",
-      "price": 28.15,
+      "price": 28.9,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4469,7 +4474,7 @@
     {
       "code": "9938",
       "name": "百和",
-      "price": 44.7,
+      "price": 45.1,
       "buyDate": "2027-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -4501,7 +4506,7 @@
     {
       "code": "1784",
       "name": "訊聯",
-      "price": 79.5,
+      "price": 80.0,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4517,7 +4522,7 @@
     {
       "code": "2316",
       "name": "楠梓電",
-      "price": 115.0,
+      "price": 112.5,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4533,7 +4538,7 @@
     {
       "code": "2364",
       "name": "倫飛",
-      "price": 62.6,
+      "price": 63.1,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4549,7 +4554,7 @@
     {
       "code": "2495",
       "name": "普安",
-      "price": 37.7,
+      "price": 39.15,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4557,7 +4562,7 @@
       "location": "新北",
       "gift": "7-11 商品卡 35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 361
@@ -4565,7 +4570,7 @@
     {
       "code": "3013",
       "name": "晟銘電",
-      "price": 102.5,
+      "price": 103.0,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4581,7 +4586,7 @@
     {
       "code": "3028",
       "name": "增你強",
-      "price": 60.4,
+      "price": 60.2,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4597,7 +4602,7 @@
     {
       "code": "3209",
       "name": "全科",
-      "price": 45.8,
+      "price": 45.55,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4629,7 +4634,7 @@
     {
       "code": "3322",
       "name": "建舜電",
-      "price": 13.05,
+      "price": 13.1,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4637,7 +4642,7 @@
       "location": "新北",
       "gift": "7-11 35元商品卡 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 361
@@ -4645,7 +4650,7 @@
     {
       "code": "3632",
       "name": "研勤",
-      "price": 9.07,
+      "price": 9.08,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4661,7 +4666,7 @@
     {
       "code": "4721",
       "name": "美琪瑪",
-      "price": 81.9,
+      "price": 80.5,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4677,7 +4682,7 @@
     {
       "code": "4735",
       "name": "豪展",
-      "price": 31.3,
+      "price": 30.85,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4693,7 +4698,7 @@
     {
       "code": "5371",
       "name": "中光電",
-      "price": 72.5,
+      "price": 73.7,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4709,7 +4714,7 @@
     {
       "code": "6185",
       "name": "幃翔",
-      "price": 14.0,
+      "price": 13.95,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4725,7 +4730,7 @@
     {
       "code": "8088",
       "name": "品安",
-      "price": 51.0,
+      "price": 50.8,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -4733,7 +4738,7 @@
       "location": "基隆",
       "gift": "7-11 商品卡35元 參考圖",
       "giftTypes": [
-        "其他"
+        "提貨券"
       ],
       "status": "充裕",
       "daysLeft": 361
@@ -4741,7 +4746,7 @@
     {
       "code": "8390",
       "name": "金益鼎",
-      "price": 91.0,
+      "price": 91.8,
       "buyDate": "2027-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
