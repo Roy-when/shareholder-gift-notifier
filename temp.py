@@ -49,8 +49,7 @@ def parse_date(date_str: str):
         m, d = int(parts[0]), int(parts[1])
         year = datetime.now().year
         target = datetime(year, m, d)
-        if target.date() < datetime.now().date():
-            target = datetime(year + 1, m, d)
+        # 不推算明年，已截止就維持今年日期讓 daysLeft 為負數
         return target.strftime("%Y-%m-%d")
     except Exception:
         return None
