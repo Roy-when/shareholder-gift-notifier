@@ -9,12 +9,26 @@
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f4; color: #1c1c1a; min-height: 100vh; }
   .app { max-width: 520px; margin: 0 auto; padding: 1rem; }
 
+  /* 登入畫面 */
+  .login-screen { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 80vh; gap: 16px; }
+  .login-screen h1 { font-size: 22px; font-weight: 600; }
+  .login-screen p { font-size: 14px; color: #888780; text-align: center; }
+  .login-box { background: #fff; border: 1px solid #e8e6df; border-radius: 14px; padding: 24px; width: 100%; max-width: 320px; display: flex; flex-direction: column; gap: 12px; }
+  .login-box label { font-size: 13px; color: #5f5e5a; }
+  .login-box input { width: 100%; padding: 10px 12px; border: 1px solid #d3d1c7; border-radius: 8px; font-size: 15px; outline: none; color: #1c1c1a; }
+  .login-box input:focus { border-color: #888780; }
+  .login-btn { width: 100%; padding: 10px; border-radius: 8px; border: none; background: #2c2c2a; color: #f1efe8; font-size: 14px; font-weight: 500; cursor: pointer; }
+  .login-btn:hover { background: #444441; }
+
+  /* 主畫面 */
+  .main-screen { display: none; }
   .header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.25rem; }
   .header-left h1 { font-size: 20px; font-weight: 600; color: #1c1c1a; }
   .header-left p { font-size: 13px; color: #888780; margin-top: 3px; }
-  .header-btns { display: flex; gap: 6px; }
+  .header-btns { display: flex; gap: 6px; align-items: center; }
   .icon-btn { padding: 6px 10px; border-radius: 8px; border: 1px solid #d3d1c7; font-size: 12px; background: #fff; color: #5f5e5a; cursor: pointer; white-space: nowrap; }
   .icon-btn:hover { border-color: #888780; }
+  .user-badge { font-size: 12px; background: #f1efe8; border: 1px solid #d3d1c7; border-radius: 999px; padding: 4px 10px; color: #5f5e5a; }
 
   .search-wrap { position: relative; margin-bottom: 10px; }
   .search-wrap svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: #888780; pointer-events: none; }
@@ -36,7 +50,6 @@
   .stat-num { font-size: 22px; font-weight: 600; }
   .stat-label { font-size: 11px; color: #888780; margin-top: 2px; }
 
-  /* 已購買統計區塊 */
   .bought-stats { background: #fff; border-radius: 10px; border: 1px solid #e8e6df; padding: 12px 14px; margin-bottom: 16px; }
   .bought-stats-title { font-size: 12px; color: #888780; margin-bottom: 8px; font-weight: 500; }
   .bought-stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
@@ -57,7 +70,6 @@
   .card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
   .card-name { font-size: 15px; font-weight: 600; }
   .card-code { font-size: 12px; color: #888780; margin-top: 1px; }
-
   .badge { font-size: 11px; font-weight: 500; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
   .badge-urgent  { background: #fcebeb; color: #a32d2d; }
   .badge-notice  { background: #faeeda; color: #ba7517; }
@@ -78,6 +90,7 @@
   .empty { text-align: center; padding: 3rem 1rem; color: #888780; font-size: 14px; }
   .footer { text-align: center; font-size: 11px; color: #b4b2a9; margin-top: 20px; padding-bottom: 1.5rem; }
   .loading { text-align: center; padding: 3rem; color: #888780; font-size: 14px; }
+  .sync-status { font-size: 11px; color: #b4b2a9; text-align: right; margin-bottom: 8px; min-height: 16px; }
 
   @media (min-width: 600px) {
     .app { max-width: 680px; padding: 1.5rem; }
@@ -88,102 +101,184 @@
 </head>
 <body>
 <div class="app">
-  <div class="header">
-    <div class="header-left">
-      <h1>股東紀念品追蹤</h1>
-      <p id="update-time">載入中...</p>
-    </div>
-    <div class="header-btns">
-      <button class="icon-btn" onclick="exportData()">匯出</button>
-      <label class="icon-btn" style="cursor:pointer;">匯入<input type="file" accept=".json" onchange="importData(event)" style="display:none" /></label>
-    </div>
-  </div>
 
-  <div class="search-wrap">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-    <input id="search" type="text" placeholder="搜尋股票代號或名稱..." oninput="render()" />
-  </div>
-
-  <div class="filter-row" id="status-filters">
-    <button class="pill active" onclick="setFilter('status','all',this)">全部</button>
-    <button class="pill" onclick="setFilter('status','緊急',this)">緊急</button>
-    <button class="pill" onclick="setFilter('status','注意',this)">注意</button>
-    <button class="pill" onclick="setFilter('status','充裕',this)">充裕</button>
-    <button class="pill" onclick="setFilter('status','已截止',this)">已截止</button>
-    <button class="pill bought-pill" onclick="setFilter('status','bought',this)">已購買</button>
-  </div>
-
-  <div class="filter-row" id="type-filters">
-    <button class="pill active" onclick="setFilter('type','all',this)">所有類型</button>
-    <button class="pill" onclick="setFilter('type','米',this)">米</button>
-    <button class="pill" onclick="setFilter('type','油',this)">油</button>
-    <button class="pill" onclick="setFilter('type','飲料',this)">飲料</button>
-    <button class="pill" onclick="setFilter('type','食品',this)">食品</button>
-    <button class="pill" onclick="setFilter('type','提貨券',this)">提貨券</button>
-    <button class="pill" onclick="setFilter('type','日用品',this)">日用品</button>
-    <button class="pill" onclick="setFilter('type','其他',this)">其他</button>
-  </div>
-
-  <div class="sort-row">
-    <label>排序</label>
-    <select id="sort" onchange="render()">
-      <option value="days_asc">截止日期（近→遠）</option>
-      <option value="price_asc">股價（低→高）</option>
-      <option value="price_desc">股價（高→低）</option>
-    </select>
-  </div>
-
-  <div class="stats">
-    <div class="stat">
-      <div class="stat-num" id="stat-urgent" style="color:#e24b4a;">—</div>
-      <div class="stat-label">3天內截止</div>
-    </div>
-    <div class="stat">
-      <div class="stat-num" id="stat-notice" style="color:#ef9f27;">—</div>
-      <div class="stat-label">5天內截止</div>
-    </div>
-    <div class="stat">
-      <div class="stat-num" id="stat-total" style="color:#3b6d11;">—</div>
-      <div class="stat-label">已購買筆數</div>
+  <!-- 登入畫面 -->
+  <div class="login-screen" id="login-screen">
+    <h1>股東紀念品追蹤</h1>
+    <p>輸入你的暱稱，跨裝置同步你的已購買紀錄</p>
+    <div class="login-box">
+      <label>暱稱</label>
+      <input id="nickname-input" type="text" placeholder="例如：Roy" maxlength="20"
+        onkeydown="if(event.key==='Enter') doLogin()" />
+      <button class="login-btn" onclick="doLogin()">進入</button>
     </div>
   </div>
 
-  <!-- 已購買統計區塊 -->
-  <div class="bought-stats">
-    <div class="bought-stats-title">已購買統計</div>
-    <div class="bought-stats-grid">
-      <div class="bought-stat-group">物品類</div>
-      <div class="bought-stat-item"><span class="bought-stat-label">米</span><span class="bought-stat-num" id="bs-米">0</span></div>
-      <div class="bought-stat-item"><span class="bought-stat-label">油</span><span class="bought-stat-num" id="bs-油">0</span></div>
-      <div class="bought-stat-item"><span class="bought-stat-label">飲料</span><span class="bought-stat-num" id="bs-飲料">0</span></div>
-      <div class="bought-stat-item"><span class="bought-stat-label">食品</span><span class="bought-stat-num" id="bs-食品">0</span></div>
-      <div class="bought-stat-item"><span class="bought-stat-label">日用品</span><span class="bought-stat-num" id="bs-日用品">0</span></div>
-      <div class="bought-stat-item"><span class="bought-stat-label">其他</span><span class="bought-stat-num" id="bs-其他">0</span></div>
-      <div class="bought-stat-divider"></div>
-      <div class="bought-stat-group">商品券類</div>
-      <div class="bought-stat-item"><span class="bought-stat-label">提貨券</span><span class="bought-stat-num" id="bs-提貨券">0</span></div>
+  <!-- 主畫面 -->
+  <div class="main-screen" id="main-screen">
+    <div class="header">
+      <div class="header-left">
+        <h1>股東紀念品追蹤</h1>
+        <p id="update-time">載入中...</p>
+      </div>
+      <div class="header-btns">
+        <span class="user-badge" id="user-badge"></span>
+        <button class="icon-btn" onclick="doLogout()">切換</button>
+        <button class="icon-btn" onclick="exportData()">匯出</button>
+        <label class="icon-btn" style="cursor:pointer;">匯入<input type="file" accept=".json" onchange="importData(event)" style="display:none" /></label>
+      </div>
     </div>
-  </div>
 
-  <div class="cards" id="cards"><div class="loading">資料載入中...</div></div>
-  <div class="footer" id="footer"></div>
+    <div class="sync-status" id="sync-status"></div>
+
+    <div class="search-wrap">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input id="search" type="text" placeholder="搜尋股票代號或名稱..." oninput="render()" />
+    </div>
+
+    <div class="filter-row" id="status-filters">
+      <button class="pill active" onclick="setFilter('status','all',this)">全部</button>
+      <button class="pill" onclick="setFilter('status','緊急',this)">緊急</button>
+      <button class="pill" onclick="setFilter('status','注意',this)">注意</button>
+      <button class="pill" onclick="setFilter('status','充裕',this)">充裕</button>
+      <button class="pill" onclick="setFilter('status','已截止',this)">已截止</button>
+      <button class="pill bought-pill" onclick="setFilter('status','bought',this)">已購買</button>
+    </div>
+
+    <div class="filter-row" id="type-filters">
+      <button class="pill active" onclick="setFilter('type','all',this)">所有類型</button>
+      <button class="pill" onclick="setFilter('type','米',this)">米</button>
+      <button class="pill" onclick="setFilter('type','油',this)">油</button>
+      <button class="pill" onclick="setFilter('type','飲料',this)">飲料</button>
+      <button class="pill" onclick="setFilter('type','食品',this)">食品</button>
+      <button class="pill" onclick="setFilter('type','提貨券',this)">提貨券</button>
+      <button class="pill" onclick="setFilter('type','日用品',this)">日用品</button>
+      <button class="pill" onclick="setFilter('type','其他',this)">其他</button>
+    </div>
+
+    <div class="sort-row">
+      <label>排序</label>
+      <select id="sort" onchange="render()">
+        <option value="days_asc">截止日期（近→遠）</option>
+        <option value="price_asc">股價（低→高）</option>
+        <option value="price_desc">股價（高→低）</option>
+      </select>
+    </div>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-num" id="stat-urgent" style="color:#e24b4a;">—</div>
+        <div class="stat-label">3天內截止</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num" id="stat-notice" style="color:#ef9f27;">—</div>
+        <div class="stat-label">5天內截止</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num" id="stat-total" style="color:#3b6d11;">—</div>
+        <div class="stat-label">已購買筆數</div>
+      </div>
+    </div>
+
+    <div class="bought-stats">
+      <div class="bought-stats-title">已購買統計</div>
+      <div class="bought-stats-grid">
+        <div class="bought-stat-group">物品類</div>
+        <div class="bought-stat-item"><span class="bought-stat-label">米</span><span class="bought-stat-num" id="bs-米">0</span></div>
+        <div class="bought-stat-item"><span class="bought-stat-label">油</span><span class="bought-stat-num" id="bs-油">0</span></div>
+        <div class="bought-stat-item"><span class="bought-stat-label">飲料</span><span class="bought-stat-num" id="bs-飲料">0</span></div>
+        <div class="bought-stat-item"><span class="bought-stat-label">食品</span><span class="bought-stat-num" id="bs-食品">0</span></div>
+        <div class="bought-stat-item"><span class="bought-stat-label">日用品</span><span class="bought-stat-num" id="bs-日用品">0</span></div>
+        <div class="bought-stat-item"><span class="bought-stat-label">其他</span><span class="bought-stat-num" id="bs-其他">0</span></div>
+        <div class="bought-stat-divider"></div>
+        <div class="bought-stat-group">商品券類</div>
+        <div class="bought-stat-item"><span class="bought-stat-label">提貨券</span><span class="bought-stat-num" id="bs-提貨券">0</span></div>
+      </div>
+    </div>
+
+    <div class="cards" id="cards"><div class="loading">資料載入中...</div></div>
+    <div class="footer" id="footer"></div>
+  </div>
 </div>
 
 <script>
+const FIREBASE_URL = 'https://text-7a56f-default-rtdb.asia-southeast1.firebasedatabase.app';
 let allData = [];
 let filters = { status: 'all', type: 'all' };
-let bought = JSON.parse(localStorage.getItem('bought') || '{}');
+let bought = {};
+let currentUser = '';
+let syncTimer = null;
 
-// ── 匯出 ──
+// ── 登入 / 登出 ──
+function doLogin() {
+  const name = document.getElementById('nickname-input').value.trim();
+  if (!name) { alert('請輸入暱稱'); return; }
+  currentUser = name;
+  localStorage.setItem('sg_user', name);
+  document.getElementById('user-badge').textContent = name;
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('main-screen').style.display = 'block';
+  loadBoughtFromFirebase();
+  loadStockData();
+}
+
+function doLogout() {
+  currentUser = '';
+  bought = {};
+  localStorage.removeItem('sg_user');
+  document.getElementById('login-screen').style.display = 'flex';
+  document.getElementById('main-screen').style.display = 'none';
+  document.getElementById('nickname-input').value = '';
+}
+
+// ── Firebase 讀取 ──
+async function loadBoughtFromFirebase() {
+  try {
+    setSyncStatus('同步中...');
+    const res = await fetch(`${FIREBASE_URL}/users/${encodeURIComponent(currentUser)}/bought.json`);
+    const data = await res.json();
+    bought = data || {};
+    setSyncStatus('已同步');
+    render();
+  } catch(e) {
+    setSyncStatus('同步失敗，使用本地資料');
+    bought = JSON.parse(localStorage.getItem('sg_bought_' + currentUser) || '{}');
+    render();
+  }
+}
+
+// ── Firebase 寫入（防抖 800ms）──
+function saveBoughtToFirebase() {
+  localStorage.setItem('sg_bought_' + currentUser, JSON.stringify(bought));
+  clearTimeout(syncTimer);
+  setSyncStatus('儲存中...');
+  syncTimer = setTimeout(async () => {
+    try {
+      await fetch(`${FIREBASE_URL}/users/${encodeURIComponent(currentUser)}/bought.json`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(bought)
+      });
+      setSyncStatus('已同步 ' + new Date().toLocaleTimeString('zh-TW', {hour:'2-digit',minute:'2-digit'}));
+    } catch(e) {
+      setSyncStatus('雲端同步失敗，已存本地');
+    }
+  }, 800);
+}
+
+function setSyncStatus(msg) {
+  document.getElementById('sync-status').textContent = msg;
+}
+
+// ── 匯出 / 匯入 ──
 function exportData() {
   const blob = new Blob([JSON.stringify(bought, null, 2)], { type: 'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  a.download = 'bought_' + new Date().toISOString().slice(0,10) + '.json';
+  a.download = 'bought_' + currentUser + '_' + new Date().toISOString().slice(0,10) + '.json';
   a.click();
 }
 
-// ── 匯入 ──
 function importData(e) {
   const file = e.target.files[0];
   if (!file) return;
@@ -193,44 +288,40 @@ function importData(e) {
       const imported = JSON.parse(ev.target.result);
       if (typeof imported !== 'object') throw new Error();
       bought = { ...bought, ...imported };
-      localStorage.setItem('bought', JSON.stringify(bought));
+      saveBoughtToFirebase();
       render();
       alert('匯入成功！');
-    } catch {
-      alert('匯入失敗，請確認是正確的 JSON 檔案。');
-    }
+    } catch { alert('匯入失敗，請確認是正確的 JSON 檔案。'); }
   };
   reader.readAsText(file);
   e.target.value = '';
 }
 
+// ── 篩選 / 排序 ──
 function setFilter(group, val, el) {
   filters[group] = val;
-  const row = document.getElementById(group === 'status' ? 'status-filters' : 'type-filters');
-  row.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+  document.getElementById(group === 'status' ? 'status-filters' : 'type-filters')
+    .querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
   el.classList.add('active');
   render();
 }
 
 function toggleBought(code) {
   bought[code] = !bought[code];
-  localStorage.setItem('bought', JSON.stringify(bought));
+  saveBoughtToFirebase();
   render();
 }
 
-function badgeClass(status) {
-  return { '緊急':'badge-urgent','注意':'badge-notice','充裕':'badge-ok','已截止':'badge-expired' }[status] || 'badge-unknown';
+function badgeClass(s) {
+  return {'緊急':'badge-urgent','注意':'badge-notice','充裕':'badge-ok','已截止':'badge-expired'}[s]||'badge-unknown';
 }
-
-function badgeLabel(status, days) {
-  if (['充裕','注意','緊急'].includes(status)) return `${status} 剩 ${days} 天`;
-  return status;
+function badgeLabel(s, d) {
+  return ['充裕','注意','緊急'].includes(s) ? `${s} 剩 ${d} 天` : s;
 }
 
 function getFiltered() {
   const q = document.getElementById('search').value.trim().toLowerCase();
   const sort = document.getElementById('sort').value;
-
   let list = allData.filter(r => {
     const isBought = !!bought[r.code];
     if (q && !r.code.toLowerCase().includes(q) && !r.name.toLowerCase().includes(q)) return false;
@@ -240,52 +331,37 @@ function getFiltered() {
     if (filters.type !== 'all' && !r.giftTypes.includes(filters.type)) return false;
     return true;
   });
-
   list.sort((a, b) => {
     if (sort === 'price_asc')  return (a.price ?? 9999) - (b.price ?? 9999);
     if (sort === 'price_desc') return (b.price ?? 0) - (a.price ?? 0);
     return (a.daysLeft ?? 9999) - (b.daysLeft ?? 9999);
   });
-
   return list;
 }
 
 function updateBoughtStats() {
-  const categories = ['米','油','飲料','食品','日用品','提貨券','其他'];
-  const counts = Object.fromEntries(categories.map(c => [c, 0]));
-
+  const cats = ['米','油','飲料','食品','日用品','提貨券','其他'];
+  const counts = Object.fromEntries(cats.map(c => [c, 0]));
   allData.forEach(r => {
     if (!bought[r.code]) return;
     const types = r.giftTypes || [];
-    if (types.length === 0) { counts['其他']++; return; }
-    types.forEach(t => {
-      if (counts[t] !== undefined) counts[t]++;
-    });
+    (types.length ? types : ['其他']).forEach(t => { if (counts[t] !== undefined) counts[t]++; });
   });
-
-  categories.forEach(c => {
-    const el = document.getElementById('bs-' + c);
-    if (el) el.textContent = counts[c];
-  });
+  cats.forEach(c => { const el = document.getElementById('bs-' + c); if (el) el.textContent = counts[c]; });
 }
 
 function render() {
   const list = getFiltered();
-  const container = document.getElementById('cards');
-
   const urgent = allData.filter(r => r.daysLeft != null && r.daysLeft >= 1 && r.daysLeft <= 3).length;
   const notice = allData.filter(r => r.daysLeft != null && r.daysLeft >= 1 && r.daysLeft <= 5).length;
   const boughtCount = allData.filter(r => !!bought[r.code]).length;
   document.getElementById('stat-urgent').textContent = urgent;
   document.getElementById('stat-notice').textContent = notice;
   document.getElementById('stat-total').textContent = boughtCount;
-
   updateBoughtStats();
 
-  if (list.length === 0) {
-    container.innerHTML = '<div class="empty">沒有符合條件的資料</div>';
-    return;
-  }
+  const container = document.getElementById('cards');
+  if (list.length === 0) { container.innerHTML = '<div class="empty">沒有符合條件的資料</div>'; return; }
 
   container.innerHTML = list.map(r => {
     const isBought = !!bought[r.code];
@@ -317,23 +393,28 @@ function render() {
   }).join('');
 }
 
-async function load() {
+async function loadStockData() {
   try {
     const resp = await fetch('data.json?t=' + Date.now());
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const json = await resp.json();
     allData = json.records || [];
-    document.getElementById('update-time').textContent =
-      `資料更新：${json.updatedAt}　共 ${json.total} 筆`;
+    document.getElementById('update-time').textContent = `資料更新：${json.updatedAt}　共 ${json.total} 筆`;
     document.getElementById('footer').textContent = '每日 08:00 自動更新';
     render();
   } catch(e) {
     document.getElementById('cards').innerHTML = '<div class="empty">資料載入失敗，請稍後再試</div>';
-    console.error(e);
   }
 }
 
-load();
+// ── 自動登入（記住暱稱）──
+window.addEventListener('DOMContentLoaded', () => {
+  const saved = localStorage.getItem('sg_user');
+  if (saved) {
+    document.getElementById('nickname-input').value = saved;
+    doLogin();
+  }
+});
 </script>
 </body>
 </html>
