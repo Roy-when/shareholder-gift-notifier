@@ -325,8 +325,12 @@ function getFiltered() {
   let list = allData.filter(r => {
     const isBought = !!bought[r.code];
     if (q && !r.code.toLowerCase().includes(q) && !r.name.toLowerCase().includes(q)) return false;
-    if (filters.status === 'bought') return isBought;
-    if (isBought) return false;
+    if (filters.status === 'bought') {
+      if (!isBought) return false;
+      if (filters.type !== 'all' && !r.giftTypes.includes(filters.type)) return false;
+      return true;
+    }
+    if (isBought && filters.status !== '已截止') return false;
     if (filters.status !== 'all' && r.status !== filters.status) return false;
     if (filters.type !== 'all' && !r.giftTypes.includes(filters.type)) return false;
     return true;
