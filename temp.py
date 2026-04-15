@@ -1,15 +1,12 @@
 """
-股東紀念品爬蟲 v2.1（雙來源合併版）
+股東紀念品爬蟲 v2.2（HiStock 穩定版）
 ====================================
-來源策略：
-  - 主要來源：玩股網 wantgoo（資料較完整）
-  - 補充來源：HiStock（補充 wantgoo 沒有的股票）
-  - 合併規則：以股票代號為 key，wantgoo 優先，histock 補缺漏
+來源：HiStock（histock.tw）
+說明：wantgoo 有 Cloudflare 保護無法爬取，維持 HiStock 單一穩定來源
 """
 
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 from datetime import datetime, date
 import json
 import re
@@ -18,32 +15,14 @@ from dotenv import load_dotenv
 
 load_dotenv(dotenv_path="gx.env")
 
-WANTGOO_URL = "https://www.wantgoo.com/stock/calendar/shareholders-meeting-souvenirs?year=2026"
 HISTOCK_URL = "https://histock.tw/stock/gift.aspx"
-
-HEADERS_WANTGOO = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Referer": "https://www.wantgoo.com/stock/calendar/shareholders-meeting",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "same-origin",
-    "Sec-Fetch-User": "?1",
-    "Cache-Control": "max-age=0",
-}
-
-HEADERS_HISTOCK = {
+HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
 # ────────────────────────────────────────────────
-# 分類關鍵字
+# 紀念品分類關鍵字
 # ────────────────────────────────────────────────
 GIFT_TYPE_KEYWORDS = {
     "米":    ["米", "白米", "糙米", "蓬萊米"],
@@ -67,15 +46,14 @@ def classify_gift(gift_str: str) -> list:
     return matched if matched else ["其他"]
 
 def parse_date(date_str: str):
-    """將 M/D 格式轉為 YYYY-MM-DD，不推算明年"""
+    """將 M/D 格式轉為 YYYY-MM-DD，不推算明年（已截止維持負數）"""
     date_str = date_str.strip()
     if not date_str or "/" not in date_str:
         return None
     try:
         parts = date_str.split("/")
         m, d = int(parts[0]), int(parts[1])
-        year = datetime.now().year
-        return datetime(year, m, d).strftime("%Y-%m-%d")
+        return datetime(datetime.now().year, m, d).strftime("%Y-%m-%d")
     except Exception:
         return None
 
@@ -104,77 +82,19 @@ def parse_price(price_str: str):
 
 
 # ────────────────────────────────────────────────
-# 1. 爬取 wantgoo（主要來源）
+# 爬取 HiStock
 # ────────────────────────────────────────────────
-def crawl_wantgoo() -> dict:
-    """回傳 {代號: row_dict}"""
-    print("📡 正在爬取 wantgoo 資料...")
-    result = {}
+def crawl_histock() -> list:
+    print("📡 正在爬取 HiStock 資料...")
     try:
-        # 用 Session 模擬真實瀏覽器行為，先訪問首頁取得 cookie
-        session = requests.Session()
-        session.get("https://www.wantgoo.com/", headers=HEADERS_WANTGOO, timeout=15)
-        time.sleep(1.5)
-        resp = session.get(WANTGOO_URL, headers=HEADERS_WANTGOO, timeout=20)
+        resp = requests.get(HISTOCK_URL, headers=HEADERS, timeout=15)
         resp.raise_for_status()
     except requests.RequestException as e:
-        print(f"⚠️  wantgoo 請求失敗：{e}")
-        return result
+        print(f"❌ 請求失敗：{e}")
+        return []
 
     soup = BeautifulSoup(resp.text, "html.parser")
-
-    for table in soup.find_all("table"):
-        rows = table.find_all("tr")
-        if len(rows) < 2:
-            continue
-        for row in rows[1:]:
-            cols = row.find_all("td")
-            if len(cols) < 8:
-                continue
-            try:
-                # 第一欄：代號+名稱 合在一個 td，格式「4564元翎」
-                code_name = cols[0].text.strip()
-                # 用正規式拆出代號（數字開頭）和名稱
-                m = re.match(r"(\d+[A-Z\-]*)\s*(.*)", code_name)
-                if not m:
-                    continue
-                code = m.group(1).strip()
-                name = m.group(2).strip()
-                if not code:
-                    continue
-
-                result[code] = {
-                    "代號":      code,
-                    "名稱":      name,
-                    "股價":      cols[1].text.strip(),
-                    "紀念品":    cols[2].text.strip(),
-                    "最後買進日": cols[3].text.strip(),
-                    "股東會日期": cols[4].text.strip(),
-                    "性質":      cols[5].text.strip(),
-                    "開會地點":  cols[6].text.strip(),
-                }
-            except Exception:
-                continue
-
-    print(f"✅ wantgoo 爬取完成，共 {len(result)} 筆")
-    return result
-
-
-# ────────────────────────────────────────────────
-# 2. 爬取 HiStock（補充來源）
-# ────────────────────────────────────────────────
-def crawl_histock() -> dict:
-    """回傳 {代號: row_dict}"""
-    print("📡 正在爬取 HiStock 補充資料...")
-    result = {}
-    try:
-        resp = requests.get(HISTOCK_URL, headers=HEADERS_HISTOCK, timeout=15)
-        resp.raise_for_status()
-    except requests.RequestException as e:
-        print(f"⚠️  HiStock 請求失敗：{e}")
-        return result
-
-    soup = BeautifulSoup(resp.text, "html.parser")
+    rows = []
     for table in soup.find_all("table"):
         for row in table.find_all("tr")[1:]:
             cols = row.find_all("td")
@@ -184,7 +104,7 @@ def crawl_histock() -> dict:
                 code = cols[0].text.strip()
                 if not code:
                     continue
-                result[code] = {
+                rows.append({
                     "代號":      code,
                     "名稱":      cols[1].text.strip(),
                     "股價":      cols[2].text.strip(),
@@ -193,57 +113,23 @@ def crawl_histock() -> dict:
                     "性質":      cols[5].text.strip(),
                     "開會地點":  cols[6].text.strip(),
                     "紀念品":    cols[7].text.strip(),
-                }
+                })
             except Exception:
                 continue
 
-    print(f"✅ HiStock 爬取完成，共 {len(result)} 筆")
-    return result
+    print(f"✅ 爬取完成，共 {len(rows)} 筆")
+    return rows
 
 
 # ────────────────────────────────────────────────
-# 3. 合併兩個來源
-# ────────────────────────────────────────────────
-def merge_sources(wantgoo: dict, histock: dict) -> list:
-    """wantgoo 為主，histock 補充沒有的代號"""
-    merged = {}
-
-    # 先放入 wantgoo 全部
-    for code, row in wantgoo.items():
-        merged[code] = row
-
-    # histock 只補充 wantgoo 沒有的
-    added = 0
-    for code, row in histock.items():
-        if code not in merged:
-            merged[code] = row
-            added += 1
-
-    print(f"📊 合併結果：wantgoo {len(wantgoo)} 筆 + histock 補充 {added} 筆 = 共 {len(merged)} 筆")
-    return list(merged.values())
-
-
-# ────────────────────────────────────────────────
-# 4. 過濾無效資料（不發放 / 未決定）
-# ────────────────────────────────────────────────
-def filter_valid(rows: list) -> list:
-    skip_keywords = ["不發放", "未決定"]
-    valid = [r for r in rows if not any(kw in r.get("紀念品", "") for kw in skip_keywords)]
-    skip_count = len(rows) - len(valid)
-    if skip_count > 0:
-        print(f"🗑️  過濾「不發放/未決定」{skip_count} 筆，剩 {len(valid)} 筆")
-    return valid
-
-
-# ────────────────────────────────────────────────
-# 5. 建立 JSON
+# 建立 JSON
 # ────────────────────────────────────────────────
 def build_json(rows: list) -> dict:
     records = []
     for row in rows:
-        buy_raw = row.get("最後買進日", "").strip()
-        meeting_raw = row.get("股東會日期", "").strip()
-        gift = row.get("紀念品", "").strip()
+        buy_raw  = row.get("最後買進日", "").strip()
+        meet_raw = row.get("股東會日期", "").strip()
+        gift     = row.get("紀念品", "").strip()
 
         records.append({
             "code":        row.get("代號", ""),
@@ -251,7 +137,7 @@ def build_json(rows: list) -> dict:
             "price":       parse_price(row.get("股價", "")),
             "buyDate":     parse_date(buy_raw),
             "buyDateRaw":  buy_raw,
-            "meetingDate": parse_date(meeting_raw),
+            "meetingDate": parse_date(meet_raw),
             "type":        row.get("性質", ""),
             "location":    row.get("開會地點", ""),
             "gift":        gift,
@@ -268,8 +154,8 @@ def build_json(rows: list) -> dict:
 
     return {
         "updatedAt": datetime.now().strftime("%Y-%m-%d %H:%M"),
-        "total": len(records),
-        "records": records,
+        "total":     len(records),
+        "records":   records,
     }
 
 
@@ -278,31 +164,20 @@ def build_json(rows: list) -> dict:
 # ────────────────────────────────────────────────
 if __name__ == "__main__":
     print("─" * 60)
-    print("🚀 股東紀念品爬蟲 v2.1（雙來源合併版）")
+    print("🚀 股東紀念品爬蟲 v2.2")
     print(f"   執行時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("─" * 60 + "\n")
 
-    # Step 1：爬取兩個來源
-    wantgoo_data = crawl_wantgoo()
-    time.sleep(1)  # 避免短時間連續請求
-    histock_data = crawl_histock()
+    rows = crawl_histock()
 
-    # Step 2：合併
-    merged = merge_sources(wantgoo_data, histock_data)
-
-    # Step 3：過濾無效
-    valid = filter_valid(merged)
-
-    # Step 4：品質監控
-    if len(valid) < 50:
-        print(f"❌ 爬取筆數異常（{len(valid)} 筆），可能網站改版，請檢查爬蟲！")
+    if len(rows) < 50:
+        print(f"❌ 爬取筆數異常（{len(rows)} 筆），可能網站改版，請檢查爬蟲！")
         exit(1)
 
-    # Step 5：輸出 JSON
-    data = build_json(valid)
+    data = build_json(rows)
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ 已輸出 data.json（{data['total']} 筆）")
+    print(f"✅ 已輸出 data.json（{data['total']} 筆）")
     print("─" * 60)
