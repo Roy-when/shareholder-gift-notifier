@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-15 01:50",
-  "total": 320,
+  "updatedAt": "2026-04-15 01:54",
+  "total": 322,
   "records": [
     {
       "code": "1104",
@@ -5028,6 +5028,22 @@
       "daysLeft": 13
     },
     {
+      "code": "2734",
+      "name": "易飛網",
+      "price": 17.5,
+      "buyDate": "2026-04-28",
+      "buyDateRaw": "04/28",
+      "meetingDate": "2026-06-29",
+      "type": "常會",
+      "location": "台北",
+      "gift": "ESG永續公益刨刀 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "充裕",
+      "daysLeft": 13
+    },
+    {
       "code": "3057",
       "name": "喬鼎",
       "price": 18.2,
@@ -5087,6 +5103,22 @@
       "gift": "小墾丁渡假村300元住宿抵用券 參考圖",
       "giftTypes": [
         "提貨券"
+      ],
+      "status": "充裕",
+      "daysLeft": 13
+    },
+    {
+      "code": "6169",
+      "name": "昱泉",
+      "price": 17.3,
+      "buyDate": "2026-04-28",
+      "buyDateRaw": "04/28",
+      "meetingDate": "2026-06-30",
+      "type": "常會",
+      "location": "台中",
+      "gift": "清新植感草本皂 參考圖",
+      "giftTypes": [
+        "日用品"
       ],
       "status": "充裕",
       "daysLeft": 13
