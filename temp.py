@@ -20,7 +20,24 @@ load_dotenv(dotenv_path="gx.env")
 
 WANTGOO_URL = "https://www.wantgoo.com/stock/calendar/shareholders-meeting-souvenirs?year=2026"
 HISTOCK_URL = "https://histock.tw/stock/gift.aspx"
-HEADERS = {
+
+HEADERS_WANTGOO = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://www.wantgoo.com/stock/calendar/shareholders-meeting",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-User": "?1",
+    "Cache-Control": "max-age=0",
+}
+
+HEADERS_HISTOCK = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
@@ -94,7 +111,11 @@ def crawl_wantgoo() -> dict:
     print("📡 正在爬取 wantgoo 資料...")
     result = {}
     try:
-        resp = requests.get(WANTGOO_URL, headers=HEADERS, timeout=20)
+        # 用 Session 模擬真實瀏覽器行為，先訪問首頁取得 cookie
+        session = requests.Session()
+        session.get("https://www.wantgoo.com/", headers=HEADERS_WANTGOO, timeout=15)
+        time.sleep(1.5)
+        resp = session.get(WANTGOO_URL, headers=HEADERS_WANTGOO, timeout=20)
         resp.raise_for_status()
     except requests.RequestException as e:
         print(f"⚠️  wantgoo 請求失敗：{e}")
@@ -147,7 +168,7 @@ def crawl_histock() -> dict:
     print("📡 正在爬取 HiStock 補充資料...")
     result = {}
     try:
-        resp = requests.get(HISTOCK_URL, headers=HEADERS, timeout=15)
+        resp = requests.get(HISTOCK_URL, headers=HEADERS_HISTOCK, timeout=15)
         resp.raise_for_status()
     except requests.RequestException as e:
         print(f"⚠️  HiStock 請求失敗：{e}")
