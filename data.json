@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-19 02:47",
-  "total": 358,
+  "updatedAt": "2026-04-20 02:49",
+  "total": 365,
   "records": [
     {
       "code": "1104",
       "name": "環泥",
-      "price": 29.35,
+      "price": 29.2,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -16,12 +16,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1215",
       "name": "卜蜂",
-      "price": 142.5,
+      "price": 142.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -32,12 +32,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1305",
       "name": "華夏",
-      "price": 14.9,
+      "price": 15.1,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -48,12 +48,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1308",
       "name": "亞聚",
-      "price": 15.25,
+      "price": 15.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -64,12 +64,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1309",
       "name": "台達化",
-      "price": 19.6,
+      "price": 19.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -80,12 +80,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1409",
       "name": "新纖",
-      "price": 16.7,
+      "price": 16.75,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -96,7 +96,7 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1432",
@@ -112,12 +112,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1584",
       "name": "精剛",
-      "price": 21.15,
+      "price": 21.65,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -128,12 +128,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1611",
       "name": "中電",
-      "price": 12.2,
+      "price": 12.1,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -144,12 +144,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1702",
       "name": "南僑",
-      "price": 36.7,
+      "price": 36.15,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -161,12 +161,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1707",
       "name": "葡萄王",
-      "price": 118.5,
+      "price": 118.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -177,12 +177,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1711",
       "name": "永光",
-      "price": 47.95,
+      "price": 52.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -193,7 +193,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1712",
@@ -210,12 +210,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1714",
       "name": "和桐",
-      "price": 9.63,
+      "price": 9.74,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -226,12 +226,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1723",
       "name": "中碳",
-      "price": 81.2,
+      "price": 80.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -242,12 +242,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1762",
       "name": "中化生",
-      "price": 29.35,
+      "price": 28.95,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -258,12 +258,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1909",
       "name": "榮成",
-      "price": 9.61,
+      "price": 9.44,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -274,12 +274,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2012",
       "name": "春雨",
-      "price": 16.0,
+      "price": 15.9,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -290,12 +290,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2022",
       "name": "聚亨",
-      "price": 8.83,
+      "price": 8.74,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -306,12 +306,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2030",
       "name": "彰源",
-      "price": 16.5,
+      "price": 16.25,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -322,12 +322,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2104",
       "name": "國際中橡",
-      "price": 11.45,
+      "price": 11.35,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -338,12 +338,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2241",
       "name": "艾姆勒",
-      "price": 28.45,
+      "price": 29.35,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -354,12 +354,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2303",
       "name": "聯電",
-      "price": 73.0,
+      "price": 79.3,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -370,12 +370,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2313",
       "name": "華通",
-      "price": 261.5,
+      "price": 252.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -386,12 +386,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2327",
       "name": "國巨*",
-      "price": 316.5,
+      "price": 324.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -402,12 +402,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2328",
       "name": "廣宇",
-      "price": 45.6,
+      "price": 45.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -418,12 +418,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2337",
       "name": "旺宏",
-      "price": 131.0,
+      "price": 120.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -434,12 +434,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2363",
       "name": "矽統",
-      "price": 54.4,
+      "price": 57.3,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -450,12 +450,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2369",
       "name": "菱生",
-      "price": 30.6,
+      "price": 30.65,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -466,12 +466,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2371",
       "name": "大同",
-      "price": 33.1,
+      "price": 31.95,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -482,12 +482,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2379",
       "name": "瑞昱",
-      "price": 531.0,
+      "price": 535.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -498,12 +498,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2409",
       "name": "友達",
-      "price": 19.85,
+      "price": 19.55,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -514,12 +514,12 @@
         "米"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2439",
       "name": "美律",
-      "price": 90.0,
+      "price": 88.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -531,12 +531,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2458",
       "name": "義隆",
-      "price": 138.0,
+      "price": 135.5,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -547,12 +547,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2464",
       "name": "盟立",
-      "price": 79.0,
+      "price": 86.9,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -563,12 +563,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2482",
       "name": "連宇",
-      "price": 17.7,
+      "price": 17.85,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -579,12 +579,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2489",
       "name": "瑞軒",
-      "price": 44.65,
+      "price": 43.8,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -595,12 +595,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2504",
       "name": "國產",
-      "price": 35.85,
+      "price": 36.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -611,12 +611,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2520",
       "name": "冠德",
-      "price": 31.05,
+      "price": 30.65,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
@@ -627,12 +627,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2534",
       "name": "宏盛",
-      "price": 19.9,
+      "price": 19.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
@@ -643,12 +643,12 @@
         "米"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "2603",
       "name": "長榮",
-      "price": 198.0,
+      "price": 198.5,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
@@ -659,12 +659,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -25
+      "daysLeft": -26
     },
     {
       "code": "1536",
       "name": "和大",
-      "price": 51.3,
+      "price": 51.9,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -675,12 +675,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "1582",
       "name": "信錦",
-      "price": 99.2,
+      "price": 108.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -691,12 +691,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "1904",
       "name": "正隆",
-      "price": 18.6,
+      "price": 18.4,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -707,12 +707,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2103",
       "name": "台橡",
-      "price": 19.05,
+      "price": 18.9,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -723,12 +723,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2317",
       "name": "鴻海",
-      "price": 206.0,
+      "price": 208.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -739,12 +739,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2329",
       "name": "華泰",
-      "price": 61.5,
+      "price": 63.3,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -755,12 +755,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2344",
       "name": "華邦電",
-      "price": 87.8,
+      "price": 85.3,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -771,7 +771,7 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2352",
@@ -787,7 +787,7 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2353",
@@ -803,12 +803,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2354",
       "name": "鴻準",
-      "price": 51.6,
+      "price": 51.7,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -819,12 +819,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2436",
       "name": "偉詮電",
-      "price": 63.1,
+      "price": 66.4,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -835,12 +835,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2442",
       "name": "新美齊",
-      "price": 19.45,
+      "price": 18.9,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -851,12 +851,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2449",
       "name": "京元電子",
-      "price": 275.0,
+      "price": 274.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -867,12 +867,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2455",
       "name": "全新",
-      "price": 310.5,
+      "price": 333.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -883,12 +883,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2480",
       "name": "敦陽科",
-      "price": 140.5,
+      "price": 140.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -899,12 +899,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "2889",
       "name": "國票金",
-      "price": 15.2,
+      "price": 15.15,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -915,12 +915,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3034",
       "name": "聯詠",
-      "price": 415.0,
+      "price": 420.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -931,12 +931,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3037",
       "name": "欣興",
-      "price": 643.0,
+      "price": 707.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -947,12 +947,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3234",
       "name": "光環",
-      "price": 115.5,
+      "price": 122.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -963,12 +963,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3311",
       "name": "閎暉",
-      "price": 33.1,
+      "price": 33.55,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -979,12 +979,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3356",
       "name": "奇偶",
-      "price": 52.4,
+      "price": 52.7,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -996,12 +996,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3406",
       "name": "玉晶光",
-      "price": 503.0,
+      "price": 551.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1012,12 +1012,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3450",
       "name": "聯鈞",
-      "price": 366.0,
+      "price": 391.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1028,12 +1028,12 @@
         "飲料"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3535",
       "name": "晶彩科",
-      "price": 120.5,
+      "price": 126.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1044,12 +1044,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "3685",
       "name": "元創精密",
-      "price": 34.45,
+      "price": 36.1,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1060,7 +1060,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "4133",
@@ -1076,12 +1076,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "4172",
       "name": "因華",
-      "price": 15.1,
+      "price": 15.25,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1092,12 +1092,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "4806",
       "name": "桂田文創",
-      "price": 10.15,
+      "price": 10.2,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1108,12 +1108,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "4912",
       "name": "聯德控股-KY",
-      "price": 89.8,
+      "price": 91.6,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1124,12 +1124,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "4916",
       "name": "事欣科",
-      "price": 67.8,
+      "price": 69.9,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1140,12 +1140,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "4961",
       "name": "天鈺",
-      "price": 153.0,
+      "price": 151.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1156,12 +1156,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "4974",
       "name": "亞泰",
-      "price": 71.1,
+      "price": 71.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1173,12 +1173,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "6156",
       "name": "松上",
-      "price": 20.75,
+      "price": 20.9,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1189,12 +1189,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "6179",
       "name": "亞通",
-      "price": 24.4,
+      "price": 24.6,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1205,12 +1205,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "6215",
       "name": "和椿",
-      "price": 106.0,
+      "price": 110.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1221,12 +1221,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "6257",
       "name": "矽格",
-      "price": 177.5,
+      "price": 181.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1237,12 +1237,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "6438",
       "name": "迅得",
-      "price": 179.0,
+      "price": 188.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1253,12 +1253,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "8111",
       "name": "立碁",
-      "price": 79.2,
+      "price": 80.2,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1270,12 +1270,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "8289",
       "name": "泰藝",
-      "price": 49.65,
+      "price": 54.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1286,12 +1286,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "8383",
       "name": "千附",
-      "price": 62.4,
+      "price": 68.6,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1302,7 +1302,7 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "8916",
@@ -1318,12 +1318,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "8933",
       "name": "愛地雅",
-      "price": 6.55,
+      "price": 6.48,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1334,12 +1334,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "8996",
       "name": "高力",
-      "price": 1220.0,
+      "price": 1200.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1350,12 +1350,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "9917",
       "name": "中保科",
-      "price": 116.5,
+      "price": 115.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
@@ -1366,12 +1366,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -24
+      "daysLeft": -25
     },
     {
       "code": "1323",
       "name": "永裕",
-      "price": 21.0,
+      "price": 20.95,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -1382,12 +1382,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "2065",
       "name": "世豐",
-      "price": 30.75,
+      "price": 30.65,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1398,12 +1398,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "2405",
       "name": "輔信",
-      "price": 15.75,
+      "price": 15.9,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -1414,12 +1414,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "2465",
       "name": "麗臺",
-      "price": 60.4,
+      "price": 66.4,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -1430,12 +1430,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "2611",
       "name": "志信",
-      "price": 14.7,
+      "price": 14.55,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1446,7 +1446,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "2636",
@@ -1463,12 +1463,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "2911",
       "name": "麗嬰房",
-      "price": 4.91,
+      "price": 5.15,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -1479,12 +1479,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "3149",
       "name": "正達",
-      "price": 42.3,
+      "price": 46.5,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -1495,12 +1495,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "3546",
       "name": "宇峻",
-      "price": 71.4,
+      "price": 71.1,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -1511,7 +1511,7 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "4132",
@@ -1527,12 +1527,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "4142",
       "name": "國光生",
-      "price": 18.5,
+      "price": 18.25,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1543,12 +1543,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "4150",
       "name": "優你康",
-      "price": 6.88,
+      "price": 6.91,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1559,12 +1559,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "4155",
       "name": "訊映",
-      "price": 13.4,
+      "price": 13.65,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-02",
@@ -1575,12 +1575,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "4557",
       "name": "永新-KY",
-      "price": 53.6,
+      "price": 53.3,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -1591,12 +1591,12 @@
         "米"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "4991",
       "name": "環宇-KY",
-      "price": 660.0,
+      "price": 713.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
@@ -1607,12 +1607,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "5210",
       "name": "寶碩",
-      "price": 22.1,
+      "price": 22.85,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-02",
@@ -1623,12 +1623,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "5351",
       "name": "鈺創",
-      "price": 67.5,
+      "price": 66.3,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
@@ -1639,12 +1639,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "5386",
       "name": "青雲",
-      "price": 352.0,
+      "price": 343.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1655,12 +1655,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "5475",
       "name": "德宏",
-      "price": 368.5,
+      "price": 389.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -1671,12 +1671,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "5609",
       "name": "中菲行",
-      "price": 80.2,
+      "price": 79.5,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -1687,12 +1687,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "5706",
       "name": "鳳凰",
-      "price": 52.7,
+      "price": 52.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -1703,12 +1703,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "6016",
       "name": "康和證",
-      "price": 17.2,
+      "price": 17.75,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1719,12 +1719,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "6207",
       "name": "雷科",
-      "price": 57.1,
+      "price": 57.8,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1735,12 +1735,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "6492",
       "name": "生華科",
-      "price": 54.6,
+      "price": 54.4,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
@@ -1751,12 +1751,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "6530",
       "name": "創威",
-      "price": 125.5,
+      "price": 138.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1767,12 +1767,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "7689",
       "name": "大鵬科CLMX",
-      "price": 250.5,
+      "price": 295.5,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1783,12 +1783,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "7780",
-      "name": "大研生醫",
-      "price": 20.35,
+      "name": "大研生醫*",
+      "price": 19.95,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1799,12 +1799,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "8066",
       "name": "來思達",
-      "price": 18.4,
+      "price": 18.5,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1815,12 +1815,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "8119",
       "name": "公信",
-      "price": 12.85,
+      "price": 15.7,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
@@ -1831,7 +1831,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "8935",
@@ -1847,12 +1847,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -19
+      "daysLeft": -20
     },
     {
       "code": "1340",
       "name": "勝悅-KY",
-      "price": 6.41,
+      "price": 6.35,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1863,12 +1863,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "1418",
       "name": "東華",
-      "price": 18.75,
+      "price": 18.5,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1879,12 +1879,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "2438",
       "name": "翔耀",
-      "price": 22.45,
+      "price": 22.85,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1895,12 +1895,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "3306",
       "name": "鼎天",
-      "price": 47.45,
+      "price": 48.0,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1911,12 +1911,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "3541",
       "name": "西柏",
-      "price": 24.0,
+      "price": 23.85,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1927,7 +1927,7 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "3646",
@@ -1943,12 +1943,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "4977",
       "name": "眾達-KY",
-      "price": 235.5,
+      "price": 246.5,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1959,12 +1959,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "6126",
       "name": "信音",
-      "price": 33.25,
+      "price": 32.95,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1975,12 +1975,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "6683",
       "name": "雍智科技",
-      "price": 1870.0,
+      "price": 1905.0,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -1991,12 +1991,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "6684",
       "name": "安格",
-      "price": 47.05,
+      "price": 47.1,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -2007,12 +2007,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "8358",
       "name": "金居",
-      "price": 367.5,
+      "price": 397.5,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
@@ -2023,12 +2023,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -12
+      "daysLeft": -13
     },
     {
       "code": "1464",
       "name": "得力",
-      "price": 10.55,
+      "price": 10.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2039,12 +2039,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "1514",
       "name": "亞力",
-      "price": 114.0,
+      "price": 115.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2055,12 +2055,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "1565",
       "name": "精華",
-      "price": 108.5,
+      "price": 107.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2071,12 +2071,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "1709",
       "name": "和益",
-      "price": 18.95,
+      "price": 19.05,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2087,7 +2087,7 @@
         "飲料"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "1718",
@@ -2103,12 +2103,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "1732",
       "name": "毛寶",
-      "price": 26.1,
+      "price": 26.05,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2119,12 +2119,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2025",
       "name": "千興",
-      "price": 12.25,
+      "price": 11.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2135,12 +2135,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2230",
       "name": "泰茂",
-      "price": 30.25,
+      "price": 30.15,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2151,12 +2151,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2323",
       "name": "中環",
-      "price": 10.75,
+      "price": 10.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2168,12 +2168,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2345",
       "name": "智邦",
-      "price": 2070.0,
+      "price": 2010.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2184,12 +2184,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2359",
       "name": "所羅門",
-      "price": 115.0,
+      "price": 117.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2200,12 +2200,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2380",
       "name": "虹光",
-      "price": 5.3,
+      "price": 5.35,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2216,12 +2216,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2417",
       "name": "圓剛",
-      "price": 41.4,
+      "price": 42.25,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2232,12 +2232,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2453",
       "name": "凌群",
-      "price": 55.5,
+      "price": 54.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2248,12 +2248,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2457",
       "name": "飛宏",
-      "price": 24.75,
+      "price": 25.85,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2264,12 +2264,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2485",
       "name": "兆赫",
-      "price": 77.7,
+      "price": 72.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2280,12 +2280,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2493",
       "name": "揚博",
-      "price": 141.0,
+      "price": 139.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2296,12 +2296,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2535",
       "name": "達欣工",
-      "price": 70.2,
+      "price": 69.4,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2312,12 +2312,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2605",
       "name": "新興",
-      "price": 35.65,
+      "price": 35.05,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2328,12 +2328,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "2913",
       "name": "農林",
-      "price": 12.15,
+      "price": 12.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2344,12 +2344,12 @@
         "飲料"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3052",
       "name": "夆典",
-      "price": 11.05,
+      "price": 11.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2360,12 +2360,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3211",
       "name": "順達",
-      "price": 359.0,
+      "price": 365.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2376,12 +2376,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3213",
       "name": "茂訊",
-      "price": 107.5,
+      "price": 108.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2392,12 +2392,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3228",
       "name": "金麗科",
-      "price": 138.5,
+      "price": 152.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2409,12 +2409,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3236",
       "name": "千如",
-      "price": 35.25,
+      "price": 34.4,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2425,12 +2425,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3305",
       "name": "昇貿",
-      "price": 120.5,
+      "price": 121.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2441,12 +2441,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3317",
       "name": "尼克森",
-      "price": 54.6,
+      "price": 55.1,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2457,12 +2457,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3360",
       "name": "尚立",
-      "price": 14.15,
+      "price": 13.95,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2473,12 +2473,12 @@
         "米"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3376",
       "name": "新日興",
-      "price": 195.0,
+      "price": 202.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2489,12 +2489,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3430",
       "name": "奇鈦科",
-      "price": 85.6,
+      "price": 94.1,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2505,12 +2505,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3479",
       "name": "安勤",
-      "price": 92.2,
+      "price": 93.1,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2522,12 +2522,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3518",
       "name": "柏騰",
-      "price": 27.05,
+      "price": 29.75,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2538,12 +2538,12 @@
         "飲料"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3540",
       "name": "曜越",
-      "price": 27.1,
+      "price": 27.25,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2554,12 +2554,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3687",
       "name": "歐買尬",
-      "price": 69.1,
+      "price": 69.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2571,12 +2571,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "3707",
       "name": "漢磊",
-      "price": 56.2,
+      "price": 58.6,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2587,12 +2587,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4108",
       "name": "懷特",
-      "price": 12.65,
+      "price": 12.6,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2603,12 +2603,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4111",
       "name": "濟生",
-      "price": 29.3,
+      "price": 29.15,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2619,12 +2619,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4168",
       "name": "醣聯",
-      "price": 23.8,
+      "price": 23.85,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2635,12 +2635,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4171",
       "name": "瑞基",
-      "price": 19.7,
+      "price": 19.55,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2651,12 +2651,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4510",
       "name": "高鋒",
-      "price": 47.05,
+      "price": 48.05,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2667,12 +2667,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4533",
       "name": "協易機",
-      "price": 31.65,
+      "price": 32.55,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2683,12 +2683,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4541",
       "name": "晟田",
-      "price": 48.3,
+      "price": 49.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2699,12 +2699,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4566",
       "name": "時碩工業",
-      "price": 70.1,
+      "price": 70.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2715,12 +2715,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4714",
       "name": "永捷",
-      "price": 15.2,
+      "price": 15.05,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2731,12 +2731,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4716",
       "name": "大立",
-      "price": 16.2,
+      "price": 15.65,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2747,12 +2747,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4744",
       "name": "皇將",
-      "price": 32.0,
+      "price": 31.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2763,12 +2763,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "4749",
       "name": "新應材",
-      "price": 895.0,
+      "price": 943.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2779,7 +2779,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "5243",
@@ -2795,12 +2795,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "5263",
       "name": "智崴",
-      "price": 94.0,
+      "price": 95.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2811,12 +2811,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "5355",
       "name": "佳總",
-      "price": 6.41,
+      "price": 6.57,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2827,12 +2827,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "5603",
       "name": "陸海",
-      "price": 16.8,
+      "price": 16.65,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2843,12 +2843,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6104",
       "name": "創惟",
-      "price": 93.9,
+      "price": 94.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2859,12 +2859,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6152",
       "name": "百一",
-      "price": 17.4,
+      "price": 16.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2875,12 +2875,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6153",
       "name": "嘉聯益",
-      "price": 18.75,
+      "price": 18.45,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2891,12 +2891,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6170",
       "name": "統振",
-      "price": 51.2,
+      "price": 51.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2907,12 +2907,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6173",
       "name": "信昌電",
-      "price": 92.2,
+      "price": 84.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -2923,12 +2923,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6220",
       "name": "岳豐",
-      "price": 33.4,
+      "price": 32.2,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2939,12 +2939,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6226",
       "name": "光鼎",
-      "price": 14.6,
+      "price": 16.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2955,12 +2955,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6233",
       "name": "旺玖",
-      "price": 25.95,
+      "price": 26.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
@@ -2971,12 +2971,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6261",
       "name": "久元",
-      "price": 78.3,
+      "price": 86.1,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -2987,12 +2987,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6276",
       "name": "安鈦克",
-      "price": 31.3,
+      "price": 30.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3004,12 +3004,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6411",
       "name": "晶焱",
-      "price": 79.0,
+      "price": 78.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -3020,12 +3020,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6432",
       "name": "今展科",
-      "price": 40.7,
+      "price": 44.75,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3037,12 +3037,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6598",
       "name": "ABC-KY",
-      "price": 22.8,
+      "price": 22.65,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3053,12 +3053,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6787",
       "name": "晶瑞光",
-      "price": 34.3,
+      "price": 36.35,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -3069,12 +3069,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "6797",
       "name": "圓點奈米",
-      "price": 15.55,
+      "price": 15.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3086,12 +3086,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "8024",
       "name": "佑華",
-      "price": 13.0,
+      "price": 12.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3102,12 +3102,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "8034",
       "name": "榮群",
-      "price": 25.4,
+      "price": 25.85,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3118,12 +3118,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "8048",
       "name": "德勝",
-      "price": 64.6,
+      "price": 67.3,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -3134,12 +3134,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "8277",
       "name": "商丞",
-      "price": 7.66,
+      "price": 7.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -3150,12 +3150,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "8437",
       "name": "大地-KY",
-      "price": 12.5,
+      "price": 12.6,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
@@ -3166,12 +3166,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "9938",
       "name": "百和",
-      "price": 46.35,
+      "price": 45.25,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
@@ -3182,12 +3182,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -11
+      "daysLeft": -12
     },
     {
       "code": "1337",
       "name": "再生-KY",
-      "price": 5.52,
+      "price": 5.47,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3198,7 +3198,7 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "1452",
@@ -3214,12 +3214,45 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
+    },
+    {
+      "code": "1580",
+      "name": "新麥",
+      "price": 125.0,
+      "buyDate": "2026-04-09",
+      "buyDateRaw": "04/09",
+      "meetingDate": "2026-06-12",
+      "type": "常會",
+      "location": "新北",
+      "gift": "7-11 咖啡兌換券 參考圖",
+      "giftTypes": [
+        "飲料",
+        "提貨券"
+      ],
+      "status": "已截止",
+      "daysLeft": -11
+    },
+    {
+      "code": "1781",
+      "name": "合世",
+      "price": 11.3,
+      "buyDate": "2026-04-09",
+      "buyDateRaw": "04/09",
+      "meetingDate": "2026-06-12",
+      "type": "常會",
+      "location": "新北",
+      "gift": "伊莎貝爾櫻花沐浴皂 參考圖",
+      "giftTypes": [
+        "日用品"
+      ],
+      "status": "已截止",
+      "daysLeft": -11
     },
     {
       "code": "1784",
       "name": "訊聯",
-      "price": 80.2,
+      "price": 79.8,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3230,12 +3263,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "2107",
       "name": "厚生",
-      "price": 26.05,
+      "price": 26.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3246,7 +3279,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "2316",
@@ -3262,12 +3295,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "2364",
       "name": "倫飛",
-      "price": 64.9,
+      "price": 64.4,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3278,12 +3311,28 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
+    },
+    {
+      "code": "2478",
+      "name": "大毅",
+      "price": 73.5,
+      "buyDate": "2026-04-09",
+      "buyDateRaw": "04/09",
+      "meetingDate": "2026-06-12",
+      "type": "常會",
+      "location": "桃園",
+      "gift": "7-11 50元商品卡 參考圖",
+      "giftTypes": [
+        "提貨券"
+      ],
+      "status": "已截止",
+      "daysLeft": -11
     },
     {
       "code": "2495",
       "name": "普安",
-      "price": 42.85,
+      "price": 42.95,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3294,12 +3343,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "2885",
       "name": "元大金",
-      "price": 50.2,
+      "price": 51.4,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3310,12 +3359,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "3013",
       "name": "晟銘電",
-      "price": 111.0,
+      "price": 113.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3326,12 +3375,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "3028",
       "name": "增你強",
-      "price": 62.8,
+      "price": 61.1,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3342,12 +3391,28 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
+    },
+    {
+      "code": "3049",
+      "name": "精金",
+      "price": 14.6,
+      "buyDate": "2026-04-09",
+      "buyDateRaw": "04/09",
+      "meetingDate": "2026-06-12",
+      "type": "常會",
+      "location": "台南",
+      "gift": "即享卡50元 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "已截止",
+      "daysLeft": -11
     },
     {
       "code": "3209",
       "name": "全科",
-      "price": 47.45,
+      "price": 48.65,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3358,12 +3423,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "3276",
       "name": "宇環",
-      "price": 14.45,
+      "price": 14.75,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3375,12 +3440,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "3289",
       "name": "宜特",
-      "price": 180.0,
+      "price": 198.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3391,12 +3456,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "3322",
       "name": "建舜電",
-      "price": 13.7,
+      "price": 14.9,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3407,12 +3472,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "3372",
       "name": "典範",
-      "price": 20.05,
+      "price": 20.35,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3423,12 +3488,28 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
+    },
+    {
+      "code": "3498",
+      "name": "陽程",
+      "price": 87.1,
+      "buyDate": "2026-04-09",
+      "buyDateRaw": "04/09",
+      "meetingDate": "2026-06-12",
+      "type": "常會",
+      "location": "桃園",
+      "gift": "全家禮物卡50元 參考圖",
+      "giftTypes": [
+        "提貨券"
+      ],
+      "status": "已截止",
+      "daysLeft": -11
     },
     {
       "code": "3632",
       "name": "研勤",
-      "price": 9.0,
+      "price": 8.93,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3439,12 +3520,12 @@
         "米"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "4523",
       "name": "永彰",
-      "price": 30.1,
+      "price": 30.55,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3456,12 +3537,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "4721",
       "name": "美琪瑪",
-      "price": 91.2,
+      "price": 91.4,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3472,7 +3553,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "4735",
@@ -3488,12 +3569,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "5371",
       "name": "中光電",
-      "price": 78.3,
+      "price": 80.3,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3504,12 +3585,12 @@
         "米"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "6143",
       "name": "振曜",
-      "price": 93.0,
+      "price": 93.4,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3520,12 +3601,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "6185",
       "name": "幃翔",
-      "price": 14.05,
+      "price": 14.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3536,12 +3617,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "6218",
       "name": "豪勉",
-      "price": 37.6,
+      "price": 35.45,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3552,12 +3633,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "6284",
       "name": "佳邦",
-      "price": 88.9,
+      "price": 88.5,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3568,12 +3649,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "6517",
       "name": "保勝光學",
-      "price": 59.8,
+      "price": 60.2,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3584,12 +3665,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "6706",
       "name": "惠特",
-      "price": 151.5,
+      "price": 151.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3600,12 +3681,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "6885",
       "name": "全福生技",
-      "price": 23.95,
+      "price": 23.75,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3616,12 +3697,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "7516",
       "name": "清淨海",
-      "price": 9.5,
+      "price": 9.6,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3632,12 +3713,12 @@
         "飲料"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "8088",
       "name": "品安",
-      "price": 50.6,
+      "price": 51.3,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3648,12 +3729,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "8390",
       "name": "金益鼎",
-      "price": 90.0,
+      "price": 89.6,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3665,12 +3746,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
     },
     {
       "code": "9919",
       "name": "康那香",
-      "price": 14.8,
+      "price": 14.75,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
@@ -3681,12 +3762,28 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -10
+      "daysLeft": -11
+    },
+    {
+      "code": "1414",
+      "name": "東和",
+      "price": 16.45,
+      "buyDate": "2026-04-14",
+      "buyDateRaw": "04/14",
+      "meetingDate": "2026-06-15",
+      "type": "常會",
+      "location": "台北",
+      "gift": "襪子乙雙 參考圖",
+      "giftTypes": [
+        "其他"
+      ],
+      "status": "已截止",
+      "daysLeft": -6
     },
     {
       "code": "1527",
       "name": "鑽全",
-      "price": 33.0,
+      "price": 33.1,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -3697,12 +3794,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -5
+      "daysLeft": -6
     },
     {
       "code": "2401",
       "name": "凌陽",
-      "price": 23.65,
+      "price": 24.35,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -3713,12 +3810,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -5
+      "daysLeft": -6
     },
     {
       "code": "3607",
       "name": "谷崧",
-      "price": 15.5,
+      "price": 15.2,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -3730,12 +3827,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -5
+      "daysLeft": -6
     },
     {
       "code": "5452",
       "name": "佶優",
-      "price": 34.15,
+      "price": 36.2,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -3746,12 +3843,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -5
+      "daysLeft": -6
     },
     {
       "code": "5478",
       "name": "智冠",
-      "price": 99.7,
+      "price": 99.8,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -3762,12 +3859,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -5
+      "daysLeft": -6
     },
     {
       "code": "6150",
       "name": "撼訊",
-      "price": 53.4,
+      "price": 54.6,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
@@ -3778,12 +3875,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -5
+      "daysLeft": -6
     },
     {
       "code": "1524",
       "name": "耿鼎",
-      "price": 29.55,
+      "price": 29.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3794,12 +3891,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "1604",
       "name": "聲寶",
-      "price": 23.8,
+      "price": 23.55,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3810,12 +3907,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "1721",
       "name": "三晃",
-      "price": 20.5,
+      "price": 22.55,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3826,12 +3923,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "1734",
       "name": "杏輝",
-      "price": 32.15,
+      "price": 32.05,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3842,12 +3939,12 @@
         "食品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2349",
       "name": "錸德",
-      "price": 13.75,
+      "price": 13.6,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3858,12 +3955,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2365",
       "name": "昆盈",
-      "price": 34.9,
+      "price": 35.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -3874,12 +3971,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2367",
       "name": "燿華",
-      "price": 68.5,
+      "price": 65.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3890,12 +3987,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2399",
       "name": "映泰",
-      "price": 35.25,
+      "price": 35.95,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -3907,12 +4004,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2402",
       "name": "毅嘉",
-      "price": 77.7,
+      "price": 75.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3924,12 +4021,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2429",
       "name": "銘旺科",
-      "price": 39.85,
+      "price": 41.65,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -3940,12 +4037,12 @@
         "飲料"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2516",
       "name": "新建",
-      "price": 13.6,
+      "price": 13.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -3956,12 +4053,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "2616",
       "name": "山隆",
-      "price": 15.45,
+      "price": 15.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -3972,12 +4069,28 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
+    },
+    {
+      "code": "2834",
+      "name": "臺企銀",
+      "price": 16.6,
+      "buyDate": "2026-04-15",
+      "buyDateRaw": "04/15",
+      "meetingDate": "2026-06-18",
+      "type": "常會",
+      "location": "台北",
+      "gift": "7-11 商品卡(新臺幣50元) 參考圖",
+      "giftTypes": [
+        "提貨券"
+      ],
+      "status": "已截止",
+      "daysLeft": -5
     },
     {
       "code": "2880",
       "name": "華南金",
-      "price": 36.15,
+      "price": 36.1,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -3988,12 +4101,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3033",
       "name": "威健",
-      "price": 34.65,
+      "price": 34.75,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -4004,12 +4117,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3047",
       "name": "訊舟",
-      "price": 15.7,
+      "price": 15.85,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4020,12 +4133,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3131",
       "name": "弘塑",
-      "price": 3255.0,
+      "price": 3220.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4036,12 +4149,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3163",
       "name": "波若威",
-      "price": 1225.0,
+      "price": 1310.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4052,12 +4165,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3312",
       "name": "弘憶股",
-      "price": 42.7,
+      "price": 44.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4068,12 +4181,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3390",
       "name": "旭軟",
-      "price": 24.25,
+      "price": 24.85,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4084,12 +4197,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3402",
       "name": "漢科",
-      "price": 132.0,
+      "price": 135.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4100,12 +4213,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3508",
       "name": "位速",
-      "price": 25.2,
+      "price": 24.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4116,12 +4229,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3526",
       "name": "凡甲",
-      "price": 273.5,
+      "price": 272.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4132,12 +4245,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3567",
       "name": "逸昌",
-      "price": 26.0,
+      "price": 26.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4148,12 +4261,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3593",
       "name": "力銘",
-      "price": 19.35,
+      "price": 19.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4164,12 +4277,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3625",
       "name": "西勝",
-      "price": 16.9,
+      "price": 17.05,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -4180,12 +4293,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3710",
       "name": "連展投控",
-      "price": 6.84,
+      "price": 7.47,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4196,12 +4309,12 @@
         "飲料"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "4160",
       "name": "訊聯基因",
-      "price": 44.7,
+      "price": 44.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4212,12 +4325,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "4167",
       "name": "松瑞藥",
-      "price": 19.9,
+      "price": 19.65,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4228,12 +4341,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "4526",
       "name": "東台",
-      "price": 34.4,
+      "price": 35.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4244,12 +4357,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "4966",
       "name": "譜瑞-KY",
-      "price": 546.0,
+      "price": 547.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4260,12 +4373,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "4973",
       "name": "廣穎",
-      "price": 77.6,
+      "price": 81.8,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -4276,12 +4389,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "5490",
       "name": "同亨",
-      "price": 26.45,
+      "price": 26.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4292,12 +4405,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "5512",
       "name": "力麒",
-      "price": 7.84,
+      "price": 7.78,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4308,12 +4421,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "5701",
       "name": "劍湖山",
-      "price": 3.48,
+      "price": 3.55,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4324,12 +4437,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6015",
       "name": "宏遠證",
-      "price": 13.0,
+      "price": 13.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4340,12 +4453,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6108",
       "name": "競國",
-      "price": 17.9,
+      "price": 18.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4356,12 +4469,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6129",
       "name": "普誠",
-      "price": 16.3,
+      "price": 16.6,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4372,7 +4485,7 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6136",
@@ -4388,12 +4501,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6160",
       "name": "欣技",
-      "price": 15.75,
+      "price": 15.8,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4404,12 +4517,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6209",
       "name": "今國光",
-      "price": 62.1,
+      "price": 67.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4421,12 +4534,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6221",
       "name": "晉泰",
-      "price": 27.6,
+      "price": 28.1,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4437,12 +4550,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6223",
       "name": "旺矽",
-      "price": 5195.0,
+      "price": 5165.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4453,12 +4566,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6224",
       "name": "聚鼎",
-      "price": 61.1,
+      "price": 61.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4469,12 +4582,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6243",
       "name": "迅杰",
-      "price": 30.95,
+      "price": 30.35,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4485,12 +4598,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6244",
       "name": "茂迪",
-      "price": 28.8,
+      "price": 29.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4501,12 +4614,12 @@
         "米"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6294",
       "name": "智基",
-      "price": 39.3,
+      "price": 39.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4517,12 +4630,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "6485",
       "name": "點序",
-      "price": 78.5,
+      "price": 79.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
@@ -4533,12 +4646,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "8027",
       "name": "鈦昇",
-      "price": 148.5,
+      "price": 153.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -4549,12 +4662,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "8089",
       "name": "康全電訊",
-      "price": 21.55,
+      "price": 21.6,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4565,12 +4678,12 @@
         "日用品"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "8183",
       "name": "精星",
-      "price": 36.85,
+      "price": 37.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -4581,12 +4694,12 @@
         "其他"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "8443",
       "name": "阿瘦",
-      "price": 12.05,
+      "price": 11.95,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
@@ -4597,12 +4710,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "9912",
       "name": "偉聯",
-      "price": 12.55,
+      "price": 12.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
@@ -4613,12 +4726,12 @@
         "提貨券"
       ],
       "status": "已截止",
-      "daysLeft": -4
+      "daysLeft": -5
     },
     {
       "code": "3346",
       "name": "麗清",
-      "price": 18.45,
+      "price": 18.4,
       "buyDate": "2026-04-21",
       "buyDateRaw": "04/21",
       "meetingDate": "2026-06-22",
@@ -4629,12 +4742,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 2
+      "daysLeft": 1
     },
     {
       "code": "4741",
       "name": "泓瀚",
-      "price": 58.3,
+      "price": 55.5,
       "buyDate": "2026-04-21",
       "buyDateRaw": "04/21",
       "meetingDate": "2026-06-22",
@@ -4645,12 +4758,12 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 2
+      "daysLeft": 1
     },
     {
       "code": "7895",
       "name": "元進莊",
-      "price": 71.5,
+      "price": 71.0,
       "buyDate": "2026-04-21",
       "buyDateRaw": "04/21",
       "meetingDate": "2026-06-22",
@@ -4661,12 +4774,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 2
+      "daysLeft": 1
     },
     {
       "code": "1220",
       "name": "台榮",
-      "price": 12.8,
+      "price": 12.7,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -4677,12 +4790,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "1316",
       "name": "上曜",
-      "price": 12.0,
+      "price": 11.95,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -4693,12 +4806,12 @@
         "食品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "1449",
       "name": "佳和",
-      "price": 14.4,
+      "price": 15.2,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -4709,12 +4822,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "1526",
       "name": "日馳",
-      "price": 16.75,
+      "price": 16.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4725,12 +4838,12 @@
         "飲料"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "1737",
       "name": "臺鹽",
-      "price": 32.2,
+      "price": 32.05,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -4741,12 +4854,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "1809",
       "name": "中釉",
-      "price": 27.2,
+      "price": 28.95,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4757,12 +4870,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "1815",
       "name": "富喬",
-      "price": 127.0,
+      "price": 121.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4773,12 +4886,12 @@
         "飲料"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "2340",
       "name": "台亞",
-      "price": 32.3,
+      "price": 35.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -4789,12 +4902,12 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "2460",
       "name": "建通",
-      "price": 36.8,
+      "price": 34.85,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4805,12 +4918,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "2471",
       "name": "資通",
-      "price": 54.0,
+      "price": 53.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4821,12 +4934,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "2484",
       "name": "希華",
-      "price": 42.4,
+      "price": 46.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4837,12 +4950,12 @@
         "食品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3043",
       "name": "科風",
-      "price": 20.15,
+      "price": 20.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -4853,12 +4966,12 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3051",
       "name": "力特",
-      "price": 20.55,
+      "price": 22.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -4869,12 +4982,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3058",
       "name": "立德",
-      "price": 9.22,
+      "price": 9.15,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4885,7 +4998,7 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3078",
@@ -4901,12 +5014,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3138",
       "name": "耀登",
-      "price": 184.0,
+      "price": 182.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -4917,12 +5030,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3484",
       "name": "崧騰",
-      "price": 46.0,
+      "price": 45.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4933,12 +5046,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3615",
       "name": "安可",
-      "price": 34.9,
+      "price": 36.45,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -4949,12 +5062,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3693",
       "name": "營邦",
-      "price": 662.0,
+      "price": 728.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -4965,12 +5078,12 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "3711",
       "name": "日月光投控",
-      "price": 442.0,
+      "price": 465.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -4981,12 +5094,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "4306",
       "name": "炎洲",
-      "price": 13.7,
+      "price": 13.55,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -4997,12 +5110,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "4552",
       "name": "力達-KY",
-      "price": 21.2,
+      "price": 21.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5013,12 +5126,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "4908",
       "name": "前鼎",
-      "price": 170.5,
+      "price": 187.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5029,12 +5142,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "4909",
       "name": "新復興",
-      "price": 63.9,
+      "price": 63.1,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -5045,7 +5158,7 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "5227",
@@ -5061,7 +5174,7 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "5251",
@@ -5077,12 +5190,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "5314",
       "name": "世紀*",
-      "price": 80.2,
+      "price": 80.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5093,12 +5206,12 @@
         "食品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "6122",
       "name": "擎邦",
-      "price": 50.8,
+      "price": 50.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -5109,12 +5222,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "6127",
       "name": "九豪",
-      "price": 50.3,
+      "price": 49.1,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5125,12 +5238,12 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "6148",
       "name": "驊宏資",
-      "price": 33.0,
+      "price": 33.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5141,12 +5254,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "6180",
       "name": "橘子",
-      "price": 41.9,
+      "price": 41.75,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5157,7 +5270,7 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "6186",
@@ -5173,7 +5286,7 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "6462",
@@ -5189,12 +5302,12 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "8071",
       "name": "能率網通",
-      "price": 16.65,
+      "price": 16.75,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -5205,12 +5318,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "8104",
       "name": "錸寶",
-      "price": 40.0,
+      "price": 39.2,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
@@ -5221,12 +5334,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "8222",
       "name": "寶一",
-      "price": 37.85,
+      "price": 38.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5237,12 +5350,12 @@
         "飲料"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "8403",
       "name": "盛弘",
-      "price": 22.2,
+      "price": 22.25,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -5253,12 +5366,12 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "8436",
       "name": "大江",
-      "price": 125.0,
+      "price": 123.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -5269,12 +5382,12 @@
         "其他"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "9902",
       "name": "台火",
-      "price": 14.8,
+      "price": 14.7,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
@@ -5285,12 +5398,12 @@
         "日用品"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "9914",
       "name": "美利達",
-      "price": 60.9,
+      "price": 61.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
@@ -5301,7 +5414,7 @@
         "提貨券"
       ],
       "status": "緊急",
-      "daysLeft": 3
+      "daysLeft": 2
     },
     {
       "code": "1217",
@@ -5316,8 +5429,8 @@
       "giftTypes": [
         "油"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "2206",
@@ -5332,13 +5445,13 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "2406",
       "name": "國碩",
-      "price": 33.95,
+      "price": 34.65,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5348,13 +5461,13 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "3025",
       "name": "星通",
-      "price": 64.5,
+      "price": 64.9,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5364,13 +5477,13 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "3379",
       "name": "彬台",
-      "price": 37.3,
+      "price": 38.2,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5380,13 +5493,13 @@
       "giftTypes": [
         "日用品"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "4174",
       "name": "浩鼎",
-      "price": 37.95,
+      "price": 37.3,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5396,13 +5509,13 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "4195",
       "name": "基米",
-      "price": 35.25,
+      "price": 34.65,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5412,13 +5525,13 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "5392",
       "name": "能率",
-      "price": 39.0,
+      "price": 39.9,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5428,13 +5541,13 @@
       "giftTypes": [
         "日用品"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6163",
       "name": "華電網",
-      "price": 67.4,
+      "price": 74.0,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5444,13 +5557,13 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6183",
       "name": "關貿",
-      "price": 95.3,
+      "price": 95.2,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5460,13 +5573,13 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6187",
       "name": "萬潤",
-      "price": 1215.0,
+      "price": 1235.0,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5477,13 +5590,13 @@
         "飲料",
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6216",
       "name": "居易",
-      "price": 25.75,
+      "price": 25.45,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5493,13 +5606,13 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6237",
       "name": "驊訊",
-      "price": 38.35,
+      "price": 39.05,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5509,13 +5622,13 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "6742",
       "name": "澤米",
-      "price": 43.5,
+      "price": 44.3,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5525,13 +5638,13 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "8038",
       "name": "長園科",
-      "price": 42.05,
+      "price": 46.15,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5541,13 +5654,13 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "8050",
       "name": "廣積",
-      "price": 42.15,
+      "price": 42.05,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5557,13 +5670,13 @@
       "giftTypes": [
         "其他"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "8096",
       "name": "擎亞",
-      "price": 91.5,
+      "price": 87.6,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
@@ -5573,13 +5686,13 @@
       "giftTypes": [
         "提貨券"
       ],
-      "status": "注意",
-      "daysLeft": 4
+      "status": "緊急",
+      "daysLeft": 3
     },
     {
       "code": "1540",
       "name": "喬福",
-      "price": 22.0,
+      "price": 22.1,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -5590,12 +5703,12 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "2734",
       "name": "易飛網",
-      "price": 17.3,
+      "price": 16.95,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -5606,12 +5719,12 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "3057",
       "name": "喬鼎",
-      "price": 18.6,
+      "price": 18.15,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -5622,12 +5735,12 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "3325",
       "name": "旭品",
-      "price": 13.35,
+      "price": 14.65,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -5638,12 +5751,12 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "4564",
       "name": "元翎",
-      "price": 19.85,
+      "price": 20.0,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -5654,12 +5767,12 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "4960",
       "name": "誠美材",
-      "price": 33.85,
+      "price": 37.2,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -5670,12 +5783,12 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "5905",
       "name": "南仁湖",
-      "price": 8.73,
+      "price": 8.53,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -5686,12 +5799,12 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "6169",
       "name": "昱泉",
-      "price": 16.95,
+      "price": 16.8,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -5702,12 +5815,12 @@
         "日用品"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "6229",
       "name": "研通",
-      "price": 25.2,
+      "price": 25.85,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
@@ -5718,12 +5831,12 @@
         "其他"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "6618",
       "name": "永虹先進",
-      "price": 18.9,
+      "price": 20.45,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -5734,12 +5847,12 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     },
     {
       "code": "7729",
       "name": "仲恩生醫",
-      "price": 84.7,
+      "price": 84.5,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
@@ -5750,7 +5863,7 @@
         "提貨券"
       ],
       "status": "充裕",
-      "daysLeft": 9
+      "daysLeft": 8
     }
   ]
 }
