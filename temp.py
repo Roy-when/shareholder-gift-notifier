@@ -95,15 +95,28 @@ def crawl_histock() -> list:
 
     soup = BeautifulSoup(resp.text, "html.parser")
     rows = []
+    seen_codes = set()  # 避免重複
+
     for table in soup.find_all("table"):
-        for row in table.find_all("tr")[1:]:
+        for row in table.find_all("tr"):
+            # 同時處理 td（資料行）和跳過 th（標題行）
             cols = row.find_all("td")
             if len(cols) < 8:
                 continue
             try:
                 code = cols[0].text.strip()
-                if not code:
+                # 過濾空白、非數字開頭（排除廣告列等雜訊）
+                if not code or not re.match(r"^\d", code):
                     continue
+                # 避免重複（三個區段可能有相同代號）
+                if code in seen_codes:
+                    continue
+                seen_codes.add(code)
+
+                # 紀念品欄位去除「參考圖」等雜訊文字
+                gift_raw = cols[7].text.strip()
+                gift = re.sub(r"\s*參考圖.*$", "", gift_raw).strip()
+
                 rows.append({
                     "代號":      code,
                     "名稱":      cols[1].text.strip(),
@@ -112,12 +125,12 @@ def crawl_histock() -> list:
                     "股東會日期": cols[4].text.strip(),
                     "性質":      cols[5].text.strip(),
                     "開會地點":  cols[6].text.strip(),
-                    "紀念品":    cols[7].text.strip(),
+                    "紀念品":    gift,
                 })
             except Exception:
                 continue
 
-    print(f"✅ 爬取完成，共 {len(rows)} 筆")
+    print(f"✅ 爬取完成，共 {len(rows)} 筆（含已截止）")
     return rows
 
 
