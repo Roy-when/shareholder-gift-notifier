@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: 安裝套件
-        run: pip install requests beautifulsoup4 pandas python-dotenv
+        run: pip install requests beautifulsoup4 pandas python-dotenv lxml
 
       - name: 執行爬蟲，輸出 data.json
         run: python temp.py
