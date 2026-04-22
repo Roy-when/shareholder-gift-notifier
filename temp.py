@@ -93,38 +93,65 @@ def crawl_histock() -> list:
         print(f"❌ 請求失敗：{e}")
         return []
 
-    soup = BeautifulSoup(resp.text, "html.parser")
+    soup = BeautifulSoup(resp.text, "lxml")  # lxml 能正確處理破損 HTML，抓到更多資料
     rows = []
-    seen_codes = set()  # 避免重複
+    seen_codes = set()
 
     for table in soup.find_all("table"):
         for row in table.find_all("tr"):
-            # 同時處理 td（資料行）和跳過 th（標題行）
             cols = row.find_all("td")
-            if len(cols) < 8:
+            if len(cols) < 4:
                 continue
             try:
-                code = cols[0].text.strip()
-                # 過濾空白、非數字開頭（排除廣告列等雜訊）
-                if not code or not re.match(r"^\d", code):
+                # 優先用 data-label 屬性抓欄位（更穩健，不受 td 數量影響）
+                label_map = {}
+                for col in cols:
+                    label = col.get("data-label", "").strip()
+                    if label:
+                        label_map[label] = col.text.strip()
+
+                # 有 data-label 就用 label_map，沒有就用位置索引
+                if label_map:
+                    code = label_map.get("代號", "").strip()
+                    name_td = row.find("td", {"data-label": "名稱"})
+                    name = name_td.find("a").text.strip() if name_td and name_td.find("a") else label_map.get("名稱", "")
+                    price = label_map.get("股價", "")
+                    buy_date = label_map.get("最後買進日", "")
+                    meeting_date = label_map.get("股東會日期", "")
+                    nature = label_map.get("性質", "")
+                    location_td = row.find("td", {"data-label": "開會地點"})
+                    location = location_td.find("a").text.strip() if location_td and location_td.find("a") else label_map.get("開會地點", "")
+                    gift_raw = label_map.get("股東會紀念品", "") or label_map.get("紀念品", "")
+                else:
+                    if len(cols) < 8:
+                        continue
+                    code = cols[0].text.strip()
+                    name = cols[1].text.strip()
+                    price = cols[2].text.strip()
+                    buy_date = cols[3].text.strip()
+                    meeting_date = cols[4].text.strip()
+                    nature = cols[5].text.strip()
+                    location = cols[6].text.strip()
+                    gift_raw = cols[7].text.strip()
+
+                # 過濾無效代號
+                if not code or not re.match(r"^\d{4}", code):
                     continue
-                # 避免重複（三個區段可能有相同代號）
                 if code in seen_codes:
                     continue
                 seen_codes.add(code)
 
-                # 紀念品欄位去除「參考圖」等雜訊文字
-                gift_raw = cols[7].text.strip()
+                # 清除「參考圖」雜訊
                 gift = re.sub(r"\s*參考圖.*$", "", gift_raw).strip()
 
                 rows.append({
                     "代號":      code,
-                    "名稱":      cols[1].text.strip(),
-                    "股價":      cols[2].text.strip(),
-                    "最後買進日": cols[3].text.strip(),
-                    "股東會日期": cols[4].text.strip(),
-                    "性質":      cols[5].text.strip(),
-                    "開會地點":  cols[6].text.strip(),
+                    "名稱":      name,
+                    "股價":      price,
+                    "最後買進日": buy_date,
+                    "股東會日期": meeting_date,
+                    "性質":      nature,
+                    "開會地點":  location,
                     "紀念品":    gift,
                 })
             except Exception:
