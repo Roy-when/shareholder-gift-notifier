@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22 02:40",
+  "updatedAt": "2026-04-22 03:12",
   "total": 382,
   "records": [
     {
@@ -11,7 +11,7 @@
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -21,13 +21,13 @@
     {
       "code": "1215",
       "name": "卜蜂",
-      "price": 141.5,
+      "price": 142.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "南投",
-      "gift": "雞肉鬆 參考圖",
+      "gift": "雞肉鬆",
       "giftTypes": [
         "食品"
       ],
@@ -37,13 +37,13 @@
     {
       "code": "1305",
       "name": "華夏",
-      "price": 14.55,
+      "price": 14.5,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "苗栗",
-      "gift": "ＵSii優系高阻氧封味鎖鮮袋 參考圖",
+      "gift": "ＵSii優系高阻氧封味鎖鮮袋",
       "giftTypes": [
         "其他"
       ],
@@ -53,13 +53,13 @@
     {
       "code": "1308",
       "name": "亞聚",
-      "price": 15.4,
+      "price": 15.35,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "高雄",
-      "gift": "ＵSii優系高阻氧封味鎖鮮袋 參考圖",
+      "gift": "ＵSii優系高阻氧封味鎖鮮袋",
       "giftTypes": [
         "其他"
       ],
@@ -69,13 +69,13 @@
     {
       "code": "1309",
       "name": "台達化",
-      "price": 19.15,
+      "price": 18.95,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "高雄",
-      "gift": "ＵSii優系高阻氧封味鎖鮮袋 參考圖",
+      "gift": "ＵSii優系高阻氧封味鎖鮮袋",
       "giftTypes": [
         "其他"
       ],
@@ -85,13 +85,13 @@
     {
       "code": "1409",
       "name": "新纖",
-      "price": 17.55,
+      "price": 17.5,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "台北",
-      "gift": "保溫保冷袋 參考圖",
+      "gift": "保溫保冷袋",
       "giftTypes": [
         "其他"
       ],
@@ -101,13 +101,13 @@
     {
       "code": "1432",
       "name": "大魯閣",
-      "price": 16.75,
+      "price": 16.8,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "台北",
-      "gift": "『800元消費抵用券』、『每月玩樂買1送1券』8張 參考圖",
+      "gift": "『800元消費抵用券』、『每月玩樂買1送1券』8張",
       "giftTypes": [
         "提貨券"
       ],
@@ -117,13 +117,13 @@
     {
       "code": "1584",
       "name": "精剛",
-      "price": 21.6,
+      "price": 21.5,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "台南",
-      "gift": "順暢益生菌 參考圖",
+      "gift": "順暢益生菌",
       "giftTypes": [
         "食品"
       ],
@@ -133,13 +133,13 @@
     {
       "code": "1611",
       "name": "中電",
-      "price": 12.2,
+      "price": 12.15,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "台北",
-      "gift": "50元超商禮物卡 參考圖",
+      "gift": "50元超商禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -155,7 +155,7 @@
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "台北",
-      "gift": "水晶肥皂150克3入 參考圖",
+      "gift": "水晶肥皂150克3入",
       "giftTypes": [
         "飲料",
         "日用品"
@@ -166,13 +166,13 @@
     {
       "code": "1707",
       "name": "葡萄王",
-      "price": 117.5,
+      "price": 118.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "桃園",
-      "gift": "葡萄王動能膠囊30粒/瓶 參考圖",
+      "gift": "葡萄王動能膠囊30粒/瓶",
       "giftTypes": [
         "食品"
       ],
@@ -188,7 +188,7 @@
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "台北",
-      "gift": "全家35元企業禮贈卡 參考圖",
+      "gift": "全家35元企業禮贈卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -198,13 +198,13 @@
     {
       "code": "1712",
       "name": "興農",
-      "price": 42.7,
+      "price": 42.6,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "台中",
-      "gift": "一滴淨奈米碳酸抗菌洗手乳1瓶不足時 參考圖",
+      "gift": "一滴淨奈米碳酸抗菌洗手乳1瓶不足時",
       "giftTypes": [
         "米",
         "日用品"
@@ -215,13 +215,13 @@
     {
       "code": "1714",
       "name": "和桐",
-      "price": 9.82,
+      "price": 9.8,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "新北",
-      "gift": "全家禮物卡⾯\r\n額50元⼄\r\n張 參考圖",
+      "gift": "全家禮物卡⾯\r\n額50元⼄\r\n張",
       "giftTypes": [
         "提貨券"
       ],
@@ -231,13 +231,13 @@
     {
       "code": "1723",
       "name": "中碳",
-      "price": 83.5,
+      "price": 83.1,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "高雄",
-      "gift": "7-11  商品卡 50元 參考圖",
+      "gift": "7-11  商品卡 50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -247,13 +247,13 @@
     {
       "code": "1762",
       "name": "中化生",
-      "price": 28.4,
+      "price": 28.3,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "新北",
-      "gift": "綠的抗菌潔手慕斯 參考圖",
+      "gift": "綠的抗菌潔手慕斯",
       "giftTypes": [
         "其他"
       ],
@@ -263,13 +263,13 @@
     {
       "code": "1909",
       "name": "榮成",
-      "price": 9.4,
+      "price": 9.38,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "彰化",
-      "gift": "環保袋 參考圖",
+      "gift": "環保袋",
       "giftTypes": [
         "其他"
       ],
@@ -285,7 +285,7 @@
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "高雄",
-      "gift": "神守精華膠囊 參考圖",
+      "gift": "神守精華膠囊",
       "giftTypes": [
         "食品"
       ],
@@ -295,13 +295,13 @@
     {
       "code": "2022",
       "name": "聚亨",
-      "price": 8.55,
+      "price": 8.58,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "&#",
-      "gift": "蜂王清新植萃精華皂 參考圖",
+      "gift": "蜂王清新植萃精華皂",
       "giftTypes": [
         "日用品"
       ],
@@ -311,13 +311,13 @@
     {
       "code": "2030",
       "name": "彰源",
-      "price": 16.05,
+      "price": 16.1,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "雲林",
-      "gift": "運動休閒毛巾襪 參考圖",
+      "gift": "運動休閒毛巾襪",
       "giftTypes": [
         "其他"
       ],
@@ -333,7 +333,7 @@
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "台北",
-      "gift": "折疊環保提包 參考圖",
+      "gift": "折疊環保提包",
       "giftTypes": [
         "其他"
       ],
@@ -343,13 +343,13 @@
     {
       "code": "2241",
       "name": "艾姆勒",
-      "price": 31.0,
+      "price": 31.35,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -359,13 +359,13 @@
     {
       "code": "2303",
       "name": "聯電",
-      "price": 78.8,
+      "price": 77.6,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "新竹",
-      "gift": "SNOOPY口袋保溫瓶 參考圖",
+      "gift": "SNOOPY口袋保溫瓶",
       "giftTypes": [
         "其他"
       ],
@@ -375,13 +375,13 @@
     {
       "code": "2313",
       "name": "華通",
-      "price": 248.5,
+      "price": 247.5,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "桃園",
-      "gift": "南僑清潔用品 參考圖",
+      "gift": "南僑清潔用品",
       "giftTypes": [
         "日用品"
       ],
@@ -391,13 +391,13 @@
     {
       "code": "2327",
       "name": "國巨*",
-      "price": 321.5,
+      "price": 320.5,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "新北",
-      "gift": "妙管家八倍濃縮洗衣球 參考圖",
+      "gift": "妙管家八倍濃縮洗衣球",
       "giftTypes": [
         "日用品"
       ],
@@ -407,13 +407,13 @@
     {
       "code": "2328",
       "name": "廣宇",
-      "price": 46.9,
+      "price": 46.95,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 現金抵用券35元 參考圖",
+      "gift": "7-11 現金抵用券35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -423,13 +423,13 @@
     {
       "code": "2337",
       "name": "旺宏",
-      "price": 132.5,
+      "price": 133.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "新竹",
-      "gift": "50元 7-11 商品卡 參考圖",
+      "gift": "50元 7-11 商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -439,13 +439,13 @@
     {
       "code": "2363",
       "name": "矽統",
-      "price": 57.6,
+      "price": 58.8,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "新竹",
-      "gift": "工具組 參考圖",
+      "gift": "工具組",
       "giftTypes": [
         "其他"
       ],
@@ -455,13 +455,13 @@
     {
       "code": "2369",
       "name": "菱生",
-      "price": 32.0,
+      "price": 32.05,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "台中",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -471,13 +471,13 @@
     {
       "code": "2371",
       "name": "大同",
-      "price": 31.8,
+      "price": 31.75,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "台北",
-      "gift": "Luminarc純白強化餐具2件套 參考圖",
+      "gift": "Luminarc純白強化餐具2件套",
       "giftTypes": [
         "其他"
       ],
@@ -487,13 +487,13 @@
     {
       "code": "2379",
       "name": "瑞昱",
-      "price": 563.0,
+      "price": 565.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "新竹",
-      "gift": "全家88元禮物卡 參考圖",
+      "gift": "全家88元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -509,7 +509,7 @@
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "友達",
-      "gift": "台灣產製真空包裝白米600公克 參考圖",
+      "gift": "台灣產製真空包裝白米600公克",
       "giftTypes": [
         "米"
       ],
@@ -519,13 +519,13 @@
     {
       "code": "2439",
       "name": "美律",
-      "price": 88.8,
+      "price": 89.3,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "台中",
-      "gift": "全家35元咖啡卡 參考圖",
+      "gift": "全家35元咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -542,7 +542,7 @@
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "ㄧ樓",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -552,13 +552,13 @@
     {
       "code": "2464",
       "name": "盟立",
-      "price": 94.0,
+      "price": 94.7,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "新竹",
-      "gift": "義美提領券50元 參考圖",
+      "gift": "義美提領券50元",
       "giftTypes": [
         "其他"
       ],
@@ -568,13 +568,13 @@
     {
       "code": "2482",
       "name": "連宇",
-      "price": 17.9,
+      "price": 18.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "新北",
-      "gift": "沙威隆經典抗菌皂二入 參考圖",
+      "gift": "沙威隆經典抗菌皂二入",
       "giftTypes": [
         "日用品"
       ],
@@ -584,13 +584,13 @@
     {
       "code": "2489",
       "name": "瑞軒",
-      "price": 43.9,
+      "price": 44.0,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "新北",
-      "gift": "真空壓縮收納袋組(附抽氣沯\r\n) 參考圖",
+      "gift": "真空壓縮收納袋組(附抽氣沯\r\n)",
       "giftTypes": [
         "其他"
       ],
@@ -600,13 +600,13 @@
     {
       "code": "2504",
       "name": "國產",
-      "price": 36.2,
+      "price": 36.15,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -616,13 +616,13 @@
     {
       "code": "2520",
       "name": "冠德",
-      "price": 31.45,
+      "price": 31.4,
       "buyDate": "2026-03-25",
       "buyDateRaw": "03/25",
       "meetingDate": "2026-05-27",
       "type": "常會",
       "location": "台北",
-      "gift": "環球購物中心禮券100元 參考圖",
+      "gift": "環球購物中心禮券100元",
       "giftTypes": [
         "提貨券"
       ],
@@ -638,7 +638,7 @@
       "meetingDate": "2026-05-26",
       "type": "常會",
       "location": "台北",
-      "gift": "白米 參考圖",
+      "gift": "白米",
       "giftTypes": [
         "米"
       ],
@@ -654,7 +654,7 @@
       "meetingDate": "2026-05-28",
       "type": "常會",
       "location": "台北",
-      "gift": "德國雙人全鋼刨刀 參考圖",
+      "gift": "德國雙人全鋼刨刀",
       "giftTypes": [
         "其他"
       ],
@@ -664,13 +664,13 @@
     {
       "code": "1536",
       "name": "和大",
-      "price": 52.2,
+      "price": 52.3,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台中",
-      "gift": "超商50元商品卡 參考圖",
+      "gift": "超商50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -680,13 +680,13 @@
     {
       "code": "1582",
       "name": "信錦",
-      "price": 104.5,
+      "price": 103.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡100元 參考圖",
+      "gift": "7-11 商品卡100元",
       "giftTypes": [
         "提貨券"
       ],
@@ -702,7 +702,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "春風官方購物商城AeSHOP折價券$200 參考圖",
+      "gift": "春風官方購物商城AeSHOP折價券$200",
       "giftTypes": [
         "其他"
       ],
@@ -712,13 +712,13 @@
     {
       "code": "2103",
       "name": "台橡",
-      "price": 18.8,
+      "price": 18.7,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "休閒運動襪子禮盒 參考圖",
+      "gift": "休閒運動襪子禮盒",
       "giftTypes": [
         "其他"
       ],
@@ -734,7 +734,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "鴻海股東2026年專屬購物優惠(需登入官網領取) 參考圖",
+      "gift": "鴻海股東2026年專屬購物優惠(需登入官網領取)",
       "giftTypes": [
         "其他"
       ],
@@ -744,13 +744,13 @@
     {
       "code": "2329",
       "name": "華泰",
-      "price": 60.2,
+      "price": 60.1,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "高雄",
-      "gift": "3C配件收納包 參考圖",
+      "gift": "3C配件收納包",
       "giftTypes": [
         "其他"
       ],
@@ -760,13 +760,13 @@
     {
       "code": "2344",
       "name": "華邦電",
-      "price": 89.6,
+      "price": 89.8,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "FDK三號鹼性電池一組(4入) 參考圖",
+      "gift": "FDK三號鹼性電池一組(4入)",
       "giftTypes": [
         "其他"
       ],
@@ -776,13 +776,13 @@
     {
       "code": "2352",
       "name": "佳世達",
-      "price": 25.7,
+      "price": 25.8,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "史努比陶瓷雙碗組 參考圖",
+      "gift": "史努比陶瓷雙碗組",
       "giftTypes": [
         "其他"
       ],
@@ -792,13 +792,13 @@
     {
       "code": "2353",
       "name": "宏碁",
-      "price": 28.1,
+      "price": 28.15,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "石墨烯圍脖 參考圖",
+      "gift": "石墨烯圍脖",
       "giftTypes": [
         "其他"
       ],
@@ -814,7 +814,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "超商50元商品卡 參考圖",
+      "gift": "超商50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -824,13 +824,13 @@
     {
       "code": "2436",
       "name": "偉詮電",
-      "price": 77.2,
+      "price": 77.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "香皂禮盒(二入) 參考圖",
+      "gift": "香皂禮盒(二入)",
       "giftTypes": [
         "日用品"
       ],
@@ -840,13 +840,13 @@
     {
       "code": "2442",
       "name": "新美齊",
-      "price": 18.9,
+      "price": 18.8,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "毛寶洗衣精500ml 參考圖",
+      "gift": "毛寶洗衣精500ml",
       "giftTypes": [
         "日用品"
       ],
@@ -856,13 +856,13 @@
     {
       "code": "2449",
       "name": "京元電子",
-      "price": 283.0,
+      "price": 286.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "苗栗",
-      "gift": "鋼珠筆組 參考圖",
+      "gift": "鋼珠筆組",
       "giftTypes": [
         "其他"
       ],
@@ -872,13 +872,13 @@
     {
       "code": "2455",
       "name": "全新",
-      "price": 365.0,
+      "price": 369.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "商品卡35元 參考圖",
+      "gift": "商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -894,7 +894,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品卡 參考圖",
+      "gift": "7-11 商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -904,13 +904,13 @@
     {
       "code": "2889",
       "name": "國票金",
-      "price": 15.0,
+      "price": 14.95,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "高級法蘭絨毯(品項不足時以同值商品) 參考圖",
+      "gift": "高級法蘭絨毯(品項不足時以同值商品)",
       "giftTypes": [
         "其他"
       ],
@@ -920,13 +920,13 @@
     {
       "code": "3034",
       "name": "聯詠",
-      "price": 430.5,
+      "price": 432.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -942,7 +942,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "OK超商100元商品卡 參考圖",
+      "gift": "OK超商100元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -952,13 +952,13 @@
     {
       "code": "3234",
       "name": "光環",
-      "price": 115.5,
+      "price": 116.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "保冷袋 參考圖",
+      "gift": "保冷袋",
       "giftTypes": [
         "其他"
       ],
@@ -968,13 +968,13 @@
     {
       "code": "3311",
       "name": "閎暉",
-      "price": 32.55,
+      "price": 32.7,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "FDK三號鹼性電池一組(4入) 參考圖",
+      "gift": "FDK三號鹼性電池一組(4入)",
       "giftTypes": [
         "其他"
       ],
@@ -984,13 +984,13 @@
     {
       "code": "3356",
       "name": "奇偶",
-      "price": 53.2,
+      "price": 53.1,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 美式咖啡卡 參考圖",
+      "gift": "7-11 美式咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -1001,13 +1001,13 @@
     {
       "code": "3406",
       "name": "玉晶光",
-      "price": 533.0,
+      "price": 535.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台中",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1017,13 +1017,13 @@
     {
       "code": "3450",
       "name": "聯鈞",
-      "price": 376.0,
+      "price": 371.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "印花樂山中健行琥珀茶色耐熱玻璃保鮮盒 參考圖",
+      "gift": "印花樂山中健行琥珀茶色耐熱玻璃保鮮盒",
       "giftTypes": [
         "飲料"
       ],
@@ -1033,13 +1033,13 @@
     {
       "code": "3535",
       "name": "晶彩科",
-      "price": 130.0,
+      "price": 128.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "玻璃兩用杯 參考圖",
+      "gift": "玻璃兩用杯",
       "giftTypes": [
         "其他"
       ],
@@ -1055,7 +1055,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台中",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1065,13 +1065,13 @@
     {
       "code": "4133",
       "name": "亞諾法",
-      "price": 22.5,
+      "price": 22.35,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1081,13 +1081,13 @@
     {
       "code": "4172",
       "name": "因華",
-      "price": 16.05,
+      "price": 16.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "洗衣精600g 參考圖",
+      "gift": "洗衣精600g",
       "giftTypes": [
         "日用品"
       ],
@@ -1097,13 +1097,13 @@
     {
       "code": "4806",
       "name": "桂田文創",
-      "price": 10.2,
+      "price": 10.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "高雄",
-      "gift": "加捷順暢益生菌2 入 參考圖",
+      "gift": "加捷順暢益生菌2 入",
       "giftTypes": [
         "食品"
       ],
@@ -1113,13 +1113,13 @@
     {
       "code": "4912",
       "name": "聯德控股-KY",
-      "price": 90.8,
+      "price": 91.4,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "Savlon沙威隆經典抗菌香皂 參考圖",
+      "gift": "Savlon沙威隆經典抗菌香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -1129,13 +1129,13 @@
     {
       "code": "4916",
       "name": "事欣科",
-      "price": 70.7,
+      "price": 70.2,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1151,7 +1151,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1161,13 +1161,13 @@
     {
       "code": "4974",
       "name": "亞泰",
-      "price": 71.9,
+      "price": 72.1,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "五效合一洗衣膠囊 參考圖",
+      "gift": "五效合一洗衣膠囊",
       "giftTypes": [
         "食品",
         "日用品"
@@ -1178,13 +1178,13 @@
     {
       "code": "6156",
       "name": "松上",
-      "price": 21.45,
+      "price": 21.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "香皂 參考圖",
+      "gift": "香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -1194,13 +1194,13 @@
     {
       "code": "6179",
       "name": "亞通",
-      "price": 24.9,
+      "price": 24.95,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "修容組 參考圖",
+      "gift": "修容組",
       "giftTypes": [
         "其他"
       ],
@@ -1210,13 +1210,13 @@
     {
       "code": "6215",
       "name": "和椿",
-      "price": 111.5,
+      "price": 112.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1226,13 +1226,13 @@
     {
       "code": "6257",
       "name": "矽格",
-      "price": 189.5,
+      "price": 188.5,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品卡 50元 參考圖",
+      "gift": "7-11 商品卡 50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1242,13 +1242,13 @@
     {
       "code": "6438",
       "name": "迅得",
-      "price": 185.5,
+      "price": 185.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "全家50元禮物卡 參考圖",
+      "gift": "全家50元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1258,13 +1258,13 @@
     {
       "code": "8111",
       "name": "立碁",
-      "price": 78.8,
+      "price": 78.1,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "清淨海洗衣膠囊 參考圖",
+      "gift": "清淨海洗衣膠囊",
       "giftTypes": [
         "食品",
         "日用品"
@@ -1281,7 +1281,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "指甲剪折疊包 參考圖",
+      "gift": "指甲剪折疊包",
       "giftTypes": [
         "其他"
       ],
@@ -1291,13 +1291,13 @@
     {
       "code": "8383",
       "name": "千附",
-      "price": 73.4,
+      "price": 73.1,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "蜂王拾光漫遊經典皂二入盒 參考圖",
+      "gift": "蜂王拾光漫遊經典皂二入盒",
       "giftTypes": [
         "日用品"
       ],
@@ -1313,7 +1313,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台北",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1329,7 +1329,7 @@
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "台中",
-      "gift": "香皂 參考圖",
+      "gift": "香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -1339,13 +1339,13 @@
     {
       "code": "8996",
       "name": "高力",
-      "price": 1220.0,
+      "price": 1230.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1355,13 +1355,13 @@
     {
       "code": "9917",
       "name": "中保科",
-      "price": 115.5,
+      "price": 115.0,
       "buyDate": "2026-03-26",
       "buyDateRaw": "03/26",
       "meetingDate": "2026-05-29",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 或全家100元商品卡(擇一) 參考圖",
+      "gift": "7-11 或全家100元商品卡(擇一)",
       "giftTypes": [
         "提貨券"
       ],
@@ -1377,7 +1377,7 @@
       "meetingDate": "2026-06-01",
       "type": "常會",
       "location": "台南",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1387,13 +1387,13 @@
     {
       "code": "2065",
       "name": "世豐",
-      "price": 30.85,
+      "price": 30.1,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "高雄",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1403,13 +1403,13 @@
     {
       "code": "2405",
       "name": "輔信",
-      "price": 16.3,
+      "price": 16.4,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
       "type": "常會",
       "location": "台北",
-      "gift": "康寧Amber 9吋湯盤 參考圖",
+      "gift": "康寧Amber 9吋湯盤",
       "giftTypes": [
         "其他"
       ],
@@ -1419,13 +1419,13 @@
     {
       "code": "2465",
       "name": "麗臺",
-      "price": 70.6,
+      "price": 71.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
       "type": "常會",
       "location": "新北",
-      "gift": "深海原萃極效修護面膜(一入) 參考圖",
+      "gift": "深海原萃極效修護面膜(一入)",
       "giftTypes": [
         "其他"
       ],
@@ -1441,7 +1441,7 @@
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1451,13 +1451,13 @@
     {
       "code": "2636",
       "name": "台驊控股",
-      "price": 68.1,
+      "price": 67.9,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
       "type": "常會",
       "location": "台北",
-      "gift": "台灣茶摳滋養沐浴皂 參考圖",
+      "gift": "台灣茶摳滋養沐浴皂",
       "giftTypes": [
         "飲料",
         "日用品"
@@ -1468,13 +1468,13 @@
     {
       "code": "2911",
       "name": "麗嬰房",
-      "price": 5.04,
+      "price": 5.03,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
       "type": "常會",
       "location": "台北",
-      "gift": "嬰兒柔護濕巾20抽/單包 參考圖",
+      "gift": "嬰兒柔護濕巾20抽/單包",
       "giftTypes": [
         "其他"
       ],
@@ -1484,13 +1484,13 @@
     {
       "code": "3149",
       "name": "正達",
-      "price": 45.45,
+      "price": 45.2,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
       "type": "常會",
       "location": "苗栗",
-      "gift": "香皂組 參考圖",
+      "gift": "香皂組",
       "giftTypes": [
         "日用品"
       ],
@@ -1500,13 +1500,13 @@
     {
       "code": "3546",
       "name": "宇峻",
-      "price": 70.4,
+      "price": 70.6,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
       "type": "常會",
       "location": "新北",
-      "gift": "不鏽鋼調味罐 參考圖",
+      "gift": "不鏽鋼調味罐",
       "giftTypes": [
         "其他"
       ],
@@ -1522,7 +1522,7 @@
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "新北",
-      "gift": "樂扣樂扣雙飲口彈跳316保溫杯 參考圖",
+      "gift": "樂扣樂扣雙飲口彈跳316保溫杯",
       "giftTypes": [
         "其他"
       ],
@@ -1538,7 +1538,7 @@
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "台中",
-      "gift": "氣密保鮮罐 參考圖",
+      "gift": "氣密保鮮罐",
       "giftTypes": [
         "其他"
       ],
@@ -1548,13 +1548,13 @@
     {
       "code": "4150",
       "name": "優你康",
-      "price": 6.7,
+      "price": 6.79,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "新竹",
-      "gift": "全家50元禮券卡 參考圖",
+      "gift": "全家50元禮券卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1564,13 +1564,13 @@
     {
       "code": "4155",
       "name": "訊映",
-      "price": 13.4,
+      "price": 13.45,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-02",
       "type": "常會",
       "location": "新竹",
-      "gift": "五月花輕柔抽取式衛生紙 參考圖",
+      "gift": "五月花輕柔抽取式衛生紙",
       "giftTypes": [
         "日用品"
       ],
@@ -1580,13 +1580,13 @@
     {
       "code": "4557",
       "name": "永新-KY",
-      "price": 53.5,
+      "price": 53.2,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
       "type": "常會",
       "location": "嘉義",
-      "gift": "精緻包裝米 參考圖",
+      "gift": "精緻包裝米",
       "giftTypes": [
         "米"
       ],
@@ -1596,13 +1596,13 @@
     {
       "code": "4991",
       "name": "環宇-KY",
-      "price": 702.0,
+      "price": 706.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-03",
       "type": "常會",
       "location": "新北",
-      "gift": "7-1135元商品卡 參考圖",
+      "gift": "7-1135元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1618,7 +1618,7 @@
       "meetingDate": "2026-06-02",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1628,13 +1628,13 @@
     {
       "code": "5351",
       "name": "鈺創",
-      "price": 70.5,
+      "price": 71.2,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-05",
       "type": "常會",
       "location": "新竹",
-      "gift": "全家50元商品卡 參考圖",
+      "gift": "全家50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1644,13 +1644,13 @@
     {
       "code": "5386",
       "name": "青雲",
-      "price": 377.0,
+      "price": 376.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "新北",
-      "gift": "肥皂組 參考圖",
+      "gift": "肥皂組",
       "giftTypes": [
         "日用品"
       ],
@@ -1660,13 +1660,13 @@
     {
       "code": "5475",
       "name": "德宏",
-      "price": 395.0,
+      "price": 387.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
       "type": "常會",
       "location": "桃園",
-      "gift": "旅行收納袋 參考圖",
+      "gift": "旅行收納袋",
       "giftTypes": [
         "其他"
       ],
@@ -1676,13 +1676,13 @@
     {
       "code": "5609",
       "name": "中菲行",
-      "price": 79.9,
+      "price": 80.2,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
       "type": "常會",
       "location": "台北",
-      "gift": "鑰匙圈 參考圖",
+      "gift": "鑰匙圈",
       "giftTypes": [
         "其他"
       ],
@@ -1698,7 +1698,7 @@
       "meetingDate": "2026-06-01",
       "type": "常會",
       "location": "台北",
-      "gift": "鳳凰旅遊證件收納袋 參考圖",
+      "gift": "鳳凰旅遊證件收納袋",
       "giftTypes": [
         "其他"
       ],
@@ -1708,13 +1708,13 @@
     {
       "code": "6016",
       "name": "康和證",
-      "price": 18.05,
+      "price": 18.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "台北",
-      "gift": "蜂王舒活皂(一入) 參考圖",
+      "gift": "蜂王舒活皂(一入)",
       "giftTypes": [
         "日用品"
       ],
@@ -1724,13 +1724,13 @@
     {
       "code": "6207",
       "name": "雷科",
-      "price": 60.3,
+      "price": 59.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "高雄",
-      "gift": "牛樟芝菌絲體膠囊10粒入/盒 參考圖",
+      "gift": "牛樟芝菌絲體膠囊10粒入/盒",
       "giftTypes": [
         "食品"
       ],
@@ -1740,13 +1740,13 @@
     {
       "code": "6492",
       "name": "生華科",
-      "price": 54.9,
+      "price": 55.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-01",
       "type": "常會",
       "location": "新北",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1756,13 +1756,13 @@
     {
       "code": "6530",
       "name": "創威",
-      "price": 131.5,
+      "price": 129.0,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "台北",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1772,13 +1772,13 @@
     {
       "code": "7689",
       "name": "大鵬科CLMX",
-      "price": 283.0,
+      "price": 290.5,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "台北",
-      "gift": "多功能收納包 參考圖",
+      "gift": "多功能收納包",
       "giftTypes": [
         "其他"
       ],
@@ -1794,7 +1794,7 @@
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "台北",
-      "gift": "大研生醫股東專屬$680購物金(結帳滿990元即可使用) 參考圖",
+      "gift": "大研生醫股東專屬$680購物金(結帳滿990元即可使用)",
       "giftTypes": [
         "提貨券"
       ],
@@ -1804,13 +1804,13 @@
     {
       "code": "8066",
       "name": "來思達",
-      "price": 18.3,
+      "price": 18.25,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "台北",
-      "gift": "伊莎貝爾櫻花香皂二入 參考圖",
+      "gift": "伊莎貝爾櫻花香皂二入",
       "giftTypes": [
         "日用品"
       ],
@@ -1820,13 +1820,13 @@
     {
       "code": "8119",
       "name": "公信",
-      "price": 16.3,
+      "price": 17.15,
       "buyDate": "2026-03-31",
       "buyDateRaw": "03/31",
       "meetingDate": "2026-06-04",
       "type": "常會",
       "location": "新北",
-      "gift": "超商商品卡35元 參考圖",
+      "gift": "超商商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1842,7 +1842,7 @@
       "meetingDate": "2026-06-05",
       "type": "常會",
       "location": "台中",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1852,13 +1852,13 @@
     {
       "code": "1340",
       "name": "勝悅-KY",
-      "price": 6.21,
+      "price": 6.29,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "台北",
-      "gift": "超商券(50元) 參考圖",
+      "gift": "超商券(50元)",
       "giftTypes": [
         "提貨券"
       ],
@@ -1868,13 +1868,13 @@
     {
       "code": "1418",
       "name": "東華",
-      "price": 18.4,
+      "price": 18.45,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "台北",
-      "gift": "皮革收納(修容護理四件組) 參考圖",
+      "gift": "皮革收納(修容護理四件組)",
       "giftTypes": [
         "其他"
       ],
@@ -1884,13 +1884,13 @@
     {
       "code": "2438",
       "name": "翔耀",
-      "price": 22.8,
+      "price": 22.85,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "宜蘭",
-      "gift": "高級文青隨行杯 參考圖",
+      "gift": "高級文青隨行杯",
       "giftTypes": [
         "其他"
       ],
@@ -1900,13 +1900,13 @@
     {
       "code": "3306",
       "name": "鼎天",
-      "price": 50.7,
+      "price": 50.4,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "桃園",
-      "gift": "不鏽鋼杯墊 參考圖",
+      "gift": "不鏽鋼杯墊",
       "giftTypes": [
         "其他"
       ],
@@ -1922,7 +1922,7 @@
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "新北",
-      "gift": "公司LOGO金屬桿原子筆 參考圖",
+      "gift": "公司LOGO金屬桿原子筆",
       "giftTypes": [
         "其他"
       ],
@@ -1938,7 +1938,7 @@
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "台北",
-      "gift": "35元超商禮券 參考圖",
+      "gift": "35元超商禮券",
       "giftTypes": [
         "提貨券"
       ],
@@ -1948,13 +1948,13 @@
     {
       "code": "4977",
       "name": "眾達-KY",
-      "price": 246.0,
+      "price": 244.5,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "台北",
-      "gift": "全家35元禮物卡 參考圖",
+      "gift": "全家35元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -1964,13 +1964,13 @@
     {
       "code": "6126",
       "name": "信音",
-      "price": 33.1,
+      "price": 33.15,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "新竹",
-      "gift": "超商禮物卡50元 參考圖",
+      "gift": "超商禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -1980,13 +1980,13 @@
     {
       "code": "6683",
       "name": "雍智科技",
-      "price": 1900.0,
+      "price": 1970.0,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2002,7 +2002,7 @@
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "新竹",
-      "gift": "刨刀1個 參考圖",
+      "gift": "刨刀1個",
       "giftTypes": [
         "其他"
       ],
@@ -2012,13 +2012,13 @@
     {
       "code": "8358",
       "name": "金居",
-      "price": 397.0,
+      "price": 400.0,
       "buyDate": "2026-04-07",
       "buyDateRaw": "04/07",
       "meetingDate": "2026-06-08",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 50元禮物卡 參考圖",
+      "gift": "7-11 50元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2028,13 +2028,13 @@
     {
       "code": "1464",
       "name": "得力",
-      "price": 10.35,
+      "price": 10.3,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台南",
-      "gift": "商品卡50元 參考圖",
+      "gift": "商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2050,7 +2050,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "足弓氣墊襪 參考圖",
+      "gift": "足弓氣墊襪",
       "giftTypes": [
         "其他"
       ],
@@ -2066,7 +2066,7 @@
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 50元提貨券 參考圖",
+      "gift": "7-11 50元提貨券",
       "giftTypes": [
         "提貨券"
       ],
@@ -2082,7 +2082,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "德菲雅掛耳式咖啡 參考圖",
+      "gift": "德菲雅掛耳式咖啡",
       "giftTypes": [
         "飲料"
       ],
@@ -2092,13 +2092,13 @@
     {
       "code": "1718",
       "name": "中纖",
-      "price": 6.8,
+      "price": 6.79,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "燕窩飲 參考圖",
+      "gift": "燕窩飲",
       "giftTypes": [
         "食品"
       ],
@@ -2108,13 +2108,13 @@
     {
       "code": "1732",
       "name": "毛寶",
-      "price": 26.0,
+      "price": 25.95,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新竹",
-      "gift": "毛寶小蘇打植萃香氛液體皂500g 參考圖",
+      "gift": "毛寶小蘇打植萃香氛液體皂500g",
       "giftTypes": [
         "日用品"
       ],
@@ -2130,7 +2130,7 @@
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台南",
-      "gift": "香皂乙塊 參考圖",
+      "gift": "香皂乙塊",
       "giftTypes": [
         "日用品"
       ],
@@ -2140,13 +2140,13 @@
     {
       "code": "2230",
       "name": "泰茂",
-      "price": 30.35,
+      "price": 30.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台南",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2156,13 +2156,13 @@
     {
       "code": "2323",
       "name": "中環",
-      "price": 10.75,
+      "price": 10.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "水晶肥皂洗衣精 參考圖",
+      "gift": "水晶肥皂洗衣精",
       "giftTypes": [
         "飲料",
         "日用品"
@@ -2173,13 +2173,13 @@
     {
       "code": "2345",
       "name": "智邦",
-      "price": 2240.0,
+      "price": 2210.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新竹",
-      "gift": "統一商品卡50元 參考圖",
+      "gift": "統一商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2189,13 +2189,13 @@
     {
       "code": "2359",
       "name": "所羅門",
-      "price": 117.5,
+      "price": 118.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台北",
-      "gift": "蜂王拾光漫遊經典皂二入 參考圖",
+      "gift": "蜂王拾光漫遊經典皂二入",
       "giftTypes": [
         "日用品"
       ],
@@ -2211,7 +2211,7 @@
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "新竹",
-      "gift": "沙威隆潔淨抗菌組 參考圖",
+      "gift": "沙威隆潔淨抗菌組",
       "giftTypes": [
         "其他"
       ],
@@ -2221,13 +2221,13 @@
     {
       "code": "2417",
       "name": "圓剛",
-      "price": 43.1,
+      "price": 42.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "圓剛",
-      "gift": "不鏽鋼保溫杯 參考圖",
+      "gift": "不鏽鋼保溫杯",
       "giftTypes": [
         "其他"
       ],
@@ -2243,7 +2243,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "折疊手提袋 參考圖",
+      "gift": "折疊手提袋",
       "giftTypes": [
         "其他"
       ],
@@ -2259,7 +2259,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2269,13 +2269,13 @@
     {
       "code": "2485",
       "name": "兆赫",
-      "price": 71.3,
+      "price": 70.9,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2285,13 +2285,13 @@
     {
       "code": "2493",
       "name": "揚博",
-      "price": 129.0,
+      "price": 128.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "保溫保冷袋 參考圖",
+      "gift": "保溫保冷袋",
       "giftTypes": [
         "其他"
       ],
@@ -2301,13 +2301,13 @@
     {
       "code": "2535",
       "name": "達欣工",
-      "price": 70.0,
+      "price": 69.9,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台北",
-      "gift": "BLACK HAMMER耐熱玻璃法式濾壓壺 參考圖",
+      "gift": "BLACK HAMMER耐熱玻璃法式濾壓壺",
       "giftTypes": [
         "其他"
       ],
@@ -2323,7 +2323,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "琉璃沙拉碗 參考圖",
+      "gift": "琉璃沙拉碗",
       "giftTypes": [
         "其他"
       ],
@@ -2339,7 +2339,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新竹",
-      "gift": "日月紅茶2.4公克*20入茶包 參考圖",
+      "gift": "日月紅茶2.4公克*20入茶包",
       "giftTypes": [
         "飲料"
       ],
@@ -2349,13 +2349,13 @@
     {
       "code": "3048",
       "name": "益登",
-      "price": 41.0,
+      "price": 41.1,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2371,7 +2371,7 @@
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新北",
-      "gift": "五合一工具組 參考圖",
+      "gift": "五合一工具組",
       "giftTypes": [
         "其他"
       ],
@@ -2381,13 +2381,13 @@
     {
       "code": "3211",
       "name": "順達",
-      "price": 412.0,
+      "price": 405.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2397,13 +2397,13 @@
     {
       "code": "3213",
       "name": "茂訊",
-      "price": 107.5,
+      "price": 108.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "新北",
-      "gift": "鍋寶萬用不沾刀具三件組 參考圖",
+      "gift": "鍋寶萬用不沾刀具三件組",
       "giftTypes": [
         "其他"
       ],
@@ -2419,7 +2419,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 咖啡提貨卡(中杯美式35元) 參考圖",
+      "gift": "7-11 咖啡提貨卡(中杯美式35元)",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -2430,13 +2430,13 @@
     {
       "code": "3236",
       "name": "千如",
-      "price": 33.75,
+      "price": 33.55,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "桃園",
-      "gift": "運動涼感巾 參考圖",
+      "gift": "運動涼感巾",
       "giftTypes": [
         "其他"
       ],
@@ -2446,13 +2446,13 @@
     {
       "code": "3305",
       "name": "昇貿",
-      "price": 117.5,
+      "price": 116.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2462,13 +2462,13 @@
     {
       "code": "3317",
       "name": "尼克森",
-      "price": 54.2,
+      "price": 55.2,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新北",
-      "gift": "好來輕便組(好來超氟強化琺瑯質牙膏50g+好來經典纖柔軟毛牙刷乙支) 參考圖",
+      "gift": "好來輕便組(好來超氟強化琺瑯質牙膏50g+好來經典纖柔軟毛牙刷乙支)",
       "giftTypes": [
         "日用品"
       ],
@@ -2478,13 +2478,13 @@
     {
       "code": "3323",
       "name": "加百裕",
-      "price": 36.25,
+      "price": 36.35,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "多功能飲料提袋 參考圖",
+      "gift": "多功能飲料提袋",
       "giftTypes": [
         "飲料"
       ],
@@ -2494,13 +2494,13 @@
     {
       "code": "3360",
       "name": "尚立",
-      "price": 14.45,
+      "price": 14.35,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台北",
-      "gift": "白米產品 參考圖",
+      "gift": "白米產品",
       "giftTypes": [
         "米"
       ],
@@ -2510,13 +2510,13 @@
     {
       "code": "3376",
       "name": "新日興",
-      "price": 221.5,
+      "price": 224.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新北",
-      "gift": "調料罐 參考圖",
+      "gift": "調料罐",
       "giftTypes": [
         "其他"
       ],
@@ -2532,7 +2532,7 @@
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台北",
-      "gift": "全家35元禮物卡 參考圖",
+      "gift": "全家35元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2542,13 +2542,13 @@
     {
       "code": "3479",
       "name": "安勤",
-      "price": 94.6,
+      "price": 94.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新北",
-      "gift": "全家中杯美式咖啡 參考圖",
+      "gift": "全家中杯美式咖啡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -2559,13 +2559,13 @@
     {
       "code": "3518",
       "name": "柏騰",
-      "price": 31.15,
+      "price": 31.35,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "桃園",
-      "gift": "咖啡杯 參考圖",
+      "gift": "咖啡杯",
       "giftTypes": [
         "飲料"
       ],
@@ -2575,13 +2575,13 @@
     {
       "code": "3540",
       "name": "曜越",
-      "price": 27.5,
+      "price": 27.65,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台北",
-      "gift": "超商商品卡35元 參考圖",
+      "gift": "超商商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2591,13 +2591,13 @@
     {
       "code": "3687",
       "name": "歐買尬",
-      "price": 68.9,
+      "price": 69.4,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 咖啡提貨卡 參考圖",
+      "gift": "7-11 咖啡提貨卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -2608,13 +2608,13 @@
     {
       "code": "3707",
       "name": "漢磊",
-      "price": 62.3,
+      "price": 62.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新竹",
-      "gift": "美容巾 參考圖",
+      "gift": "美容巾",
       "giftTypes": [
         "其他"
       ],
@@ -2624,13 +2624,13 @@
     {
       "code": "4108",
       "name": "懷特",
-      "price": 12.5,
+      "price": 12.45,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "桃園",
-      "gift": "清潔品 參考圖",
+      "gift": "清潔品",
       "giftTypes": [
         "日用品"
       ],
@@ -2640,13 +2640,13 @@
     {
       "code": "4111",
       "name": "濟生",
-      "price": 29.25,
+      "price": 29.3,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "新竹",
-      "gift": "靚亮膠原蛋白 參考圖",
+      "gift": "靚亮膠原蛋白",
       "giftTypes": [
         "食品"
       ],
@@ -2656,13 +2656,13 @@
     {
       "code": "4168",
       "name": "醣聯",
-      "price": 23.85,
+      "price": 23.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新北",
-      "gift": "公益沐浴球(限持股1000股以上) 參考圖",
+      "gift": "公益沐浴球(限持股1000股以上)",
       "giftTypes": [
         "其他"
       ],
@@ -2672,13 +2672,13 @@
     {
       "code": "4171",
       "name": "瑞基",
-      "price": 19.25,
+      "price": 19.2,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台中",
-      "gift": "全家禮物卡35元 參考圖",
+      "gift": "全家禮物卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2694,7 +2694,7 @@
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "台中",
-      "gift": "超商50元商品卡 參考圖",
+      "gift": "超商50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2704,13 +2704,13 @@
     {
       "code": "4533",
       "name": "協易機",
-      "price": 33.55,
+      "price": 33.3,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2720,13 +2720,13 @@
     {
       "code": "4541",
       "name": "晟田",
-      "price": 50.0,
+      "price": 49.85,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "高雄",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2736,13 +2736,13 @@
     {
       "code": "4566",
       "name": "時碩工業",
-      "price": 73.5,
+      "price": 74.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "桃園",
-      "gift": "折疊休閒帽 參考圖",
+      "gift": "折疊休閒帽",
       "giftTypes": [
         "其他"
       ],
@@ -2752,13 +2752,13 @@
     {
       "code": "4714",
       "name": "永捷",
-      "price": 16.6,
+      "price": 16.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "台南",
-      "gift": "朝和生醫保健產品 參考圖",
+      "gift": "朝和生醫保健產品",
       "giftTypes": [
         "食品"
       ],
@@ -2768,13 +2768,13 @@
     {
       "code": "4716",
       "name": "大立",
-      "price": 15.75,
+      "price": 15.7,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "高雄",
-      "gift": "濕紙巾 參考圖",
+      "gift": "濕紙巾",
       "giftTypes": [
         "日用品"
       ],
@@ -2784,13 +2784,13 @@
     {
       "code": "4744",
       "name": "皇將",
-      "price": 31.4,
+      "price": 31.75,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台中",
-      "gift": "全家100元禮券 參考圖",
+      "gift": "全家100元禮券",
       "giftTypes": [
         "提貨券"
       ],
@@ -2806,7 +2806,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 商品卡 參考圖",
+      "gift": "7-11 商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -2816,13 +2816,13 @@
     {
       "code": "5243",
       "name": "乙盛-KY",
-      "price": 113.5,
+      "price": 114.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新北",
-      "gift": "硅藻土杯墊 參考圖",
+      "gift": "硅藻土杯墊",
       "giftTypes": [
         "其他"
       ],
@@ -2832,13 +2832,13 @@
     {
       "code": "5263",
       "name": "智崴",
-      "price": 93.8,
+      "price": 94.6,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "高雄",
-      "gift": "體驗優惠券 參考圖",
+      "gift": "體驗優惠券",
       "giftTypes": [
         "其他"
       ],
@@ -2854,7 +2854,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "木漿棉百潔擦 參考圖",
+      "gift": "木漿棉百潔擦",
       "giftTypes": [
         "其他"
       ],
@@ -2864,13 +2864,13 @@
     {
       "code": "5603",
       "name": "陸海",
-      "price": 16.6,
+      "price": 16.55,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台北",
-      "gift": "伊莎貝爾香皂 參考圖",
+      "gift": "伊莎貝爾香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -2886,7 +2886,7 @@
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -2896,13 +2896,13 @@
     {
       "code": "6152",
       "name": "百一",
-      "price": 15.85,
+      "price": 15.9,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "手機支架 參考圖",
+      "gift": "手機支架",
       "giftTypes": [
         "其他"
       ],
@@ -2912,13 +2912,13 @@
     {
       "code": "6153",
       "name": "嘉聯益",
-      "price": 20.4,
+      "price": 20.1,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "新北",
-      "gift": "FDK三號鹼性電池一組(4入) 參考圖",
+      "gift": "FDK三號鹼性電池一組(4入)",
       "giftTypes": [
         "其他"
       ],
@@ -2934,7 +2934,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "澳寶髮膜 參考圖",
+      "gift": "澳寶髮膜",
       "giftTypes": [
         "其他"
       ],
@@ -2944,13 +2944,13 @@
     {
       "code": "6173",
       "name": "信昌電",
-      "price": 88.2,
+      "price": 87.4,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "FDK三號鹼性電池一組(4入) 參考圖",
+      "gift": "FDK三號鹼性電池一組(4入)",
       "giftTypes": [
         "其他"
       ],
@@ -2960,13 +2960,13 @@
     {
       "code": "6220",
       "name": "岳豐",
-      "price": 31.25,
+      "price": 31.35,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "桃園",
-      "gift": "洗手串皂 參考圖",
+      "gift": "洗手串皂",
       "giftTypes": [
         "日用品"
       ],
@@ -2976,13 +2976,13 @@
     {
       "code": "6226",
       "name": "光鼎",
-      "price": 13.95,
+      "price": 13.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新北",
-      "gift": "蜂王草本皂80g 參考圖",
+      "gift": "蜂王草本皂80g",
       "giftTypes": [
         "日用品"
       ],
@@ -2992,13 +2992,13 @@
     {
       "code": "6233",
       "name": "旺玖",
-      "price": 27.2,
+      "price": 27.5,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-10",
       "type": "常會",
       "location": "台北",
-      "gift": "全家35元禮物卡 參考圖",
+      "gift": "全家35元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3008,13 +3008,13 @@
     {
       "code": "6261",
       "name": "久元",
-      "price": 93.1,
+      "price": 94.6,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品券35元 參考圖",
+      "gift": "7-11 商品券35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3030,7 +3030,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11  中杯美式咖啡卡 參考圖",
+      "gift": "7-11  中杯美式咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3041,13 +3041,13 @@
     {
       "code": "6411",
       "name": "晶焱",
-      "price": 81.7,
+      "price": 83.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11  商品卡50元 參考圖",
+      "gift": "7-11  商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3057,13 +3057,13 @@
     {
       "code": "6432",
       "name": "今展科",
-      "price": 42.85,
+      "price": 43.0,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新北",
-      "gift": "全家咖啡卡25元 參考圖",
+      "gift": "全家咖啡卡25元",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3074,13 +3074,13 @@
     {
       "code": "6598",
       "name": "ABC-KY",
-      "price": 22.25,
+      "price": 22.2,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "全家35元商品卡 參考圖",
+      "gift": "全家35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3090,13 +3090,13 @@
     {
       "code": "6787",
       "name": "晶瑞光",
-      "price": 43.65,
+      "price": 43.15,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "新竹",
-      "gift": "對摺式收納運動帽 參考圖",
+      "gift": "對摺式收納運動帽",
       "giftTypes": [
         "其他"
       ],
@@ -3112,7 +3112,7 @@
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11  咖啡卡 參考圖",
+      "gift": "7-11  咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3123,13 +3123,13 @@
     {
       "code": "8024",
       "name": "佑華",
-      "price": 12.7,
+      "price": 12.75,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "新竹",
-      "gift": "馬卡龍捲尺 參考圖",
+      "gift": "馬卡龍捲尺",
       "giftTypes": [
         "其他"
       ],
@@ -3139,13 +3139,13 @@
     {
       "code": "8034",
       "name": "榮群",
-      "price": 25.8,
+      "price": 25.75,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "榮群",
-      "gift": "香皂 參考圖",
+      "gift": "香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -3161,7 +3161,7 @@
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品卡三十五元 參考圖",
+      "gift": "7-11 商品卡三十五元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3171,13 +3171,13 @@
     {
       "code": "8277",
       "name": "商丞",
-      "price": 7.38,
+      "price": 7.34,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "劍潭",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3187,13 +3187,13 @@
     {
       "code": "8437",
       "name": "大地-KY",
-      "price": 13.2,
+      "price": 13.1,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-11",
       "type": "常會",
       "location": "台北",
-      "gift": "全家禮品卡35元 參考圖",
+      "gift": "全家禮品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3203,13 +3203,13 @@
     {
       "code": "9938",
       "name": "百和",
-      "price": 44.75,
+      "price": 44.8,
       "buyDate": "2026-04-08",
       "buyDateRaw": "04/08",
       "meetingDate": "2026-06-09",
       "type": "常會",
       "location": "彰化",
-      "gift": "竹炭襪2雙 參考圖",
+      "gift": "竹炭襪2雙",
       "giftTypes": [
         "其他"
       ],
@@ -3219,13 +3219,13 @@
     {
       "code": "1337",
       "name": "再生-KY",
-      "price": 5.37,
+      "price": 5.38,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "高雄",
-      "gift": "居慕洗手液 參考圖",
+      "gift": "居慕洗手液",
       "giftTypes": [
         "日用品"
       ],
@@ -3235,13 +3235,13 @@
     {
       "code": "1452",
       "name": "宏益",
-      "price": 11.8,
+      "price": 11.7,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "濕紙巾 參考圖",
+      "gift": "濕紙巾",
       "giftTypes": [
         "日用品"
       ],
@@ -3257,7 +3257,7 @@
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 咖啡兌換券 參考圖",
+      "gift": "7-11 咖啡兌換券",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3274,7 +3274,7 @@
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "伊莎貝爾櫻花沐浴皂 參考圖",
+      "gift": "伊莎貝爾櫻花沐浴皂",
       "giftTypes": [
         "日用品"
       ],
@@ -3284,13 +3284,13 @@
     {
       "code": "1784",
       "name": "訊聯",
-      "price": 79.3,
+      "price": 79.6,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "外泌體極萃彈潤舒護面膜 參考圖",
+      "gift": "外泌體極萃彈潤舒護面膜",
       "giftTypes": [
         "其他"
       ],
@@ -3300,13 +3300,13 @@
     {
       "code": "2107",
       "name": "厚生",
-      "price": 25.95,
+      "price": 26.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "桃園",
-      "gift": "超商禮物卡35元 參考圖",
+      "gift": "超商禮物卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3316,13 +3316,13 @@
     {
       "code": "2316",
       "name": "楠梓電",
-      "price": 116.0,
+      "price": 115.5,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "高雄",
-      "gift": "方形玻璃保鮮盒 參考圖",
+      "gift": "方形玻璃保鮮盒",
       "giftTypes": [
         "其他"
       ],
@@ -3332,13 +3332,13 @@
     {
       "code": "2364",
       "name": "倫飛",
-      "price": 64.5,
+      "price": 64.8,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "高雄",
-      "gift": "超商50元商品卡 參考圖",
+      "gift": "超商50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3348,13 +3348,13 @@
     {
       "code": "2478",
       "name": "大毅",
-      "price": 73.3,
+      "price": 73.2,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3364,13 +3364,13 @@
     {
       "code": "2495",
       "name": "普安",
-      "price": 45.25,
+      "price": 45.1,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡 35元 參考圖",
+      "gift": "7-11 商品卡 35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3380,13 +3380,13 @@
     {
       "code": "2885",
       "name": "元大金",
-      "price": 50.0,
+      "price": 50.4,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "即享卡100元 參考圖",
+      "gift": "即享卡100元",
       "giftTypes": [
         "其他"
       ],
@@ -3402,7 +3402,7 @@
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "三角斜背保溫保冷袋 參考圖",
+      "gift": "三角斜背保溫保冷袋",
       "giftTypes": [
         "其他"
       ],
@@ -3412,13 +3412,13 @@
     {
       "code": "3028",
       "name": "增你強",
-      "price": 63.4,
+      "price": 63.2,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "隨行玻璃胖胖瓶 參考圖",
+      "gift": "隨行玻璃胖胖瓶",
       "giftTypes": [
         "其他"
       ],
@@ -3434,7 +3434,7 @@
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台南",
-      "gift": "即享卡50元 參考圖",
+      "gift": "即享卡50元",
       "giftTypes": [
         "其他"
       ],
@@ -3444,13 +3444,13 @@
     {
       "code": "3209",
       "name": "全科",
-      "price": 49.65,
+      "price": 49.85,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "迷你夜行LED燈 參考圖",
+      "gift": "迷你夜行LED燈",
       "giftTypes": [
         "其他"
       ],
@@ -3460,13 +3460,13 @@
     {
       "code": "3276",
       "name": "宇環",
-      "price": 15.0,
+      "price": 15.1,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "桃園",
-      "gift": "35元超商咖啡卡 參考圖",
+      "gift": "35元超商咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3477,13 +3477,13 @@
     {
       "code": "3289",
       "name": "宜特",
-      "price": 205.5,
+      "price": 208.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新竹",
-      "gift": "禮券50元 參考圖",
+      "gift": "禮券50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3493,13 +3493,13 @@
     {
       "code": "3322",
       "name": "建舜電",
-      "price": 14.5,
+      "price": 14.35,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3509,13 +3509,13 @@
     {
       "code": "3372",
       "name": "典範",
-      "price": 20.4,
+      "price": 20.45,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "高雄",
-      "gift": "7-11  35元商品卡 參考圖",
+      "gift": "7-11  35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3525,13 +3525,13 @@
     {
       "code": "3498",
       "name": "陽程",
-      "price": 87.7,
+      "price": 87.6,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "桃園",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3541,13 +3541,13 @@
     {
       "code": "3632",
       "name": "研勤",
-      "price": 8.98,
+      "price": 8.99,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "包裝米 參考圖",
+      "gift": "包裝米",
       "giftTypes": [
         "米"
       ],
@@ -3557,13 +3557,13 @@
     {
       "code": "4523",
       "name": "永彰",
-      "price": 30.6,
+      "price": 30.55,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11   7-11 中杯美式咖啡卡 參考圖",
+      "gift": "7-11   7-11 中杯美式咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3574,13 +3574,13 @@
     {
       "code": "4721",
       "name": "美琪瑪",
-      "price": 93.3,
+      "price": 93.0,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "桃園",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3596,7 +3596,7 @@
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "伊莎貝爾歐風精華皂 參考圖",
+      "gift": "伊莎貝爾歐風精華皂",
       "giftTypes": [
         "日用品"
       ],
@@ -3606,13 +3606,13 @@
     {
       "code": "5371",
       "name": "中光電",
-      "price": 80.0,
+      "price": 79.7,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "苗栗",
-      "gift": "真空包裝米 參考圖",
+      "gift": "真空包裝米",
       "giftTypes": [
         "米"
       ],
@@ -3622,13 +3622,13 @@
     {
       "code": "6143",
       "name": "振曜",
-      "price": 96.0,
+      "price": 96.2,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新竹",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3638,13 +3638,13 @@
     {
       "code": "6185",
       "name": "幃翔",
-      "price": 14.4,
+      "price": 14.45,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "好無比洗衣精 參考圖",
+      "gift": "好無比洗衣精",
       "giftTypes": [
         "日用品"
       ],
@@ -3654,13 +3654,13 @@
     {
       "code": "6218",
       "name": "豪勉",
-      "price": 34.9,
+      "price": 34.8,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11  35元商品卡 參考圖",
+      "gift": "7-11  35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3670,13 +3670,13 @@
     {
       "code": "6284",
       "name": "佳邦",
-      "price": 87.3,
+      "price": 87.2,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "苗栗",
-      "gift": "鹼性電池一組 參考圖",
+      "gift": "鹼性電池一組",
       "giftTypes": [
         "其他"
       ],
@@ -3686,13 +3686,13 @@
     {
       "code": "6483",
       "name": "原創生醫",
-      "price": 14.95,
+      "price": 14.7,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品券50元 參考圖",
+      "gift": "7-11 商品券50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3702,13 +3702,13 @@
     {
       "code": "6517",
       "name": "保勝光學",
-      "price": 61.1,
+      "price": 61.2,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台中",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3718,13 +3718,13 @@
     {
       "code": "6706",
       "name": "惠特",
-      "price": 141.0,
+      "price": 140.5,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台中",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3734,13 +3734,13 @@
     {
       "code": "6885",
       "name": "全福生技",
-      "price": 23.7,
+      "price": 23.75,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "商品卡35元 參考圖",
+      "gift": "商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3750,13 +3750,13 @@
     {
       "code": "7402",
       "name": "邑錡",
-      "price": 131.0,
+      "price": 130.5,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台北",
-      "gift": "超商咖啡卡35元 參考圖",
+      "gift": "超商咖啡卡35元",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3767,13 +3767,13 @@
     {
       "code": "7516",
       "name": "清淨海",
-      "price": 10.3,
+      "price": 10.4,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "桃園",
-      "gift": "清淨海MIIFLORA香水洗髮精720g 參考圖",
+      "gift": "清淨海MIIFLORA香水洗髮精720g",
       "giftTypes": [
         "飲料"
       ],
@@ -3783,13 +3783,13 @@
     {
       "code": "8076",
       "name": "伍豐",
-      "price": 23.6,
+      "price": 23.7,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "新北",
-      "gift": "統一商品卡100元 參考圖",
+      "gift": "統一商品卡100元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3799,13 +3799,13 @@
     {
       "code": "8088",
       "name": "品安",
-      "price": 54.6,
+      "price": 55.1,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "基隆",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3815,13 +3815,13 @@
     {
       "code": "8390",
       "name": "金益鼎",
-      "price": 87.1,
+      "price": 86.7,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "苗栗",
-      "gift": "香水洗衣精1罐 參考圖",
+      "gift": "香水洗衣精1罐",
       "giftTypes": [
         "飲料",
         "日用品"
@@ -3832,13 +3832,13 @@
     {
       "code": "9919",
       "name": "康那香",
-      "price": 14.75,
+      "price": 14.7,
       "buyDate": "2026-04-09",
       "buyDateRaw": "04/09",
       "meetingDate": "2026-06-12",
       "type": "常會",
       "location": "台南",
-      "gift": "口罩 參考圖",
+      "gift": "口罩",
       "giftTypes": [
         "日用品"
       ],
@@ -3848,13 +3848,13 @@
     {
       "code": "1414",
       "name": "東和",
-      "price": 16.35,
+      "price": 16.25,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
       "type": "常會",
       "location": "台北",
-      "gift": "襪子乙雙 參考圖",
+      "gift": "襪子乙雙",
       "giftTypes": [
         "其他"
       ],
@@ -3864,13 +3864,13 @@
     {
       "code": "1527",
       "name": "鑽全",
-      "price": 32.6,
+      "price": 32.75,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
       "type": "常會",
       "location": "台中",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3880,13 +3880,13 @@
     {
       "code": "2401",
       "name": "凌陽",
-      "price": 25.6,
+      "price": 26.05,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -3896,13 +3896,13 @@
     {
       "code": "3607",
       "name": "谷崧",
-      "price": 15.4,
+      "price": 15.85,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
       "type": "常會",
       "location": "桃園",
-      "gift": "超商咖啡提領卡(35元) 參考圖",
+      "gift": "超商咖啡提領卡(35元)",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -3913,13 +3913,13 @@
     {
       "code": "5452",
       "name": "佶優",
-      "price": 35.3,
+      "price": 35.25,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
       "type": "常會",
       "location": "新北",
-      "gift": "全家35元禮物卡 參考圖",
+      "gift": "全家35元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -3929,13 +3929,13 @@
     {
       "code": "5478",
       "name": "智冠",
-      "price": 99.3,
+      "price": 99.6,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
       "type": "常會",
       "location": "高雄",
-      "gift": "MyCard點數卡100點 參考圖",
+      "gift": "MyCard點數卡100點",
       "giftTypes": [
         "其他"
       ],
@@ -3945,13 +3945,13 @@
     {
       "code": "6150",
       "name": "撼訊",
-      "price": 56.0,
+      "price": 56.2,
       "buyDate": "2026-04-14",
       "buyDateRaw": "04/14",
       "meetingDate": "2026-06-15",
       "type": "常會",
       "location": "新北",
-      "gift": "時尚輕巧隨手杯200ml 參考圖",
+      "gift": "時尚輕巧隨手杯200ml",
       "giftTypes": [
         "其他"
       ],
@@ -3961,13 +3961,13 @@
     {
       "code": "1524",
       "name": "耿鼎",
-      "price": 28.5,
+      "price": 28.55,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "桃園",
-      "gift": "菜瓜布 參考圖",
+      "gift": "菜瓜布",
       "giftTypes": [
         "其他"
       ],
@@ -3983,7 +3983,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "桃園",
-      "gift": "雨傘 參考圖",
+      "gift": "雨傘",
       "giftTypes": [
         "其他"
       ],
@@ -3999,7 +3999,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "台中",
-      "gift": "商品卡 參考圖",
+      "gift": "商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -4009,13 +4009,13 @@
     {
       "code": "1734",
       "name": "杏輝",
-      "price": 32.05,
+      "price": 32.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "宜蘭",
-      "gift": "茯苓善補B群膠囊20粒/瓶 參考圖",
+      "gift": "茯苓善補B群膠囊20粒/瓶",
       "giftTypes": [
         "食品"
       ],
@@ -4031,7 +4031,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "洗衣機槽清潔錠 參考圖",
+      "gift": "洗衣機槽清潔錠",
       "giftTypes": [
         "日用品"
       ],
@@ -4041,13 +4041,13 @@
     {
       "code": "2365",
       "name": "昆盈",
-      "price": 35.4,
+      "price": 35.45,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新北",
-      "gift": "頭戴式耳機 參考圖",
+      "gift": "頭戴式耳機",
       "giftTypes": [
         "其他"
       ],
@@ -4057,13 +4057,13 @@
     {
       "code": "2367",
       "name": "燿華",
-      "price": 68.0,
+      "price": 67.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新北",
-      "gift": "感應小夜燈 參考圖",
+      "gift": "感應小夜燈",
       "giftTypes": [
         "其他"
       ],
@@ -4073,13 +4073,13 @@
     {
       "code": "2399",
       "name": "映泰",
-      "price": 41.3,
+      "price": 41.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新北",
-      "gift": "南僑水晶馬卡龍植萃皂 參考圖",
+      "gift": "南僑水晶馬卡龍植萃皂",
       "giftTypes": [
         "飲料",
         "日用品"
@@ -4090,13 +4090,13 @@
     {
       "code": "2402",
       "name": "毅嘉",
-      "price": 75.9,
+      "price": 76.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "桃園",
-      "gift": "超商咖啡卡 參考圖",
+      "gift": "超商咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -4107,13 +4107,13 @@
     {
       "code": "2425",
       "name": "承啟",
-      "price": 31.15,
+      "price": 31.05,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -4129,7 +4129,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "桃園",
-      "gift": "雲彩霓虹無人機冷光水晶掛飾 參考圖",
+      "gift": "雲彩霓虹無人機冷光水晶掛飾",
       "giftTypes": [
         "飲料"
       ],
@@ -4139,13 +4139,13 @@
     {
       "code": "2516",
       "name": "新建",
-      "price": 13.0,
+      "price": 13.1,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "休閒側背包 參考圖",
+      "gift": "休閒側背包",
       "giftTypes": [
         "其他"
       ],
@@ -4155,13 +4155,13 @@
     {
       "code": "2601",
       "name": "益航",
-      "price": 5.55,
+      "price": 5.54,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "台北",
-      "gift": "妙管家雪花點點杯(藍雲朵) 參考圖",
+      "gift": "妙管家雪花點點杯(藍雲朵)",
       "giftTypes": [
         "其他"
       ],
@@ -4171,13 +4171,13 @@
     {
       "code": "2616",
       "name": "山隆",
-      "price": 15.2,
+      "price": 15.15,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "新北",
-      "gift": "春風抽取式衛生紙一串 參考圖",
+      "gift": "春風抽取式衛生紙一串",
       "giftTypes": [
         "日用品"
       ],
@@ -4187,13 +4187,13 @@
     {
       "code": "2834",
       "name": "臺企銀",
-      "price": 16.6,
+      "price": 16.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品卡(新臺幣50元) 參考圖",
+      "gift": "7-11 商品卡(新臺幣50元)",
       "giftTypes": [
         "提貨券"
       ],
@@ -4203,13 +4203,13 @@
     {
       "code": "2880",
       "name": "華南金",
-      "price": 35.35,
+      "price": 35.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "台北",
-      "gift": "咖波聯名限定雙盤組 參考圖",
+      "gift": "咖波聯名限定雙盤組",
       "giftTypes": [
         "其他"
       ],
@@ -4219,13 +4219,13 @@
     {
       "code": "3033",
       "name": "威健",
-      "price": 35.15,
+      "price": 35.05,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "台北",
-      "gift": "威健帆布提袋 參考圖",
+      "gift": "威健帆布提袋",
       "giftTypes": [
         "其他"
       ],
@@ -4241,7 +4241,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "台北",
-      "gift": "清新植萃精華皂二入盒 參考圖",
+      "gift": "清新植萃精華皂二入盒",
       "giftTypes": [
         "日用品"
       ],
@@ -4251,13 +4251,13 @@
     {
       "code": "3050",
       "name": "鈺德",
-      "price": 13.25,
+      "price": 13.2,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "桃園",
-      "gift": "洗衣機槽清洗錠 參考圖",
+      "gift": "洗衣機槽清洗錠",
       "giftTypes": [
         "日用品"
       ],
@@ -4267,13 +4267,13 @@
     {
       "code": "3131",
       "name": "弘塑",
-      "price": 3495.0,
+      "price": 3510.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新竹",
-      "gift": "香皂 參考圖",
+      "gift": "香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -4283,13 +4283,13 @@
     {
       "code": "3163",
       "name": "波若威",
-      "price": 1210.0,
+      "price": 1180.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4299,13 +4299,13 @@
     {
       "code": "3312",
       "name": "弘憶股",
-      "price": 44.65,
+      "price": 44.6,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "洗手乳 參考圖",
+      "gift": "洗手乳",
       "giftTypes": [
         "日用品"
       ],
@@ -4315,13 +4315,13 @@
     {
       "code": "3339",
       "name": "泰谷",
-      "price": 69.9,
+      "price": 69.8,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "南投",
-      "gift": "7-11 35元美式咖啡卡 參考圖",
+      "gift": "7-11 35元美式咖啡卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -4338,7 +4338,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "桃園",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4348,13 +4348,13 @@
     {
       "code": "3402",
       "name": "漢科",
-      "price": 141.0,
+      "price": 141.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "洗手乳 參考圖",
+      "gift": "洗手乳",
       "giftTypes": [
         "日用品"
       ],
@@ -4364,13 +4364,13 @@
     {
       "code": "3508",
       "name": "位速",
-      "price": 24.85,
+      "price": 25.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4380,13 +4380,13 @@
     {
       "code": "3526",
       "name": "凡甲",
-      "price": 274.0,
+      "price": 276.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新北",
-      "gift": "蜂王清新植萃精華皂兩入盒 參考圖",
+      "gift": "蜂王清新植萃精華皂兩入盒",
       "giftTypes": [
         "日用品"
       ],
@@ -4402,7 +4402,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4412,13 +4412,13 @@
     {
       "code": "3567",
       "name": "逸昌",
-      "price": 28.2,
+      "price": 28.15,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "收納袋 參考圖",
+      "gift": "收納袋",
       "giftTypes": [
         "其他"
       ],
@@ -4434,7 +4434,7 @@
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "高雄",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -4444,13 +4444,13 @@
     {
       "code": "3625",
       "name": "西勝",
-      "price": 17.35,
+      "price": 17.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "新北",
-      "gift": "四合一開瓶器 參考圖",
+      "gift": "四合一開瓶器",
       "giftTypes": [
         "其他"
       ],
@@ -4460,13 +4460,13 @@
     {
       "code": "3710",
       "name": "連展投控",
-      "price": 8.39,
+      "price": 8.49,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新北",
-      "gift": "精品濾掛咖啡 參考圖",
+      "gift": "精品濾掛咖啡",
       "giftTypes": [
         "飲料"
       ],
@@ -4476,13 +4476,13 @@
     {
       "code": "4160",
       "name": "訊聯基因",
-      "price": 45.0,
+      "price": 45.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "外泌體極萃彈潤舒護面膜 參考圖",
+      "gift": "外泌體極萃彈潤舒護面膜",
       "giftTypes": [
         "其他"
       ],
@@ -4492,13 +4492,13 @@
     {
       "code": "4167",
       "name": "松瑞藥",
-      "price": 19.55,
+      "price": 19.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台南",
-      "gift": "伊莎貝爾無患子洗手乳 參考圖",
+      "gift": "伊莎貝爾無患子洗手乳",
       "giftTypes": [
         "日用品"
       ],
@@ -4508,13 +4508,13 @@
     {
       "code": "4526",
       "name": "東台",
-      "price": 34.4,
+      "price": 34.35,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "高雄",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4530,7 +4530,7 @@
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4540,13 +4540,13 @@
     {
       "code": "4973",
       "name": "廣穎",
-      "price": 90.9,
+      "price": 91.3,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "台北",
-      "gift": "毛寶好無比超淨亮洗衣精 參考圖",
+      "gift": "毛寶好無比超淨亮洗衣精",
       "giftTypes": [
         "日用品"
       ],
@@ -4556,13 +4556,13 @@
     {
       "code": "5490",
       "name": "同亨",
-      "price": 27.05,
+      "price": 27.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4578,7 +4578,7 @@
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "老媽拌麵(單包裝) 參考圖",
+      "gift": "老媽拌麵(單包裝)",
       "giftTypes": [
         "其他"
       ],
@@ -4594,7 +4594,7 @@
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "雲林",
-      "gift": "萌髮洗髮精系列產品 參考圖",
+      "gift": "萌髮洗髮精系列產品",
       "giftTypes": [
         "其他"
       ],
@@ -4604,13 +4604,13 @@
     {
       "code": "6015",
       "name": "宏遠證",
-      "price": 13.35,
+      "price": 13.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "伸縮三合一充電線 參考圖",
+      "gift": "伸縮三合一充電線",
       "giftTypes": [
         "其他"
       ],
@@ -4620,13 +4620,13 @@
     {
       "code": "6108",
       "name": "競國",
-      "price": 18.2,
+      "price": 18.25,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4636,13 +4636,13 @@
     {
       "code": "6129",
       "name": "普誠",
-      "price": 17.45,
+      "price": 17.6,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新北",
-      "gift": "全家50元禮券 參考圖",
+      "gift": "全家50元禮券",
       "giftTypes": [
         "提貨券"
       ],
@@ -4652,13 +4652,13 @@
     {
       "code": "6136",
       "name": "富爾特",
-      "price": 27.5,
+      "price": 27.85,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新北",
-      "gift": "手工香皂 參考圖",
+      "gift": "手工香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -4668,13 +4668,13 @@
     {
       "code": "6160",
       "name": "欣技",
-      "price": 17.0,
+      "price": 16.85,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新北",
-      "gift": "馬鞭草乳霜皂(2入) 參考圖",
+      "gift": "馬鞭草乳霜皂(2入)",
       "giftTypes": [
         "日用品"
       ],
@@ -4684,13 +4684,13 @@
     {
       "code": "6167",
       "name": "久正",
-      "price": 13.45,
+      "price": 13.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "台中",
-      "gift": "環保肥皂 參考圖",
+      "gift": "環保肥皂",
       "giftTypes": [
         "日用品"
       ],
@@ -4706,7 +4706,7 @@
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "新北",
-      "gift": "FDK三號鹼性電池1組(4入) 參考圖",
+      "gift": "FDK三號鹼性電池1組(4入)",
       "giftTypes": [
         "其他"
       ],
@@ -4716,13 +4716,13 @@
     {
       "code": "6209",
       "name": "今國光",
-      "price": 65.6,
+      "price": 65.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台中",
-      "gift": "台灣茶摳柔嫩細緻肌燕麥皂二入 參考圖",
+      "gift": "台灣茶摳柔嫩細緻肌燕麥皂二入",
       "giftTypes": [
         "飲料",
         "日用品"
@@ -4733,13 +4733,13 @@
     {
       "code": "6221",
       "name": "晉泰",
-      "price": 27.3,
+      "price": 27.35,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新竹",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4749,13 +4749,13 @@
     {
       "code": "6223",
       "name": "旺矽",
-      "price": 4880.0,
+      "price": 4860.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4765,13 +4765,13 @@
     {
       "code": "6224",
       "name": "聚鼎",
-      "price": 59.2,
+      "price": 60.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "法式浮雕8吋餐盤組(2入裝) 參考圖",
+      "gift": "法式浮雕8吋餐盤組(2入裝)",
       "giftTypes": [
         "其他"
       ],
@@ -4781,13 +4781,13 @@
     {
       "code": "6243",
       "name": "迅杰",
-      "price": 35.05,
+      "price": 35.7,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -4797,13 +4797,13 @@
     {
       "code": "6244",
       "name": "茂迪",
-      "price": 28.6,
+      "price": 28.4,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台南",
-      "gift": "優選經典米 參考圖",
+      "gift": "優選經典米",
       "giftTypes": [
         "米"
       ],
@@ -4813,13 +4813,13 @@
     {
       "code": "6294",
       "name": "智基",
-      "price": 38.0,
+      "price": 37.9,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台南",
-      "gift": "學費旅費兌換券500元 參考圖",
+      "gift": "學費旅費兌換券500元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4829,13 +4829,13 @@
     {
       "code": "6485",
       "name": "點序",
-      "price": 83.1,
+      "price": 83.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-16",
       "type": "常會",
       "location": "新竹",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4845,13 +4845,13 @@
     {
       "code": "6698",
       "name": "旭暉應材",
-      "price": 32.8,
+      "price": 33.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台南",
-      "gift": "全家35元禮物卡 參考圖",
+      "gift": "全家35元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -4861,13 +4861,13 @@
     {
       "code": "6810",
       "name": "新穎生醫",
-      "price": 30.6,
+      "price": 26.9,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "新竹",
-      "gift": "超商咖啡提領卡 (35 元 ) 參考圖",
+      "gift": "超商咖啡提領卡 (35 元 )",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -4884,7 +4884,7 @@
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "三商 i 美食 APP各品牌 50 元電子抵用券共 12 張 參考圖",
+      "gift": "三商 i 美食 APP各品牌 50 元電子抵用券共 12 張",
       "giftTypes": [
         "提貨券"
       ],
@@ -4894,13 +4894,13 @@
     {
       "code": "8027",
       "name": "鈦昇",
-      "price": 152.5,
+      "price": 149.5,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "高雄",
-      "gift": "超商禮物卡 參考圖",
+      "gift": "超商禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -4910,13 +4910,13 @@
     {
       "code": "8089",
       "name": "康全電訊",
-      "price": 23.0,
+      "price": 22.75,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "蜂王清新植萃精華皂 參考圖",
+      "gift": "蜂王清新植萃精華皂",
       "giftTypes": [
         "日用品"
       ],
@@ -4926,13 +4926,13 @@
     {
       "code": "8103",
       "name": "瀚荃",
-      "price": 100.5,
+      "price": 101.0,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "新北",
-      "gift": "茶山房洗手串組 參考圖",
+      "gift": "茶山房洗手串組",
       "giftTypes": [
         "飲料",
         "日用品"
@@ -4943,13 +4943,13 @@
     {
       "code": "8183",
       "name": "精星",
-      "price": 37.65,
+      "price": 37.85,
       "buyDate": "2026-04-15",
       "buyDateRaw": "04/15",
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "新竹",
-      "gift": "FDK三號鹼性電池(4入一組) 參考圖",
+      "gift": "FDK三號鹼性電池(4入一組)",
       "giftTypes": [
         "其他"
       ],
@@ -4965,7 +4965,7 @@
       "meetingDate": "2026-06-17",
       "type": "常會",
       "location": "台北",
-      "gift": "感恩購物金500元現金抵用券 參考圖",
+      "gift": "感恩購物金500元現金抵用券",
       "giftTypes": [
         "提貨券"
       ],
@@ -4981,7 +4981,7 @@
       "meetingDate": "2026-06-18",
       "type": "常會",
       "location": "台北",
-      "gift": "超商禮物卡35元 參考圖",
+      "gift": "超商禮物卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -4997,7 +4997,7 @@
       "meetingDate": "2026-06-22",
       "type": "常會",
       "location": "桃園",
-      "gift": "MEDIMIX綠寶石皇室藥草浴美肌皂 參考圖",
+      "gift": "MEDIMIX綠寶石皇室藥草浴美肌皂",
       "giftTypes": [
         "日用品"
       ],
@@ -5007,13 +5007,13 @@
     {
       "code": "4741",
       "name": "泓瀚",
-      "price": 63.0,
+      "price": 62.0,
       "buyDate": "2026-04-21",
       "buyDateRaw": "04/21",
       "meetingDate": "2026-06-22",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5029,7 +5029,7 @@
       "meetingDate": "2026-06-22",
       "type": "常會",
       "location": "雲林",
-      "gift": "滴雞精2入 參考圖",
+      "gift": "滴雞精2入",
       "giftTypes": [
         "其他"
       ],
@@ -5045,7 +5045,7 @@
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台北",
-      "gift": "中性濃縮洗衣精 參考圖",
+      "gift": "中性濃縮洗衣精",
       "giftTypes": [
         "日用品"
       ],
@@ -5061,7 +5061,7 @@
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台南",
-      "gift": "朝和生醫保健食品 參考圖",
+      "gift": "朝和生醫保健食品",
       "giftTypes": [
         "食品"
       ],
@@ -5071,13 +5071,13 @@
     {
       "code": "1449",
       "name": "佳和",
-      "price": 14.65,
+      "price": 14.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台南",
-      "gift": "佳和醫用口罩(未滅菌) 參考圖",
+      "gift": "佳和醫用口罩(未滅菌)",
       "giftTypes": [
         "日用品"
       ],
@@ -5093,7 +5093,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "新北",
-      "gift": "中杯熱美式咖啡券 參考圖",
+      "gift": "中杯熱美式咖啡券",
       "giftTypes": [
         "飲料"
       ],
@@ -5109,7 +5109,7 @@
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台南",
-      "gift": "台塩\r\n生技UP機能吸凍1盒 參考圖",
+      "gift": "台塩\r\n生技UP機能吸凍1盒",
       "giftTypes": [
         "其他"
       ],
@@ -5119,13 +5119,13 @@
     {
       "code": "1809",
       "name": "中釉",
-      "price": 29.45,
+      "price": 29.25,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "新竹",
-      "gift": "氣墊襪 參考圖",
+      "gift": "氣墊襪",
       "giftTypes": [
         "其他"
       ],
@@ -5135,13 +5135,13 @@
     {
       "code": "1815",
       "name": "富喬",
-      "price": 117.0,
+      "price": 114.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "雲林",
-      "gift": "多功能吸水隔熱餐墊 參考圖",
+      "gift": "多功能吸水隔熱餐墊",
       "giftTypes": [
         "飲料"
       ],
@@ -5157,7 +5157,7 @@
       "meetingDate": "2026-06-25",
       "type": "常會",
       "location": "新竹",
-      "gift": "50元超商商品卡 參考圖",
+      "gift": "50元超商商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5167,13 +5167,13 @@
     {
       "code": "2460",
       "name": "建通",
-      "price": 37.3,
+      "price": 37.65,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "高雄",
-      "gift": "編織快充線 參考圖",
+      "gift": "編織快充線",
       "giftTypes": [
         "其他"
       ],
@@ -5183,13 +5183,13 @@
     {
       "code": "2471",
       "name": "資通",
-      "price": 54.1,
+      "price": 54.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "台北",
-      "gift": "毛寶洗碗精 參考圖",
+      "gift": "毛寶洗碗精",
       "giftTypes": [
         "日用品"
       ],
@@ -5199,13 +5199,13 @@
     {
       "code": "2484",
       "name": "希華",
-      "price": 46.5,
+      "price": 46.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "台中",
-      "gift": "麵條 參考圖",
+      "gift": "麵條",
       "giftTypes": [
         "食品"
       ],
@@ -5215,13 +5215,13 @@
     {
       "code": "3043",
       "name": "科風",
-      "price": 21.3,
+      "price": 21.35,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5231,13 +5231,13 @@
     {
       "code": "3051",
       "name": "力特",
-      "price": 26.2,
+      "price": 26.35,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "桃園",
-      "gift": "台灣製ESG公益砧板 參考圖",
+      "gift": "台灣製ESG公益砧板",
       "giftTypes": [
         "其他"
       ],
@@ -5253,7 +5253,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "新北",
-      "gift": "手機支架 參考圖",
+      "gift": "手機支架",
       "giftTypes": [
         "其他"
       ],
@@ -5263,13 +5263,13 @@
     {
       "code": "3078",
       "name": "僑威",
-      "price": 59.3,
+      "price": 59.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "桃園",
-      "gift": "萬用懶人抺\r\n布 參考圖",
+      "gift": "萬用懶人抺\r\n布",
       "giftTypes": [
         "其他"
       ],
@@ -5279,13 +5279,13 @@
     {
       "code": "3138",
       "name": "耀登",
-      "price": 204.5,
+      "price": 203.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
       "type": "常會",
       "location": "桃園",
-      "gift": "日式陶瓷斗笠碗 參考圖",
+      "gift": "日式陶瓷斗笠碗",
       "giftTypes": [
         "其他"
       ],
@@ -5301,7 +5301,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "桃園",
-      "gift": "餐具組 參考圖",
+      "gift": "餐具組",
       "giftTypes": [
         "其他"
       ],
@@ -5311,13 +5311,13 @@
     {
       "code": "3527",
       "name": "聚積",
-      "price": 60.6,
+      "price": 63.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "新竹",
-      "gift": "手機架 參考圖",
+      "gift": "手機架",
       "giftTypes": [
         "其他"
       ],
@@ -5327,13 +5327,13 @@
     {
       "code": "3615",
       "name": "安可",
-      "price": 34.55,
+      "price": 34.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "新竹",
-      "gift": "洗衣機槽清洗錠 參考圖",
+      "gift": "洗衣機槽清洗錠",
       "giftTypes": [
         "日用品"
       ],
@@ -5343,13 +5343,13 @@
     {
       "code": "3693",
       "name": "營邦",
-      "price": 733.0,
+      "price": 715.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
       "type": "常會",
       "location": "桃園",
-      "gift": "超商商品卡35元 參考圖",
+      "gift": "超商商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5359,13 +5359,13 @@
     {
       "code": "3711",
       "name": "日月光投控",
-      "price": 469.5,
+      "price": 468.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "高雄",
-      "gift": "儲物罐 參考圖",
+      "gift": "儲物罐",
       "giftTypes": [
         "其他"
       ],
@@ -5381,7 +5381,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "台北",
-      "gift": "環保購物袋 參考圖",
+      "gift": "環保購物袋",
       "giftTypes": [
         "其他"
       ],
@@ -5391,13 +5391,13 @@
     {
       "code": "4552",
       "name": "力達-KY",
-      "price": 20.85,
+      "price": 20.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台北",
-      "gift": "多功能削皮器 參考圖",
+      "gift": "多功能削皮器",
       "giftTypes": [
         "其他"
       ],
@@ -5407,13 +5407,13 @@
     {
       "code": "4908",
       "name": "前鼎",
-      "price": 203.0,
+      "price": 205.5,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "新竹",
-      "gift": "隨身防身警報器 參考圖",
+      "gift": "隨身防身警報器",
       "giftTypes": [
         "其他"
       ],
@@ -5423,13 +5423,13 @@
     {
       "code": "4909",
       "name": "新復興",
-      "price": 64.1,
+      "price": 64.0,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "桃園",
-      "gift": "7-11 35元商品卡 參考圖",
+      "gift": "7-11 35元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5439,13 +5439,13 @@
     {
       "code": "5227",
       "name": "立凱-KY",
-      "price": 22.2,
+      "price": 22.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
       "type": "常會",
       "location": "桃園",
-      "gift": "超商商品卡50元 參考圖",
+      "gift": "超商商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5455,13 +5455,13 @@
     {
       "code": "5251",
       "name": "天鉞電",
-      "price": 30.5,
+      "price": 30.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "新北",
-      "gift": "香皂 參考圖",
+      "gift": "香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -5471,13 +5471,13 @@
     {
       "code": "5314",
       "name": "世紀*",
-      "price": 77.6,
+      "price": 78.3,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台南",
-      "gift": "朝和生醫保健食品 參考圖",
+      "gift": "朝和生醫保健食品",
       "giftTypes": [
         "食品"
       ],
@@ -5493,7 +5493,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "台北",
-      "gift": "香皂二入(禮品) 參考圖",
+      "gift": "香皂二入(禮品)",
       "giftTypes": [
         "日用品"
       ],
@@ -5503,13 +5503,13 @@
     {
       "code": "6127",
       "name": "九豪",
-      "price": 52.2,
+      "price": 51.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "桃園",
-      "gift": "禮物卡35元 參考圖",
+      "gift": "禮物卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5519,13 +5519,13 @@
     {
       "code": "6148",
       "name": "驊宏資",
-      "price": 33.05,
+      "price": 33.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台北",
-      "gift": "創意種子五色便籤 參考圖",
+      "gift": "創意種子五色便籤",
       "giftTypes": [
         "其他"
       ],
@@ -5535,13 +5535,13 @@
     {
       "code": "6180",
       "name": "橘子",
-      "price": 41.5,
+      "price": 41.6,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台北",
-      "gift": "橘子支付零用金100元 參考圖",
+      "gift": "橘子支付零用金100元",
       "giftTypes": [
         "其他"
       ],
@@ -5557,7 +5557,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品卡 參考圖",
+      "gift": "7-11 商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5573,7 +5573,7 @@
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台北",
-      "gift": "全家禮物卡50元 參考圖",
+      "gift": "全家禮物卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5589,7 +5589,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "股公",
-      "gift": "稻循皂 參考圖",
+      "gift": "稻循皂",
       "giftTypes": [
         "日用品"
       ],
@@ -5599,13 +5599,13 @@
     {
       "code": "8104",
       "name": "錸寶",
-      "price": 38.15,
+      "price": 38.2,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-25",
       "type": "常會",
       "location": "新竹",
-      "gift": "洗衣機槽清洗錠 參考圖",
+      "gift": "洗衣機槽清洗錠",
       "giftTypes": [
         "日用品"
       ],
@@ -5615,13 +5615,13 @@
     {
       "code": "8222",
       "name": "寶一",
-      "price": 38.85,
+      "price": 38.4,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "台南",
-      "gift": "濾掛式咖啡包2入 參考圖",
+      "gift": "濾掛式咖啡包2入",
       "giftTypes": [
         "飲料"
       ],
@@ -5631,13 +5631,13 @@
     {
       "code": "8403",
       "name": "盛弘",
-      "price": 22.4,
+      "price": 22.45,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "桃園",
-      "gift": "智醫康寓住宿抵用券1,000元 參考圖",
+      "gift": "智醫康寓住宿抵用券1,000元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5653,7 +5653,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "屏東",
-      "gift": "大江精選福袋 參考圖",
+      "gift": "大江精選福袋",
       "giftTypes": [
         "其他"
       ],
@@ -5669,7 +5669,7 @@
       "meetingDate": "2026-06-23",
       "type": "常會",
       "location": "台北",
-      "gift": "香皂 參考圖",
+      "gift": "香皂",
       "giftTypes": [
         "日用品"
       ],
@@ -5679,13 +5679,13 @@
     {
       "code": "9914",
       "name": "美利達",
-      "price": 61.5,
+      "price": 61.8,
       "buyDate": "2026-04-22",
       "buyDateRaw": "04/22",
       "meetingDate": "2026-06-24",
       "type": "常會",
       "location": "彰化",
-      "gift": "7-11 商品卡 參考圖",
+      "gift": "7-11 商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5695,13 +5695,13 @@
     {
       "code": "1217",
       "name": "愛之味",
-      "price": 10.4,
+      "price": 10.35,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "嘉義",
-      "gift": "愛之味古法濃香初榨花生油(100ml)1瓶 參考圖",
+      "gift": "愛之味古法濃香初榨花生油(100ml)1瓶",
       "giftTypes": [
         "油"
       ],
@@ -5711,13 +5711,13 @@
     {
       "code": "2206",
       "name": "三陽工業",
-      "price": 56.0,
+      "price": 56.1,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "新竹",
-      "gift": "三角斜背保溫保冷袋 參考圖",
+      "gift": "三角斜背保溫保冷袋",
       "giftTypes": [
         "其他"
       ],
@@ -5727,13 +5727,13 @@
     {
       "code": "2406",
       "name": "國碩",
-      "price": 33.1,
+      "price": 33.05,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品卡35元 參考圖",
+      "gift": "7-11 商品卡35元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5743,13 +5743,13 @@
     {
       "code": "3025",
       "name": "星通",
-      "price": 63.9,
+      "price": 64.4,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "新竹",
-      "gift": "7-11 商品券50元 參考圖",
+      "gift": "7-11 商品券50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5759,13 +5759,13 @@
     {
       "code": "3379",
       "name": "彬台",
-      "price": 37.1,
+      "price": 37.25,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "台北",
-      "gift": "香皂二入(禮品) 參考圖",
+      "gift": "香皂二入(禮品)",
       "giftTypes": [
         "日用品"
       ],
@@ -5775,13 +5775,13 @@
     {
       "code": "4174",
       "name": "浩鼎",
-      "price": 36.7,
+      "price": 36.8,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "台北",
-      "gift": "超商35元禮物卡 參考圖",
+      "gift": "超商35元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5797,7 +5797,7 @@
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "新北",
-      "gift": "醫護醫療用貼布 參考圖",
+      "gift": "醫護醫療用貼布",
       "giftTypes": [
         "其他"
       ],
@@ -5807,13 +5807,13 @@
     {
       "code": "5392",
       "name": "能率",
-      "price": 39.85,
+      "price": 39.75,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "台北",
-      "gift": "稻循皂 參考圖",
+      "gift": "稻循皂",
       "giftTypes": [
         "日用品"
       ],
@@ -5823,13 +5823,13 @@
     {
       "code": "6163",
       "name": "華電網",
-      "price": 70.5,
+      "price": 71.3,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "新北",
-      "gift": "手機支架 參考圖",
+      "gift": "手機支架",
       "giftTypes": [
         "其他"
       ],
@@ -5839,13 +5839,13 @@
     {
       "code": "6183",
       "name": "關貿",
-      "price": 95.3,
+      "price": 95.0,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品卡100元 參考圖",
+      "gift": "7-11 商品卡100元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5855,13 +5855,13 @@
     {
       "code": "6187",
       "name": "萬潤",
-      "price": 1410.0,
+      "price": 1430.0,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "高雄",
-      "gift": "全家咖啡商品卡 參考圖",
+      "gift": "全家咖啡商品卡",
       "giftTypes": [
         "飲料",
         "提貨券"
@@ -5872,13 +5872,13 @@
     {
       "code": "6216",
       "name": "居易",
-      "price": 25.45,
+      "price": 25.65,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "新竹",
-      "gift": "輕薄辦公室便利貼 參考圖",
+      "gift": "輕薄辦公室便利貼",
       "giftTypes": [
         "其他"
       ],
@@ -5888,13 +5888,13 @@
     {
       "code": "6237",
       "name": "驊訊",
-      "price": 40.9,
+      "price": 41.3,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 商品卡50元 參考圖",
+      "gift": "7-11 商品卡50元",
       "giftTypes": [
         "提貨券"
       ],
@@ -5904,13 +5904,13 @@
     {
       "code": "6742",
       "name": "澤米",
-      "price": 44.65,
+      "price": 44.4,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "苗栗",
-      "gift": "全家50元禮物卡 參考圖",
+      "gift": "全家50元禮物卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5920,13 +5920,13 @@
     {
       "code": "8038",
       "name": "長園科",
-      "price": 48.5,
+      "price": 48.55,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "台中",
-      "gift": "安妮兔時尚調味瓶400ML 參考圖",
+      "gift": "安妮兔時尚調味瓶400ML",
       "giftTypes": [
         "其他"
       ],
@@ -5936,13 +5936,13 @@
     {
       "code": "8050",
       "name": "廣積",
-      "price": 42.2,
+      "price": 43.0,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "台北",
-      "gift": "康寧耐熱玻璃烤盤7吋 參考圖",
+      "gift": "康寧耐熱玻璃烤盤7吋",
       "giftTypes": [
         "其他"
       ],
@@ -5952,13 +5952,13 @@
     {
       "code": "8096",
       "name": "擎亞",
-      "price": 96.2,
+      "price": 95.6,
       "buyDate": "2026-04-23",
       "buyDateRaw": "04/23",
       "meetingDate": "2026-06-26",
       "type": "常會",
       "location": "更正",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -5974,7 +5974,7 @@
       "meetingDate": "2026-06-29",
       "type": "常會",
       "location": "台中",
-      "gift": "伊莎貝爾櫻花抗菌皂  重量：75g +13g 產地：印尼 參考圖",
+      "gift": "伊莎貝爾櫻花抗菌皂  重量：75g +13g 產地：印尼",
       "giftTypes": [
         "日用品"
       ],
@@ -5984,13 +5984,13 @@
     {
       "code": "2734",
       "name": "易飛網",
-      "price": 17.1,
+      "price": 17.05,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
       "type": "常會",
       "location": "台北",
-      "gift": "ESG永續公益刨刀 參考圖",
+      "gift": "ESG永續公益刨刀",
       "giftTypes": [
         "其他"
       ],
@@ -6000,13 +6000,13 @@
     {
       "code": "3057",
       "name": "喬鼎",
-      "price": 19.0,
+      "price": 19.3,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
       "type": "常會",
       "location": "新竹",
-      "gift": "摺疊餐具組 參考圖",
+      "gift": "摺疊餐具組",
       "giftTypes": [
         "其他"
       ],
@@ -6016,13 +6016,13 @@
     {
       "code": "3325",
       "name": "旭品",
-      "price": 14.5,
+      "price": 14.45,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
       "type": "常會",
       "location": "新北",
-      "gift": "7-11 50元商品卡一張 參考圖",
+      "gift": "7-11 50元商品卡一張",
       "giftTypes": [
         "提貨券"
       ],
@@ -6038,7 +6038,7 @@
       "meetingDate": "2026-06-29",
       "type": "常會",
       "location": "雲林",
-      "gift": "洗碗精 參考圖",
+      "gift": "洗碗精",
       "giftTypes": [
         "日用品"
       ],
@@ -6048,13 +6048,13 @@
     {
       "code": "4960",
       "name": "誠美材",
-      "price": 44.5,
+      "price": 44.95,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
       "type": "常會",
       "location": "台南",
-      "gift": "7-11 100元商品卡 參考圖",
+      "gift": "7-11 100元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -6064,13 +6064,13 @@
     {
       "code": "5905",
       "name": "南仁湖",
-      "price": 8.16,
+      "price": 8.2,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
       "type": "常會",
       "location": "高雄",
-      "gift": "小墾丁渡假村300元住宿抵用券 參考圖",
+      "gift": "小墾丁渡假村300元住宿抵用券",
       "giftTypes": [
         "提貨券"
       ],
@@ -6080,13 +6080,13 @@
     {
       "code": "6169",
       "name": "昱泉",
-      "price": 16.85,
+      "price": 16.95,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
       "type": "常會",
       "location": "台中",
-      "gift": "清新植感草本皂 參考圖",
+      "gift": "清新植感草本皂",
       "giftTypes": [
         "日用品"
       ],
@@ -6096,13 +6096,13 @@
     {
       "code": "6229",
       "name": "研通",
-      "price": 27.1,
+      "price": 26.85,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-30",
       "type": "常會",
       "location": "新北",
-      "gift": "捲尺 參考圖",
+      "gift": "捲尺",
       "giftTypes": [
         "其他"
       ],
@@ -6112,13 +6112,13 @@
     {
       "code": "6618",
       "name": "永虹先進",
-      "price": 20.25,
+      "price": 20.3,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
       "type": "常會",
       "location": "南投",
-      "gift": "超商 50元商品卡 參考圖",
+      "gift": "超商 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
@@ -6128,13 +6128,13 @@
     {
       "code": "7729",
       "name": "仲恩生醫",
-      "price": 81.2,
+      "price": 81.8,
       "buyDate": "2026-04-28",
       "buyDateRaw": "04/28",
       "meetingDate": "2026-06-29",
       "type": "常會",
       "location": "台北",
-      "gift": "7-11 50元商品卡 參考圖",
+      "gift": "7-11 50元商品卡",
       "giftTypes": [
         "提貨券"
       ],
